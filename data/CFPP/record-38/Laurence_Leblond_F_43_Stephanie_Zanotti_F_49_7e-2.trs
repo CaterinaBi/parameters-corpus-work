@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Trans SYSTEM "https://cocoon.huma-num.fr/schemas/trans-14.dtd">
+<Trans scribe="Sandy Bichon" audio_filename="Laurence_Leblond_F_43_Stephanie_Zanotti_F_49_7e-2.wav" version="33" version_date="29-OCT-2007">
+<Topics>
+<Topic id="to1" desc="changements"/>
+<Topic id="to2" desc="spéculation immobilière"/>
+<Topic id="to3" desc="les étrangers"/>
+<Topic id="to4" desc="gardiennes d'immeubles"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="Stéphanie Zanotti" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Florence Lefeuvre (ENQ)" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="Laurence Leblond" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="44.37" topic="to4">
+<Turn startTime="0" endTime="1.804">
+<Sync time="0"/>
+
+<Event desc="conversation de fond" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.804" endTime="3.734">
+<Sync time="1.804"/>
+je sais plus je sais plus où est-ce qu'on en était 
+</Turn>
+<Turn speaker="spk2" startTime="3.734" endTime="4.249">
+<Sync time="3.734"/>
+alors oui 
+</Turn>
+<Turn speaker="spk1" startTime="4.249" endTime="5.316">
+<Sync time="4.249"/>
+ah au gardiennage 
+</Turn>
+<Turn speaker="spk3" startTime="5.316" endTime="7.145">
+<Sync time="5.316"/>
+oui les gardiennes d'immeuble 
+</Turn>
+<Turn speaker="spk1" startTime="7.145" endTime="7.903">
+<Sync time="7.145"/>
+ah oui que chez nous on n'avait pas de gardiennes 
+</Turn>
+<Turn speaker="spk3" startTime="7.903" endTime="14.898">
+<Sync time="7.903"/>
+c'est vrai que c'est très important en même temps c'est vrai que ça a un prix mais on enfin toujours au niveau sécurité aide des personnes relations dans le quartier tout ça c'est c'est 
+</Turn>
+<Turn speaker="spk2" startTime="14.898" endTime="16.095">
+<Sync time="14.898"/>
+oui je comprends 
+</Turn>
+<Turn speaker="spk3" startTime="16.095" endTime="19.372">
+<Sync time="16.095"/>
+c'est formidable c'est très important moi je trouve oui 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="19.372" endTime="20.704">
+<Sync time="19.372"/>
+<Who nb="1"/>
+pour les enfants 
+<Who nb="2"/>
+enfin il y a des <Comment desc="suite de syllabes incompréhensibles"/> 
+</Turn>
+<Turn speaker="spk1" startTime="20.704" endTime="42.128">
+<Sync time="20.704"/>
+moi <Comment desc="suite de syllabes incompréhensibles"/> quand je vois j'avais trouvé pour ma fille une gardienne de qui est devenue une amie que j'adore qui s'est occupée de ma fille quand elle quand elle était à la crèche pour aller la chercher et cetera donc euh c'est vraiment une dame absolument exceptionnelle bon nous on a une gardienne là bon qui qui qui travaille plus ou moins bien mais enfin bon comme partout hein on a <Comment desc="suite de syllabes incompréhensibles"/> personnel 
+</Turn>
+<Turn speaker="spk3" startTime="42.128" endTime="44.370">
+<Sync time="42.128"/>
+ben oui c'est pas toujours facile de 
+</Turn>
+</Section>
+<Section type="report" topic="to1" startTime="44.37" endTime="142.525">
+<Turn speaker="spk2" startTime="44.370" endTime="51.534">
+<Sync time="44.370"/>
+et est-ce que vous avez remarqué des des changements dans le quartier est-ce qu'il y a des choses qui ont changé au cours du temps des commerces par exemple qui ont 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="51.534" endTime="53.364">
+<Sync time="51.534"/>
+<Who nb="1"/>
+fermé ouvert 
+<Who nb="2"/>
+ben oui bien sûr 
+</Turn>
+<Turn speaker="spk1" startTime="53.364" endTime="54.544">
+<Sync time="53.364"/>
+beaucoup de commerces de de 
+</Turn>
+<Turn speaker="spk3" startTime="54.544" endTime="59.900">
+<Sync time="54.544"/>
+il y a de moins en moins de commerces de bouche d'alimentation et de plus en plus de banques agences immobilières 
+</Turn>
+<Turn speaker="spk1" startTime="59.900" endTime="60.291">
+<Sync time="59.900"/>
+ah oui les agences immobilières 
+</Turn>
+<Turn speaker="spk3" startTime="60.291" endTime="64.928">
+<Sync time="60.291"/>
+traiteurs chinois ah on est envahis par les traiteurs chinois et euh 
+</Turn>
+<Turn speaker="spk1" startTime="64.928" endTime="65.857">
+<Sync time="64.928"/>
+et les fringues 
+</Turn>
+<Turn speaker="spk3" startTime="65.857" endTime="66.597">
+<Sync time="65.857"/>
+et les fringues 
+</Turn>
+<Turn speaker="spk1" startTime="66.597" endTime="67.586">
+<Sync time="66.597"/>
+ah là là il y en a 
+</Turn>
+<Turn speaker="spk3" startTime="67.586" endTime="69.753">
+<Sync time="67.586"/>
+parce que c'est pas vraiment enfin du beau prêt-à-porter il y a un peu de tout 
+</Turn>
+<Turn speaker="spk1" startTime="69.753" endTime="71.468">
+<Sync time="69.753"/>
+oui rue Saint-Do oui il y a 
+</Turn>
+<Turn speaker="spk3" startTime="71.468" endTime="142.525">
+<Sync time="71.468"/>
+ah oui ça d'ailleurs bon beaucoup de gens s'en plaignent hein c'est malheureux parce que on a une association des commerçants de l'arrondissement qui est très active euh avec les artisans enfin vous voyez tous ces commerces là qui font beaucoup d'activités notamment ils font une activité enfin une manifestation tous les ans qui s'appelle les sept jours du septième et donc il y a beaucoup d'animations dans les chez les commerçants euh ils organisent des une promenade en vélo pendant enfin moi je parle de ça parce que c'est la seule fois où je fais du vélo dans Paris justement je trouve ça très bien euh ils nous permettent de faire le tour du quar- enfin du septième ils font tout un parcours balisé par la police à vélo et euh enfin il y a des des tas de manifestations vous voyez pendant ce ces sept jours euh avec en général des dons qui sont pour des des associations caritatives différentes chaque année et tout ça pour justement attirer les gens dans les commerces de proximité et faire vivre le commerce de proximité qui a du mal à survivre parce que c'est vrai que les gens peut-être qu'ils y vont moins parce que c'est un petit peu cher aussi il faut le dire parce que c'est pas toujours ouvert quand on en a besoin parce qu'il faut attendre 
+</Turn>
+</Section>
+<Section type="report" topic="to2" startTime="142.525" endTime="211.922">
+<Turn speaker="spk1" startTime="142.525" endTime="154.788">
+<Sync time="142.525"/>
+mais c'est vrai que quand on quand on voit là le prix du du le fait que quand tu parles de cherté quand on voit aussi le prix du mètre carré dans le septième moi je me pose aussi des questions en disant mais comment feront les enfants hein de dire 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="154.788" endTime="157.910">
+<Sync time="154.788"/>
+<Who nb="1"/>
+mais euh moi ça c'est je je trouve que ça 
+<Who nb="2"/>
+à ce niveau-là c'est de pire en pire 
+</Turn>
+<Turn speaker="spk1" startTime="157.910" endTime="161.880">
+<Sync time="157.910"/>
+on par-parl- tu parlais tout à l'heure d'agences immobilières j'en vois effectivement qui se créent presque toutes les semaines 
+</Turn>
+<Turn speaker="spk3" startTime="161.880" endTime="163.273">
+<Sync time="161.880"/>
+oui on se demande comment ça fonctionne 
+</Turn>
+<Turn speaker="spk1" startTime="163.273" endTime="175.323">
+<Sync time="163.273"/>
+alors je veux dire comment effectivement ça fonctionne et puis quand on voit le prix du mètre carré je veux dire ah je trouve ça inadmissible parce que quand je vois le prix du mètre carré déjà mais comment feront les enfants même pour acheter un cin- cinquante mètres carrés il faudrait il faudrait qu'ils s'endettent sur cinquante ans enfin ils pourront même pas 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="175.323" endTime="177.500">
+<Sync time="175.323"/>
+<Who nb="1"/>
+mais alors justement c'est une évolution aussi 
+<Who nb="2"/>
+alors ça ça moi je trouve ça oui 
+</Turn>
+<Turn speaker="spk3" startTime="177.500" endTime="186.143">
+<Sync time="177.500"/>
+je pense dans le quartier c'est que il y a enfin pourquoi il y a de la surenchère enfin moi ce que j'entends dire justement par les agences immobilières c'est que souvent il y a beaucoup de ben d'étrangers 
+</Turn>
+<Turn speaker="spk1" startTime="186.143" endTime="186.361">
+<Sync time="186.143"/>
+qui achètent oui 
+</Turn>
+<Turn speaker="spk3" startTime="186.361" endTime="201.393">
+<Sync time="186.361"/>
+enfin richissimes qui arrivent avec l'argent cash ils achètent l'appartement ben forcément que les agences immobilières sont ravies de les trouver et du coup ça renchérit le prix du mètre carré et les personnes qui sont là depuis des années voire des générations ont du mal après à 
+</Turn>
+<Turn speaker="spk1" startTime="201.393" endTime="202.645">
+<Sync time="201.393"/>
+ça va se vider le septième à un moment donné 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="202.645" endTime="205.127">
+<Sync time="202.645"/>
+<Who nb="1"/>
+moi je vous le dis ils pourront pas 
+<Who nb="2"/>
+à suivre parce que c'est vrai que les jeunes familles 
+</Turn>
+<Turn speaker="spk3" startTime="205.127" endTime="207.350">
+<Sync time="205.127"/>
+enfin les foyers qui débutent ils peuvent pas rester là en général 
+</Turn>
+<Turn speaker="spk1" startTime="207.350" endTime="208.856">
+<Sync time="207.350"/>
+ah oui moi je trouve ça euh 
+</Turn>
+<Turn speaker="spk2" startTime="208.856" endTime="210.946">
+<Sync time="208.856"/>
+vous avez l'impression que la population change 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="210.946" endTime="211.922">
+<Sync time="210.946"/>
+<Who nb="1"/>
+ah oui oui 
+<Who nb="2"/>
+oui oui c'est sûr 
+</Turn>
+</Section>
+<Section type="report" topic="to3" startTime="211.922" endTime="234.498">
+<Turn speaker="spk1" startTime="211.922" endTime="213.816">
+<Sync time="211.922"/>
+à mon avis il y aura beaucoup de plus en plus d'étrangers 
+</Turn>
+<Turn speaker="spk3" startTime="213.816" endTime="234.498">
+<Sync time="213.816"/>
+vous avez aussi oui voilà beaucoup d'étrangers qui sont là que la moitié de l'année en plus souvent qui du coup ben pour les commerces justement de proximité c'est pas une c'est pas vraiment une affaire enfin je sais pas si quand ils sont là ils dépensent deux fois plus que les autres peut-être aussi hein mais c'est vrai que là-dessus c'est un petit peu dommage bon comment enfin on va pas empêcher ça non plus tant mieux pour nous c'est le succès de 
+</Turn>
+</Section>
+</Episode>
+</Trans>

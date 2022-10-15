@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OAI-PMH xmlns='http://www.openarchives.org/OAI/2.0/' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd'>
+<responseDate>2022-10-14T21:26:10Z</responseDate>
+<request identifier='oai:crdo.vjf.cnrs.fr:cocoon-40f684ff-a2d7-365d-a615-339f2dd462ef' metadataPrefix='crdo_dcq' verb='GetRecord' >http://cocoon.huma-num.fr/crdo_servlet/oai-pmh</request>
+<GetRecord>
+<record>
+    <header>
+        <identifier>oai:crdo.vjf.cnrs.fr:cocoon-40f684ff-a2d7-365d-a615-339f2dd462ef</identifier>
+        <datestamp>2020-11-28</datestamp>
+        <setSpec>Linguistique</setSpec>
+        <setSpec>set-8bc96a4e-9899-30e4-99be-c72d216eb38b</setSpec>
+        <setSpec>set-fb6071ef-fb7f-4f0d-a071-effb7fef0dd6:set-fd48c512-26d0-3bd3-b02b-4ae995285d05</setSpec>
+    </header>
+    <metadata>
+        <crdo_dcq:dcq xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:crdo_dcq="http://crdo.risc.cnrs.fr/schemas/dcq/" xsi:schemaLocation="http://crdo.risc.cnrs.fr/schemas/dcq/ https://cocoon.huma-num.fr/schemas/dcq.xsd">
+            <dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-40f684ff-a2d7-365d-a615-339f2dd462ef</dc:identifier>
+            <dc:identifier xsi:type="dcterms:URI">https://doi.org/10.34847/cocoon.40f684ff-a2d7-365d-a615-339f2dd462ef</dc:identifier>
+            <dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-344517</dc:identifier>
+            <dc:title xml:lang="fr">Entretien de Youcef Zerari et Abdel Hachim</dc:title>
+            <dc:description xml:lang="fr">Enregistrement issu du Corpus de Français Parlé Parisien des années 2000 (CFPP2000)</dc:description>
+            <dc:description xml:lang="fr">Lieu : Au domicile de l'enquêteur; Quartier concerné : Saint-Ouen; Anonymisation : Sonia Branca-Rosoff;</dc:description>
+            <dc:description xml:lang="fr">Commentaire: Contenu : Youcef et Abdel évoquent entre autres - Les Puces, le plus grand marché de brocante de Paris ; - les Vélib' mot valise (contraction de vélo et liberté), système de vélos en libre-service (disponible depuis 2007) - ArcelorMittal un groupe fondé en 2006 lorsqu'Arcelor et Mittal Steel propriété d'un milliardaire indien ont fusionné. Arcelor-Mittal a bénéficié de millions d'euros de fonds publics français destinés à défendre l'emploi ; cependant 75 % des emplois du secteur ont disparu. Chaque salarié licencié aura coûté à l'État français plus d'un million de francs. - l'ANPE : Agence nationale pour l'emploi (destinée à centraliser les offres et les demandes d'emploi. - Lenôtre un célèbre patissier parisien - Proglio ; considéré comme un proche du président Sarkozy, ce grand patron a pris la tête de Veolia Environnement en 2002 et est devenu un des patrons le mieux payé de France avec 1,6 million d'euros. En janvier 2010 il suscite une vive polémique après que le conseil d'administration de Véolia lui a accordé une rémunération de 450 000 € par an pour assurer la présidence de ce conseil tout en étant, par ailleurs PDG d'EDF. Après quelques jours, il est obligé d'abandonner la présidence de Véolia;</dc:description>
+            <dc:publisher>Langage et langues : description, théorisation, transmission</dc:publisher>
+            <dcterms:created xsi:type="dcterms:W3CDTF">2010-01-31</dcterms:created>
+            <dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/data/cfpp2000/Youcef_Zerari_H_29_Abdel_Hachim_H_25_SO.mp3</dc:identifier>
+            <dc:format xsi:type="dcterms:IMT">audio/x-wav</dc:format>
+            <dc:type xsi:type="dcterms:DCMIType">Sound</dc:type>
+            <dcterms:extent>PT145M00S</dcterms:extent>
+            <dcterms:accessRights>Freely accessible</dcterms:accessRights>
+            <dcterms:isPartOf xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-8bc96a4e-9899-30e4-99be-c72d216eb38b</dcterms:isPartOf>
+            <dcterms:isRequiredBy xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-6483076f-ac88-348d-81cb-a10d7f1022f9</dcterms:isRequiredBy>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-sa/3.0/</dcterms:license>
+            <dcterms:issued xsi:type="dcterms:W3CDTF">2013-04-23T23:19:42+02:00</dcterms:issued>
+            <dcterms:isFormatOf xsi:type="dcterms:URI">http://purl.org/net/crdo/data/cocoon-40f684ff-a2d7-365d-a615-339f2dd462ef.version1</dcterms:isFormatOf>
+            <dcterms:available xsi:type="dcterms:W3CDTF">2013-04-23</dcterms:available>
+            <dcterms:isPartOf xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-fd48c512-26d0-3bd3-b02b-4ae995285d05</dcterms:isPartOf>
+            <dcterms:spatial xml:lang="fr">France, Île-de-France, Seine-Saint-Denis, Saint-Ouen</dcterms:spatial>
+            <dcterms:spatial xsi:type="dcterms:ISO3166">FR</dcterms:spatial>
+            <dcterms:spatial xsi:type="dcterms:Point">east=2.33306;north=48.90694</dcterms:spatial>
+            <dc:type xml:lang="fr">Dialogue</dc:type>
+            <dc:type xml:lang="fr">Entretiens</dc:type>
+            <dc:type xml:lang="fr">Récits personnels</dc:type>
+            <dc:type xml:lang="fr">Conversation</dc:type>
+            <dc:subject xml:lang="fr">Saint-Ouen (Seine-Saint-Denis)</dc:subject>
+            <dc:subject xml:lang="fr">Débuts professionnels</dc:subject>
+            <dc:subject xml:lang="fr">Comportement humain</dc:subject>
+            <dc:subject xml:lang="fr">Sports</dc:subject>
+            <dc:subject xml:lang="fr">Professions</dc:subject>
+            <dc:subject xml:lang="fr">Comportement verbal</dc:subject>
+            <dc:subject xml:lang="fr">Relations humaines</dc:subject>
+            <dc:subject xml:lang="fr">Immigrés</dc:subject>
+            <dc:subject xml:lang="fr">Bandes de jeunes</dc:subject>
+            <dc:subject xml:lang="fr">Quartiers (urbanisme)</dc:subject>
+            <dc:subject xml:lang="fr">Marchés</dc:subject>
+            <dc:subject xml:lang="fr">Vol (droit)</dc:subject>
+            <dc:subject xml:lang="fr">Sécurité urbaine</dc:subject>
+            <dc:subject xml:lang="fr">Enfance et jeunesse</dc:subject>
+            <dc:subject xml:lang="fr">Enseignants</dc:subject>
+            <dc:subject xml:lang="fr">Enseignement supérieur</dc:subject>
+            <dc:subject xml:lang="fr">Voiles islamiques</dc:subject>
+            <dc:subject xml:lang="fr">Coexistence religieuse</dc:subject>
+            <dc:subject xml:lang="fr">Pêche</dc:subject>
+            <dc:subject xml:lang="fr">Parole</dc:subject>
+            <dc:subject xml:lang="fr">Accents et accentuation</dc:subject>
+            <dc:subject xml:lang="fr">Français (langue) -- Argot</dc:subject>
+            <dc:subject xml:lang="fr">Animaux</dc:subject>
+            <dc:subject xml:lang="fr">Bicyclettes</dc:subject>
+            <dc:subject xml:lang="fr">Transports urbains</dc:subject>
+            <dc:subject xml:lang="fr">Automobiles</dc:subject>
+            <dc:subject xml:lang="fr">Activités culturelles</dc:subject>
+            <dc:subject xml:lang="fr">Crises économiques</dc:subject>
+            <dc:subject xml:lang="fr">Logement</dc:subject>
+            <dcterms:spatial xml:lang="fr">Domicile d'un enquêté</dcterms:spatial>
+            <dc:identifier xml:lang="fr">Cote producteur: SO-02</dc:identifier>
+            <dc:identifier xml:lang="fr">Ancienne cote: crdo-CFPP2000_26_SOUND</dc:identifier>
+            <dc:language xsi:type="dcterms:ISO639-3">fra</dc:language>
+            <dc:language xml:lang="fr">Français</dc:language>
+            <dc:subject xsi:type="dcterms:ISO639-3">fra</dc:subject>
+            <dc:subject>Français</dc:subject>
+            <dc:subject>anthropological_linguistics</dc:subject>
+            <dc:subject>applied_linguistics</dc:subject>
+            <dc:subject>discourse_analysis</dc:subject>
+            <dc:subject>general_linguistics</dc:subject>
+            <dc:subject>historical_linguistics</dc:subject>
+            <dc:subject>lexicography</dc:subject>
+            <dc:subject>morphology</dc:subject>
+            <dc:subject>phonetics</dc:subject>
+            <dc:subject>phonology</dc:subject>
+            <dc:subject>semantics</dc:subject>
+            <dc:subject>sociolinguistics</dc:subject>
+            <dc:subject>syntax</dc:subject>
+            <dc:subject>text_and_corpus_linguistics</dc:subject>
+            <dc:subject>typology</dc:subject>
+            <dc:type>formulaic</dc:type>
+            <dc:type>dialogue</dc:type>
+            <dc:type>narrative</dc:type>
+            <dc:type>report</dc:type>
+            <dc:type>procedural</dc:type>
+            <dc:type>unintelligible_speech</dc:type>
+            <dc:type>primary_text</dc:type>
+            <dc:creator>Branca-Rosoff, Sonia</dc:creator>
+            <dc:contributor>Branca-Rosoff, Sonia (interviewer)</dc:contributor>
+            <dc:contributor>Zerari, Youcef (speaker)</dc:contributor>
+            <dc:contributor>Hachim, Abdel (speaker)</dc:contributor>
+            <dc:contributor>Jean-Paul (participant)</dc:contributor>
+            <dc:contributor>Branca-Rosoff, Sonia (depositor)</dc:contributor>
+        </crdo_dcq:dcq>
+    </metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

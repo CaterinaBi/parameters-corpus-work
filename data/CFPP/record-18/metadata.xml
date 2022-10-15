@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OAI-PMH xmlns='http://www.openarchives.org/OAI/2.0/' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd'>
+<responseDate>2022-10-14T21:26:10Z</responseDate>
+<request identifier='oai:crdo.vjf.cnrs.fr:cocoon-fae72399-e4d3-3638-9ab9-667bca5a7530' metadataPrefix='crdo_dcq' verb='GetRecord' >http://cocoon.huma-num.fr/crdo_servlet/oai-pmh</request>
+<GetRecord>
+<record>
+    <header>
+        <identifier>oai:crdo.vjf.cnrs.fr:cocoon-fae72399-e4d3-3638-9ab9-667bca5a7530</identifier>
+        <datestamp>2020-11-28</datestamp>
+        <setSpec>Linguistique</setSpec>
+        <setSpec>set-8bc96a4e-9899-30e4-99be-c72d216eb38b</setSpec>
+        <setSpec>set-fb6071ef-fb7f-4f0d-a071-effb7fef0dd6:set-fd48c512-26d0-3bd3-b02b-4ae995285d05</setSpec>
+    </header>
+    <metadata>
+        <crdo_dcq:dcq xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:crdo_dcq="http://crdo.risc.cnrs.fr/schemas/dcq/" xsi:schemaLocation="http://crdo.risc.cnrs.fr/schemas/dcq/ https://cocoon.huma-num.fr/schemas/dcq.xsd">
+            <dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-fae72399-e4d3-3638-9ab9-667bca5a7530</dc:identifier>
+            <dc:identifier xsi:type="dcterms:URI">https://doi.org/10.34847/cocoon.fae72399-e4d3-3638-9ab9-667bca5a7530</dc:identifier>
+            <dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-372593</dc:identifier>
+            <dc:relation xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-b5fe36b1-8af3-36c1-8e4e-f56905d17ca9</dc:relation>
+            <dcterms:isPartOf xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-8bc96a4e-9899-30e4-99be-c72d216eb38b</dcterms:isPartOf>
+            <dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/data/cfpp2000/Ozgur_Kilic_H_32_alii_3e-2.mp3</dc:identifier>
+            <dcterms:isFormatOf xsi:type="dcterms:URI">http://purl.org/net/crdo/data/cocoon-fae72399-e4d3-3638-9ab9-667bca5a7530.version1</dcterms:isFormatOf>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-sa/3.0/</dcterms:license>
+            <dcterms:accessRights>Freely accessible</dcterms:accessRights>
+            <dcterms:isRequiredBy xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-42be406b-f6e3-3399-b776-f55f69b584c3</dcterms:isRequiredBy>
+            <dc:title xml:lang="fr">Entretien de Ozgur Kiliç 2</dc:title>
+            <dc:description xml:lang="fr">Enregistrement issu du Corpus de Français Parlé Parisien des années 2000 (CFPP2000)</dc:description>
+            <dc:description xml:lang="fr">Quartier(s) concerné(s) : Paris 3e, et 20e (pour l'âge adulte); Anonymisation : Noalig TANGUY;</dc:description>
+            <dc:publisher>Langage et langues : description, théorisation, transmission</dc:publisher>
+            <dcterms:created xsi:type="dcterms:W3CDTF">2010-11-17</dcterms:created>
+            <dcterms:extent>PT48M26S</dcterms:extent>
+            <dc:coverage xml:lang="fr">Quartier concerné : 3e</dc:coverage>
+            <dc:format xsi:type="dcterms:IMT">audio/x-wav</dc:format>
+            <dc:type xsi:type="dcterms:DCMIType">Sound</dc:type>
+            <dcterms:issued xsi:type="dcterms:W3CDTF">2013-10-12T14:35:57+02:00</dcterms:issued>
+            <dcterms:available xsi:type="dcterms:W3CDTF">2013-10-12</dcterms:available>
+            <dcterms:isPartOf xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-fd48c512-26d0-3bd3-b02b-4ae995285d05</dcterms:isPartOf>
+            <dcterms:spatial xml:lang="fr">France, Île-de-France, Paris, Paris, 20ème arrondissement</dcterms:spatial>
+            <dcterms:spatial xsi:type="dcterms:ISO3166">FR</dcterms:spatial>
+            <dcterms:spatial xsi:type="dcterms:Point">east=2.3984;north=48.8646</dcterms:spatial>
+            <dc:type xml:lang="fr">Dialogue</dc:type>
+            <dc:type xml:lang="fr">Entretiens</dc:type>
+            <dc:subject xml:lang="fr">Crises économiques</dc:subject>
+            <dc:subject xml:lang="fr">Professions</dc:subject>
+            <dc:subject xml:lang="fr">Sans-abri</dc:subject>
+            <dc:subject xml:lang="fr">Musique</dc:subject>
+            <dc:subject xml:lang="fr">Restaurants</dc:subject>
+            <dc:subject xml:lang="fr">Tourisme</dc:subject>
+            <dc:subject xml:lang="fr">Immigrés</dc:subject>
+            <dc:subject xml:lang="fr">Communautarisme</dc:subject>
+            <dc:subject xml:lang="fr">Activités culturelles</dc:subject>
+            <dc:subject xml:lang="fr">Sports</dc:subject>
+            <dc:subject xml:lang="fr">Équipements collectifs</dc:subject>
+            <dc:subject xml:lang="fr">Incendies</dc:subject>
+            <dcterms:spatial xml:lang="fr">Domicile de Ozgur Kiliç</dcterms:spatial>
+            <dc:identifier xml:lang="fr">Cote producteur: [03-01] Ozgur_Kilic_H_32_alii_3e</dc:identifier>
+            <dc:identifier xml:lang="fr">Ancienne cote: crdo-CFPP2000_35_SOUND</dc:identifier>
+            <dc:subject xsi:type="dcterms:ISO639-3">fra</dc:subject>
+            <dc:subject>Français</dc:subject>
+            <dc:language xsi:type="dcterms:ISO639-3">fra</dc:language>
+            <dc:language xml:lang="fr">Français</dc:language>
+            <dc:subject>anthropological_linguistics</dc:subject>
+            <dc:subject>discourse_analysis</dc:subject>
+            <dc:subject>general_linguistics</dc:subject>
+            <dc:subject>historical_linguistics</dc:subject>
+            <dc:subject>language_documentation</dc:subject>
+            <dc:subject>lexicography</dc:subject>
+            <dc:subject>mathematical_linguistics</dc:subject>
+            <dc:subject>phonetics</dc:subject>
+            <dc:subject>phonology</dc:subject>
+            <dc:subject>semantics</dc:subject>
+            <dc:subject>sociolinguistics</dc:subject>
+            <dc:subject>syntax</dc:subject>
+            <dc:subject>text_and_corpus_linguistics</dc:subject>
+            <dc:subject>typology</dc:subject>
+            <dc:type>narrative</dc:type>
+            <dc:type>report</dc:type>
+            <dc:type>unintelligible_speech</dc:type>
+            <dc:type>primary_text</dc:type>
+            <dc:creator>Branca-Rosoff, Sonia</dc:creator>
+            <dc:contributor>Branca-Rosoff, Sonia (interviewer)</dc:contributor>
+            <dc:contributor>Kiliç, Ozgur (speaker)</dc:contributor>
+            <dc:contributor>Chevrier, Michel (speaker)</dc:contributor>
+            <dc:contributor>du-Breuil-de-Pont-en-Auge, Benoît (speaker)</dc:contributor>
+            <dc:contributor>du-Breuil-de-Pont-en-Auge, Augustin (speaker)</dc:contributor>
+            <dc:contributor>Salvegas, Etienne (speaker)</dc:contributor>
+            <dc:contributor>Tanguy, Noalig (transcriber)</dc:contributor>
+            <dc:contributor>Branca-Rosoff, Sonia (depositor)</dc:contributor>
+        </crdo_dcq:dcq>
+    </metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,3175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Trans SYSTEM "https://cocoon.huma-num.fr/schemas/trans-14.dtd">
+<Trans scribe="Mat Pires" audio_filename="Marie_Helene_Matera_F_67_Mo-2" version="29" version_date="19-JUN-2008">
+<Speakers>
+<Speaker id="spk1" name="Mat Pires (ENQ)" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Marie-Hélène Matera" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="Mireille Masson" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="2464.461">
+<Turn startTime="0" endTime="6.081" speaker="spk1">
+<Sync time="0"/>
+alors je vais vous po- poser un quelques questions sur les langues que qui se parlent dans le quartier 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="6.081" endTime="11.129">
+<Sync time="6.081"/>
+<Who nb="1"/>
+parce que vous avez déjà évoqué l'italien par exemple il y en a il y en a plus 
+<Who nb="2"/>
+ah bah alors là oui parce que les langues non pas tellement mais 
+</Turn>
+<Turn speaker="spk2" startTime="11.129" endTime="29.409">
+<Sync time="11.129"/>
+l'empreinte des des manouches parce qu'il y a des il y avait beaucoup de manouches et il y en a peut-être encore beaucoup à Montreuil eh et on a piqué comme de ci de là quelques mots manouches ou gitans ou je ne sais quoi par exemple qu'est-ce que je pourrais vous citer comme mais même des fois entre nous on aime bien 
+</Turn>
+<Turn speaker="spk1" startTime="29.409" endTime="30.283">
+<Sync time="29.409"/>
+ouais ouais ouais bien sûr 
+</Turn>
+<Turn speaker="spk2" startTime="30.283" endTime="40.787">
+<Sync time="30.283"/>
+employer ce mot par exemple euh on dit euh euh quelque chose est sympathique vous savez ou quelque chose de bien on dit mishto mishto ça veut dire c'est bien ça ça vaut le coup c'est c'est sympa 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="40.787" endTime="43.546">
+<Sync time="40.787"/>
+<Who nb="1"/>
+on peut pas le traduire c'est intraduisible 
+<Who nb="2"/>
+mm mh oui oui d'accord 
+</Turn>
+<Turn speaker="spk2" startTime="43.546" endTime="46.812">
+<Sync time="43.546"/>
+mais mishto ça reste un mot qu'on emploie 
+</Turn>
+<Turn speaker="spk1" startTime="46.812" endTime="47.228">
+<Sync time="46.812"/>
+bien sûr 
+</Turn>
+<Turn speaker="spk2" startTime="47.228" endTime="50.256">
+<Sync time="47.228"/>
+bon qu'est-ce qu'on dit encore il y a des gros mots mais ça je vous le dirai pas 
+</Turn>
+<Turn speaker="spk1" startTime="50.256" endTime="51.673">
+<Sync time="50.256"/>
+oh si allez-y 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="51.673" endTime="58.14">
+<Sync time="51.673"/>
+oh euh par exemple attendez voir qu'est-ce qu'on dit comme gros mot <Comment desc="suite de syllabes incompréhensibles"/> on les retient bien les gros mots hein 
+</Turn>
+<Turn speaker="spk1" startTime="58.14" endTime="58.675">
+<Sync time="58.14"/>
+oh oui 
+</Turn>
+<Turn speaker="spk2" startTime="58.675" endTime="96.071">
+<Sync time="58.675"/>
+plus que les mots plus que les mots jolis les mots de la les beaux mots de la langue française bon par exemple euh attendez voir qu'est-ce qu'on dit comme gros mot bon non je vais pas vous dire celui-là mais j'- un mot des des lovés des lovés c'est du c'est des sous ah j'ai pas beaucoup de lovés ça c'est c'est de l'argent vous voyez euh dicave ça veut dire oh regarde oh dicavez dicave euh le gadjo dicave le le le mec dicave le le le garçon le gadjo c'est un garçon 
+</Turn>
+<Turn speaker="spk1" startTime="96.071" endTime="96.954">
+<Sync time="96.071"/>
+oui oui oui oui 
+</Turn>
+<Turn speaker="spk2" startTime="96.954" endTime="101.467">
+<Sync time="96.954"/>
+la gadji c'est la fille voyez o- dicave ça veut dire ça 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="101.467" endTime="106.486">
+<Sync time="101.467"/>
+<Who nb="1"/>
+regarde oui on aime bien parce qu'on aime bien non 
+<Who nb="2"/>
+et vous autres vous preniez un langage vous parliez comme ça parce que vous aviez un petit tsigane avec vous <Comment desc="suite de syllabes incompréhensibles"/> 
+</Turn>
+<Turn speaker="spk2" startTime="106.486" endTime="114.302">
+<Sync time="106.486"/>
+non parce que ça <Comment desc="suite de syllabes incompréhensibles"/> dans dans le non pas spécialement mais c'est venu com- comment c'est venu je peux pas vous dire je peux pas je saurais pas 
+</Turn>
+<Turn speaker="spk1" startTime="114.302" endTime="117.178">
+<Sync time="114.302"/>
+et et c'est il y avait des communautés manouches 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="117.178" endTime="118.867">
+<Sync time="117.178"/>
+<Who nb="1"/>
+alors à l'époque dans Montreuil 
+<Who nb="2"/>
+ah oui il y avait des communautés 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="118.867" endTime="121.404">
+<Sync time="118.867"/>
+<Who nb="1"/>
+surtout rue des Ruffins il y en avait il y en avait rue de l'Etoile 
+<Who nb="2"/>
+il y en a encore <Comment desc="suite de syllabes incompréhensibles"/> 
+</Turn>
+<Turn speaker="spk2" startTime="121.404" endTime="125.968">
+<Sync time="121.404"/>
+rue de l'Etoile qui n'existe plus lé- chemin de l'Etoile il y en a encore qui ha- qui 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="125.968" endTime="127.597">
+<Sync time="125.968"/>
+<Who nb="1"/>
+habitent à côté 
+<Who nb="2"/>
+habitent en bas de la rue des Ruffins 
+</Turn>
+<Turn speaker="spk2" startTime="127.597" endTime="140.538">
+<Sync time="127.597"/>
+oui à côté de l'église Saint-Charles il y en a euh il y en avait en bas à Montreuil surtout il y en avait du côté de la mairie mais les rues je sais pas quelle rue on les voyait surtout aux bouches du métro 
+</Turn>
+<Turn speaker="spk1" startTime="140.538" endTime="140.853">
+<Sync time="140.538"/>
+mm 
+</Turn>
+<Turn speaker="spk2" startTime="140.853" endTime="141.566">
+<Sync time="140.853"/>
+on les reconnaît 
+</Turn>
+<Turn speaker="spk1" startTime="141.566" endTime="142.482">
+<Sync time="141.566"/>
+d'accord ouais ouais 
+</Turn>
+<Turn speaker="spk2" startTime="142.482" endTime="152.68">
+<Sync time="142.482"/>
+il y en a peut-être moins maintenant parce que les femmes on les reconnaît ils sont habillées en longs vous savez ils ont toujours un voile dans les cheveux un ruban dans les cheveux ça c'est les robes longues les les comment 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="152.68" endTime="155.398">
+<Sync time="152.68"/>
+<Who nb="1"/>
+des claquettes assez colorées très amples 
+<Who nb="2"/>
+et des robes assez colorées 
+</Turn>
+<Turn speaker="spk2" startTime="155.398" endTime="165.623">
+<Sync time="155.398"/>
+et les claquettes et puis ah beh il y avait une belle maison là qui était occupée par les manouches qui a été vendue à côté des trois boutiques cette belle maison là je sais pas comment ils ont fait pour faire cette belle maison 
+</Turn>
+<Turn speaker="spk1" startTime="165.623" endTime="166.336">
+<Sync time="165.623"/>
+mm 
+</Turn>
+<Turn speaker="spk2" startTime="166.336" endTime="169.043">
+<Sync time="166.336"/>
+ils sont partis c'était des manouches 
+</Turn>
+<Turn speaker="spk1" startTime="169.043" endTime="173.154">
+<Sync time="169.043"/>
+et l'italien ça se parle plus parce que j'avais l'impression que vous aviez un accent 
+</Turn>
+<Turn speaker="spk2" startTime="173.154" endTime="173.503">
+<Sync time="173.154"/>
+ah bon 
+</Turn>
+<Turn speaker="spk1" startTime="173.503" endTime="174.886">
+<Sync time="173.503"/>
+un bon accent en italien non les 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="174.886" endTime="176.677">
+<Sync time="174.886"/>
+<Who nb="1"/>
+elle prononce bien l'italien 
+<Who nb="2"/>
+quelques mots que vous avez dits <Comment desc="suite de syllabes incompréhensibles"/> 
+</Turn>
+<Turn speaker="spk2" startTime="176.677" endTime="179.138">
+<Sync time="176.677"/>
+non mais je ne sais pas le parler du tout hein je comprends 
+</Turn>
+<Turn speaker="spk3" startTime="179.138" endTime="180.47">
+<Sync time="179.138"/>
+mais quand vous citez des villes 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="180.47" endTime="184.177">
+<Sync time="180.47"/>
+<Who nb="1"/>
+vous le dites avec le vrai accent nous on dirait pas ça hein 
+<Who nb="2"/>
+ah bah oui voilà 
+</Turn>
+<Turn speaker="spk1" startTime="184.177" endTime="193.465">
+<Sync time="184.177"/>
+oui bah oui ça j'ai appris mais moi c'est surtout mes mes mes grands-pa- enfin mes parents ils parlaient pas le vrai italien parce qu'il y a la langue le vrai italien 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="193.465" endTime="196.282">
+<Sync time="193.465"/>
+<Who nb="1"/>
+il y a le patois il y a tellement de dialectes que nous on parlait 
+<Who nb="2"/>
+il y a des dialectes de de 
+</Turn>
+<Turn speaker="spk2" startTime="196.282" endTime="200.18">
+<Sync time="196.282"/>
+le patois mais je comprends le patois de la ville de mes parents 
+</Turn>
+<Turn speaker="spk1" startTime="200.18" endTime="200.866">
+<Sync time="200.18"/>
+de Piacenza c'est ça 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="200.866" endTime="203.48">
+<Sync time="200.866"/>
+<Who nb="1"/>
+voilà de Piacenza c'est 
+<Who nb="2"/>
+ah d'accord ah d'accord 
+</Turn>
+<Turn speaker="spk2" startTime="203.48" endTime="204.646">
+<Sync time="203.48"/>
+un dialecte spécial 
+</Turn>
+<Turn speaker="spk1" startTime="204.646" endTime="204.974">
+<Sync time="204.646"/>
+ouais 
+</Turn>
+<Turn speaker="spk2" startTime="204.974" endTime="214.904">
+<Sync time="204.974"/>
+et moi je peux pas je compare un petit peu euh au à la langue au au titi parisien à la langue un peu verte vous savez l'argot un peu c'est un peu le même genre 
+</Turn>
+<Turn speaker="spk1" startTime="214.904" endTime="215.46">
+<Sync time="214.904"/>
+d'accord ouais 
+</Turn>
+<Turn speaker="spk2" startTime="215.46" endTime="219.652">
+<Sync time="215.46"/>
+parce qu'on peut pas le traduire non plus l'argot on peut pas le traduire c'est comme ça 
+</Turn>
+<Turn speaker="spk3" startTime="219.652" endTime="220.767">
+<Sync time="219.652"/>
+bah oui oui oui 
+</Turn>
+<Turn speaker="spk1" startTime="220.767" endTime="221.072">
+<Sync time="220.767"/>
+ouais 
+</Turn>
+<Turn speaker="spk2" startTime="221.072" endTime="225.972">
+<Sync time="221.072"/>
+et et et en Italie bon bah il y a des c'est pareil comme dans tous les pays se ressemblent finalement 
+</Turn>
+<Turn speaker="spk1" startTime="225.972" endTime="228.484">
+<Sync time="225.972"/>
+bah c'est des langues qui sont assez proches en fait l'italien 
+</Turn>
+<Turn speaker="spk2" startTime="228.484" endTime="238.846">
+<Sync time="228.484"/>
+par contre je vous dit le manouche c'est arrivé comme ça moi je me rappelle mon frère il avait un copain qui s'appelait Laouachéra lui c'était un Manouche et je me rappelle de son nom Laouachéra 
+</Turn>
+<Turn speaker="spk1" startTime="238.846" endTime="249.741">
+<Sync time="238.846"/>
+d'accord ouais eum et et tout tout à l'heure vous avez évoqué quelques enfin des prononciations propres à Montreuil aussi il y a une manière de parler montreuillois 
+</Turn>
+<Turn speaker="spk2" startTime="249.741" endTime="252.637">
+<Sync time="249.741"/>
+je sais pas si il y a une manière de parler je sais pas 
+</Turn>
+<Turn speaker="spk1" startTime="252.637" endTime="258.274">
+<Sync time="252.637"/>
+vous avez évo- vous avez parlé d'un d'un commerçant qui prononçait les r ou enfin qui 
+</Turn>
+<Turn speaker="spk2" startTime="258.274" endTime="266.045">
+<Sync time="258.274"/>
+ah non eux parce que eux ils devaient venir de d'une région de France mais de laquelle ou de Bourgogne parce que 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="266.045" endTime="268.617">
+<Sync time="266.045"/>
+<Who nb="1"/>
+d'accord d'accord ouais ouais c'était pas un Montreuillois 
+<Who nb="2"/>
+ils roulaient un peu les r ou de Bourgogne 
+</Turn>
+<Turn speaker="spk2" startTime="268.617" endTime="269.899">
+<Sync time="268.617"/>
+non c'était pas un Montreuillois 
+</Turn>
+<Turn speaker="spk1" startTime="269.899" endTime="271.09">
+<Sync time="269.899"/>
+d'accord 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="271.09" endTime="273.526">
+<Sync time="271.09"/>
+<Who nb="1"/>
+<Comment desc="suite de syllabes incompréhensibles"/> oui 
+<Who nb="2"/>
+je sais pas si on a une manière de parler à Montreuil 
+</Turn>
+<Turn speaker="spk3" startTime="273.526" endTime="276.699">
+<Sync time="273.526"/>
+je pense pas qu'il puisse y avoir une spécificité comme ça 
+</Turn>
+<Turn speaker="spk2" startTime="276.699" endTime="280.913">
+<Sync time="276.699"/>
+à Montreuil je pense non non on est un peu titi aussi hein 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="280.913" endTime="287.413">
+<Sync time="280.913"/>
+<Who nb="1"/>
+oui alors à la limite on a l'accent de Paris si on doit avoir un accent c'est plutôt l'accent de Paris mais pas précisément montreuillois 
+<Who nb="2"/>
+voilà voilà voilà c'est plutôt l'accent oui 
+</Turn>
+<Turn speaker="spk1" startTime="287.413" endTime="294.218">
+<Sync time="287.413"/>
+mm d'accord est-ce que vous voyez une différence entre les les façons de parler des jeunes et des des personnes d'un certain âge 
+</Turn>
+<Turn speaker="spk2" startTime="294.218" endTime="299.451">
+<Sync time="294.218"/>
+oh bah les jeunes ils ont ils ont ils ont une manière de parler ils ont /<Comment desc="suite de syllabes incompréhensibles"/>, deux/ petites manières de parler alors là 
+</Turn>
+<Turn speaker="spk3" startTime="299.451" endTime="301.227">
+<Sync time="299.451"/>
+vous croyez qu'on peut répondre non à une question <Comment desc="suite de syllabes incompréhensibles"/> 
+</Turn>
+<Turn speaker="spk1" startTime="301.227" endTime="302.393">
+<Sync time="301.227"/>
+je sais pas je 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="302.393" endTime="303.915">
+<Sync time="302.393"/>
+<Who nb="1"/>
+c'est une question ouverte 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+oh là là on comprend 
+</Turn>
+<Turn speaker="spk2" startTime="303.915" endTime="310.974">
+<Sync time="303.915"/>
+plus rien de ce qu'ils racontent ah non ils ont un parler qui qu' un accent je sais pas où ils ont été chercher cet accent-là 
+</Turn>
+<Turn speaker="spk1" startTime="310.974" endTime="311.609">
+<Sync time="310.974"/>
+oui 
+</Turn>
+<Turn speaker="spk2" startTime="311.609" endTime="313.105">
+<Sync time="311.609"/>
+j'y comprends rien du tout 
+</Turn>
+<Turn speaker="spk1" startTime="313.105" endTime="313.512">
+<Sync time="313.105"/>
+oui 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="313.512" endTime="316.407">
+<Sync time="313.512"/>
+<Who nb="1"/>
+là je vous dis c'était notre Montreuil c'est fini c'est foutu 
+<Who nb="2"/>
+il est uniforme par contre 
+</Turn>
+<Turn speaker="spk3" startTime="316.407" endTime="319.239">
+<Sync time="316.407"/>
+qu'ils viennent de n'importe où les mômes ils ont le même accent 
+</Turn>
+<Turn speaker="spk2" startTime="319.239" endTime="323.085">
+<Sync time="319.239"/>
+et ils marchent aussi de la même vous avez remarqué cette cette manière 
+<Sync time="322.146"/>
+là ils sont dans 
+</Turn>
+<Turn speaker="spk2" startTime="323.085" endTime="325.252">
+<Sync time="323.085"/>
+vous avez pas remarqué la manière de marcher 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="325.252" endTime="328.837">
+<Sync time="325.252"/>
+<Who nb="1"/>
+c'est genre rouler des mécaniques non c'est pas c'est pas <Comment desc="suite de syllabes incompréhensibles"/> 
+<Who nb="2"/>
+vous avez pas remarqué c'est pas ça ils ont une manière 
+</Turn>
+<Turn speaker="spk3" startTime="328.837" endTime="333.432">
+<Sync time="328.837"/>
+et comme ils ont le pantalon sur les les jambes ils marchent peut-être pas 
+</Turn>
+<Turn speaker="spk2" startTime="333.432" endTime="335.831">
+<Sync time="333.432"/>
+ils ont une manière de marcher euh que j'ai repérée 
+</Turn>
+<Turn speaker="spk3" startTime="335.831" endTime="336.21">
+<Sync time="335.831"/>
+ah bon 
+</Turn>
+<Turn speaker="spk2" startTime="336.21" endTime="340.855">
+<Sync time="336.21"/>
+j'ai repéré ils marchent pareil presque pareil ils se sont peut-être donné le mot 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="340.855" endTime="346.85">
+<Sync time="340.855"/>
+<Who nb="1"/>
+ah bah c'est les modes ils sont dans un ils sont dans un schéma c'est mômes-là ils ont les mêmes <Comment desc="suite de syllabes incompréhensibles"/> 
+<Who nb="2"/>
+mm non mais c'est sûr que ça va ensemble ils s'habillent d'une ce- 
+</Turn>
+<Turn speaker="spk2" startTime="346.85" endTime="348.288">
+<Sync time="346.85"/>
+oui voilà c'est ça c'est ça 
+</Turn>
+<Turn speaker="spk3" startTime="348.288" endTime="353.395">
+<Sync time="348.288"/>
+fut' et tout donc et les mêmes paroles c'est vrai qu'ils parlent 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="353.395" endTime="355.111">
+<Sync time="353.395"/>
+non c'est bizarre ouais 
+</Turn>
+<Turn speaker="spk1" startTime="355.111" endTime="357.127">
+<Sync time="355.111"/>
+quand ils parlent entre eux da- quand ils quand ils 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="357.127" endTime="359.325">
+<Sync time="357.127"/>
+<Who nb="1"/>
+parler avec eux ils parlent 
+<Who nb="2"/>
+non mais je me demande où ils ont été chercher ces 
+</Turn>
+<Turn speaker="spk2" startTime="359.325" endTime="364.298">
+<Sync time="359.325"/>
+cette manière de parler cet accent de parler 
+</Turn>
+<Turn speaker="spk1" startTime="364.298" endTime="365.817">
+<Sync time="364.298"/>
+vous vous demandez d'où ça vient 
+</Turn>
+<Turn speaker="spk2" startTime="365.817" endTime="370.157">
+<Sync time="365.817"/>
+oui un petit peu quand même parce qu'ils fréquentent des Arabes 
+</Turn>
+<Turn speaker="spk3" startTime="370.157" endTime="371.166">
+<Sync time="370.157"/>
+oui je pense que 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="371.166" endTime="379.341">
+<Sync time="371.166"/>
+<Who nb="1"/>
+ils doivent fréquenter des Arabes l'accent beur voilà oui oui et ça fait bien oui c'est ça 
+<Who nb="2"/>
+c'est l'accent beur qui est repris par des des mômes qui n'ont pas de raison de l'avoir 
+</Turn>
+<Turn speaker="spk3" startTime="379.341" endTime="384.264">
+<Sync time="379.341"/>
+ça veut dire qu'il y a une symbiose là alors ça veut dire qu'eux-mêmes ils font pas de 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="384.264" endTime="385.598">
+<Sync time="384.264"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ça rend pas les 
+<Who nb="2"/>
+et est-ce qu'il y a ouais ouais 
+</Turn>
+<Turn speaker="spk3" startTime="385.598" endTime="389.648">
+<Sync time="385.598"/>
+choses plus 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+on peut pas dire qu'ils parlent bien c'est pas agréable 
+</Turn>
+<Turn speaker="spk2" startTime="389.648" endTime="390.643">
+<Sync time="389.648"/>
+non c'est pas agréable du tout 
+</Turn>
+<Turn speaker="spk3" startTime="390.643" endTime="394.875">
+<Sync time="390.643"/>
+et c'est pas courtois non plus c'est pas un langage vraiment courtois qu'ils utilisent 
+</Turn>
+<Turn speaker="spk2" startTime="394.875" endTime="399.421">
+<Sync time="394.875"/>
+c'est moche moi je vous le dis franchement c'est moche ah ouais c'est moche 
+</Turn>
+<Turn speaker="spk1" startTime="399.421" endTime="407.335">
+<Sync time="399.421"/>
+et est-ce qu'il y avait des différences de dans dans vos paçons vos façons de parler et celles de vos parents vos grands-parents est-ce que ça a changé 
+</Turn>
+<Turn speaker="spk2" startTime="407.335" endTime="412.860">
+<Sync time="407.335"/>
+oh bah moi z- autant je peux être bavarde autant ma grand-mère j'entendais pratiquement pas parler 
+</Turn>
+<Turn speaker="spk1" startTime="412.860" endTime="418.669">
+<Sync time="412.860"/>
+ouais mais c'- votre grand-mère elle était de de langue maternelle it- parl- Pia- Piacenza 
+</Turn>
+<Turn speaker="spk2" startTime="418.669" endTime="428.66">
+<Sync time="418.669"/>
+ma grand-mère elle était d'un village de Piacenza elle était pas de Piacenza elle était de Ponto dell'Olio même de Caorse je crois elle était née là-bas et ma grand-mère parlait pas 
+</Turn>
+<Turn speaker="spk3" startTime="428.66" endTime="430.569">
+<Sync time="428.66"/>
+mais elle elle parlait ou elle lisait enfin elle parlait 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="430.569" endTime="434.619">
+<Sync time="430.569"/>
+<Who nb="1"/>
+avec l'accent italien ah non elle avait perdu son accent 
+<Who nb="2"/>
+non non non non non non non non non non 
+</Turn>
+<Turn speaker="spk2" startTime="434.619" endTime="439.295">
+<Sync time="434.619"/>
+non elle av- elle roulait pas mes parents ne roulent pas les r on ne roule pas les r en Italie 
+</Turn>
+<Turn speaker="spk3" startTime="439.295" endTime="439.794">
+<Sync time="439.295"/>
+ah bah non 
+</Turn>
+<Turn speaker="spk1" startTime="439.794" endTime="441.885">
+<Sync time="439.794"/>
+ils so- vos parents sont nés en France c'est ça 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="441.885" endTime="447.893">
+<Sync time="441.885"/>
+<Who nb="1"/>
+non mes parents sont nés en Italies ils sont venus tout petits en mil neuf cent vingt vingt-deux au moment de l'avoir un an ou deux 
+<Who nb="2"/>
+non en Italie aussi ouais d'accord d'accord ouais ouais 
+</Turn>
+<Turn speaker="spk1" startTime="447.893" endTime="448.966">
+<Sync time="447.893"/>
+d'accord OK donc 
+</Turn>
+<Turn speaker="spk2" startTime="448.966" endTime="459.825">
+<Sync time="448.966"/>
+c'est pas pareil et ils ont donc vécu en dans leur Petite Italie parce que eux mes parents mes mon père sa famille ils vivaient à Fontenay maman est venue à Montreuil et papa il était de Fontenay 
+</Turn>
+<Turn speaker="spk1" startTime="459.825" endTime="460.454">
+<Sync time="459.825"/>
+mm d'accord 
+</Turn>
+<Turn speaker="spk2" startTime="460.454" endTime="464.269">
+<Sync time="460.454"/>
+et ils se retrouvaient entre entre Italiens quoi 
+</Turn>
+<Turn speaker="spk3" startTime="464.269" endTime="465.593">
+<Sync time="464.269"/>
+ah ils étaient tous les deux Italiens 
+</Turn>
+<Turn speaker="spk2" startTime="465.593" endTime="466.222">
+<Sync time="465.593"/>
+oui oui oui oui 
+</Turn>
+<Turn speaker="spk1" startTime="466.222" endTime="469.828">
+<Sync time="466.222"/>
+et donc vos oui donc vos parents ils avaient une façon de parler 
+</Turn>
+<Turn speaker="spk2" startTime="469.828" endTime="471.58">
+<Sync time="469.828"/>
+oui mais papa parlait pas beaucoup 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="471.58" endTime="475.183">
+<Sync time="471.58"/>
+<Who nb="1"/>
+non non plus 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+une famille taciturne 
+<Who nb="2"/>
+ou pratiquement pas je vous dis moi j'ai pas hérité d'eux 
+</Turn>
+<Turn speaker="spk2" startTime="475.183" endTime="477.353">
+<Sync time="475.183"/>
+et puis ma grand-mère presque pas 
+</Turn>
+<Turn speaker="spk1" startTime="477.353" endTime="478.087">
+<Sync time="477.353"/>
+d'accord 
+</Turn>
+<Turn speaker="spk3" startTime="478.087" endTime="479.317">
+<Sync time="478.087"/>
+pour des Italiens c'est pas 
+</Turn>
+<Turn speaker="spk2" startTime="479.317" endTime="487.803">
+<Sync time="479.317"/>
+vous savez ils ont été tellement aussi choqués par beaucoup de choses hein euh peut-être que c'était dans leurs pensées tout le temps et 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="487.803" endTime="492.868">
+<Sync time="487.803"/>
+<Who nb="1"/>
+oui bien sûr bah il y a des des gens qui parlent parlent plus <Comment desc="suite de syllabes incompréhensibles"/> 
+<Who nb="2"/>
+ils ont ils pouvaient pas s'exprimer comme parlaient pas 
+</Turn>
+<Turn speaker="spk3" startTime="492.868" endTime="495.351">
+<Sync time="492.868"/>
+et vous 
+<Event desc="bip" type="noise" extent="instantaneous"/>
+Mireille il y avait du 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="495.351" endTime="499.946">
+<Sync time="495.351"/>
+<Who nb="1"/>
+vos parents ils parlaient différemment 
+<Who nb="2"/>
+différences de non moi non oui non non par- non non 
+</Turn>
+<Turn speaker="spk1" startTime="499.946" endTime="505.56">
+<Sync time="499.946"/>
+d'accord OK alors hum on va parler un petit peu du monde du travail tout ça 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="505.56" endTime="508.644">
+<Sync time="505.56"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+nous on on n'en est plus hein 
+<Who nb="2"/>
+est-ce que voilà oui non mais 
+</Turn>
+<Turn speaker="spk2" startTime="508.644" endTime="510.242">
+<Sync time="508.644"/>
+dans le temps ma g- il(s) parlai(en)t comme ça 
+</Turn>
+<Turn speaker="spk1" startTime="510.242" endTime="512.333">
+<Sync time="510.242"/>
+voilà évoquer le 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+le passé 
+</Turn>
+<Turn speaker="spk2" startTime="512.333" endTime="513.198">
+<Sync time="512.333"/>
+le monde du travail 
+</Turn>
+<Turn speaker="spk1" startTime="513.198" endTime="525.211">
+<Sync time="513.198"/>
+mais e- e- est-ce que le est-ce que Montreuil a est touché par des problèmes économiques est-ce que les gens travaillent est-ce que est-ce que c'est un problème autour de vous 
+</Turn>
+<Turn speaker="spk2" startTime="525.211" endTime="525.952">
+<Sync time="525.211"/>
+je réfléchis 
+</Turn>
+<Turn speaker="spk3" startTime="525.952" endTime="530.84">
+<Sync time="525.952"/>
+il y a des entreprises qui ferment là à Montreuil il y a des combats sur Montreuil contre les entreprises qui ferment en ce moment 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="530.84" endTime="533.074">
+<Sync time="530.84"/>
+<Who nb="1"/>
+oh bah il y a il y a l'entreprise 
+<Who nb="2"/>
+ah oui le la laquelle 
+</Turn>
+<Turn startTime="533.074" endTime="536.359" speaker="spk2">
+<Sync time="533.074"/>
+Dufour qui a fermé là 
+</Turn>
+<Turn speaker="spk3" startTime="536.359" endTime="537.591">
+<Sync time="536.359"/>
+ouais Dufour il y a longtemps 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="537.591" endTime="539.515">
+<Sync time="537.591"/>
+<Who nb="1"/>
+ah ouais <Comment desc="suite de syllabes incompréhensibles"/> 
+<Who nb="2"/>
+c'était un c'était un 
+</Turn>
+<Turn speaker="spk2" startTime="539.515" endTime="540.146">
+<Sync time="539.515"/>
+un grande usine 
+</Turn>
+<Turn speaker="spk2" startTime="540.146" endTime="542.229">
+<Sync time="540.146"/>
+une très très grande usine mon beau-père il y a travaillé 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="542.229" endTime="543.962">
+<Sync time="542.229"/>
+<Who nb="1"/>
+qu'est-ce qu'il fai- 
+<Who nb="2"/>
+ah oui Dufour 
+</Turn>
+<Turn speaker="spk3" startTime="543.962" endTime="547.498">
+<Sync time="543.962"/>
+c'était de la <Comment desc="suite de syllabes incompréhensibles"/> était tourneur lui je sais pas c'est une grande boîte de métallurgie 
+</Turn>
+<Turn speaker="spk2" startTime="547.498" endTime="552.061">
+<Sync time="547.498"/>
+voilà exactement il y avait eu les gâteaux là-bas <Comment desc="suite de syllabes incompréhensibles"/> pas connu(s) les gâteaux 
+</Turn>
+<Turn speaker="spk3" startTime="552.061" endTime="557.454">
+<Sync time="552.061"/>
+mais tout le bas-Montreuil c'est que des usines qui ont fermé c'est des sites de d'usine(s) 
+</Turn>
+<Turn speaker="spk2" startTime="557.454" endTime="559.303">
+<Sync time="557.454"/>
+celle de gâteaux il a fermé il y a longtemps 
+</Turn>
+<Turn speaker="spk1" startTime="559.303" endTime="561.186">
+<Sync time="559.303"/>
+c'est comme Saint-Ouen en fait c'est une 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="561.186" endTime="563.37">
+<Sync time="561.186"/>
+<Who nb="1"/>
+oui je oui je pense voilà c'est très populaire 
+<Who nb="2"/>
+ville industrielle qui est devenue ville de 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="563.37" endTime="566.405">
+<Sync time="563.37"/>
+<Who nb="1"/>
+c'est vrai c'est très populaire 
+<Who nb="2"/>
+il y avait des des des poupées des poupées 
+</Turn>
+<Turn speaker="spk3" startTime="566.405" endTime="570.862">
+<Sync time="566.405"/>
+beaucoup de oui et Saint-Ouen aussi oui je pense que c'est des villes peut-être Saint-Denis pareil 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="570.862" endTime="573.396">
+<Sync time="570.862"/>
+<Who nb="1"/>
+oui oui oui oui c'est le même genre de <Comment desc="suite de syllabes incompréhensibles"/> oui oui 
+<Who nb="2"/>
+enfin ce genre de 
+</Turn>
+<Turn speaker="spk2" startTime="573.396" endTime="574.368">
+<Sync time="573.396"/>
+c'est pareil 
+</Turn>
+<Turn speaker="spk3" startTime="574.368" endTime="576.747">
+<Sync time="574.368"/>
+avec un passé ouvrier énorme à Montreuil 
+</Turn>
+<Turn speaker="spk2" startTime="576.747" endTime="578.179">
+<Sync time="576.747"/>
+oui parce qu'il y avait quand même des 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="578.179" endTime="580.663">
+<Sync time="578.179"/>
+<Who nb="1"/>
+des sièges de syndicats 
+<Who nb="2"/>
+mais nous on avait rue de Tillemont où j'habitais dans le temps 
+</Turn>
+<Turn speaker="spk2" startTime="580.663" endTime="594.752">
+<Sync time="580.663"/>
+il y avait donc la séèr- la Stéarinerie Dubois toutes les tous les Ritals du coin travaillaient les femmes surtout travaillaient là qui a fermé parce qu'ils ont construit aussi des des conneries de de d'HLM et il y a il y avait l'usine Brice 
+</Turn>
+<Turn speaker="spk3" startTime="594.752" endTime="595.754">
+<Sync time="594.752"/>
+puis les bonbons 
+</Turn>
+<Turn speaker="spk1" startTime="595.754" endTime="596.661">
+<Sync time="595.754"/>
+qu'est-ce qu'ils faisaient 
+</Turn>
+<Turn speaker="spk2" startTime="596.661" endTime="598.444">
+<Sync time="596.661"/>
+alors eux c'était aussi du de la ferraille quoi 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="598.444" endTime="599.451">
+<Sync time="598.444"/>
+<Who nb="1"/>
+de la ferraille d'accord 
+<Who nb="2"/>
+du fer 
+</Turn>
+<Turn speaker="spk3" startTime="599.451" endTime="600.383">
+<Sync time="599.451"/>
+Créma c'était ici aussi 
+</Turn>
+<Turn speaker="spk2" startTime="600.383" endTime="605.847">
+<Sync time="600.383"/>
+il y avait Créma avec les odeurs les bonnes odeurs de bonbons qui nous arrivaient 
+</Turn>
+<Turn speaker="spk3" startTime="605.847" endTime="614.178">
+<Sync time="605.847"/>
+bah ma fille quand elle a emménagé si si elle habite Montreuil aussi il y avait une usine de dragées à côté de chez elle et là ça sentait vraiment puis ça a fermé aussi maintenant c'est des lofts 
+</Turn>
+<Turn speaker="spk1" startTime="614.178" endTime="616.214">
+<Sync time="614.178"/>
+c'est une spécialité de la ville en fait des des bonbons 
+</Turn>
+<Turn speaker="spk3" startTime="616.214" endTime="616.74">
+<Sync time="616.214"/>
+des bonbons je sais pas 
+</Turn>
+<Turn speaker="spk2" startTime="616.74" endTime="625.154">
+<Sync time="616.74"/>
+il y avait aussi des de de gâteaux la Basquaise eh oui quand même une bonne usine de gâteaux c'est rue rue Gaston-Lauriau je crois que c'était 
+</Turn>
+<Turn speaker="spk3" startTime="625.154" endTime="629.687">
+<Sync time="625.154"/>
+ah non il y avait beaucoup de petites industries beaucoup beaucoup <Comment desc="suite de syllabes incompréhensibles"/> 
+</Turn>
+<Turn speaker="spk1" startTime="629.687" endTime="632.998">
+<Sync time="629.687"/>
+les gens se retrouvaient au chomage alors dans la ville après la fermeture de ces usines 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="632.998" endTime="637.384">
+<Sync time="632.998"/>
+<Who nb="1"/>
+bah sûrement ou alors ils ont ils ont oui recasent dans une autre usine qui qui est restée 
+<Who nb="2"/>
+ou ils sont recasés 
+</Turn>
+<Turn speaker="spk2" startTime="637.384" endTime="643.27">
+<Sync time="637.384"/>
+encore debout parce que rue de Paris il y en avait pas mal aussi d'usines hein il y avait des poupées si ma mémoire est bonne 
+</Turn>
+<Turn speaker="spk3" startTime="643.27" endTime="648.279">
+<Sync time="643.27"/>
+oui il y avait une usine de poupées 
+<Sync time="644.636"/>
+il y avait aussi Pernod je crois bien qu'il y avait Pernod 
+</Turn>
+<Turn speaker="spk1" startTime="648.279" endTime="649.174">
+<Sync time="648.279"/>
+la boisson 
+</Turn>
+<Turn speaker="spk2" startTime="649.174" endTime="666.325">
+<Sync time="649.174"/>
+oui il y avait quelque chose de Pe- de Pernod dans le coin hum sin- qu'est-qu'il y avait encore si j'ai bonne mémoire hum bah non je me rappelle plus je sais qu'il y avait celle-là 
+</Turn>
+<Turn speaker="spk3" startTime="666.325" endTime="669.067">
+<Sync time="666.325"/>
+mais il y a sûrement pas plus de problèmes de chômage à Montreuil qu'ailleurs 
+</Turn>
+<Turn speaker="spk1" startTime="669.067" endTime="669.912">
+<Sync time="669.067"/>
+qu'ailleurs hm 
+</Turn>
+<Turn speaker="spk3" startTime="669.912" endTime="679.155">
+<Sync time="669.912"/>
+parce que Brard par exemple son truc c'était de de de laisser s'implanter des des entreprises en demandant à ce qu'il y avait un quota de Montreuillois qui qui travaillent dedans 
+</Turn>
+<Turn speaker="spk2" startTime="679.155" endTime="680.253">
+<Sync time="679.155"/>
+ah oui oui 
+</Turn>
+<Turn speaker="spk3" startTime="680.253" endTime="682.59">
+<Sync time="680.253"/>
+oui oui il était assez vigilant là-dessus lui 
+</Turn>
+<Turn speaker="spk1" startTime="682.59" endTime="690.386">
+<Sync time="682.59"/>
+d'accord oui hm d'accord et vous en fait vous <Comment desc="suite de syllabes incompréhensibles"/> 
+<Event desc="bip" type="noise" extent="instantaneous"/>
+Marie- Marie-Christ- Marie-Hélène 
+</Turn>
+<Turn speaker="spk2" startTime="690.386" endTime="692.252">
+<Sync time="690.386"/>
+oui j'ai pas connu de chômage moi 
+</Turn>
+<Turn speaker="spk1" startTime="692.252" endTime="694.058">
+<Sync time="692.252"/>
+vous vous avez vous avez travaillé dans quoi 
+</Turn>
+<Turn speaker="spk2" startTime="694.058" endTime="695.689">
+<Sync time="694.058"/>
+moi dans l'administration 
+</Turn>
+<Turn speaker="spk1" startTime="695.689" endTime="696.301">
+<Sync time="695.689"/>
+dans l'administration 
+</Turn>
+<Turn speaker="spk2" startTime="696.301" endTime="696.737">
+<Sync time="696.301"/>
+oui 
+</Turn>
+<Turn speaker="spk1" startTime="696.737" endTime="697.575">
+<Sync time="696.737"/>
+vous faisiez quoi 
+</Turn>
+<Turn speaker="spk2" startTime="697.575" endTime="712.334">
+<Sync time="697.575"/>
+bah moi j'étais sténo dactylo secretaire quoi oh si on veut oui secretaire allez parce que on va pas non plus se sous-estimer secrétar- du secrétariat à longueur de vie parce que moi je suis une fidèle alors je reste dans une entreprise <Comment desc="suite de syllabes incompréhensibles"/> je m'y plaisais remarquez hein 
+</Turn>
+<Turn speaker="spk1" startTime="712.334" endTime="712.861">
+<Sync time="712.334"/>
+oui 
+</Turn>
+<Turn speaker="spk2" startTime="712.861" endTime="722.428">
+<Sync time="712.861"/>
+c'est vraiment le début le début de la constru- moi je travaillais à l'EDF et c'était le début des constructions des centrales thermo- thermo nucléaires 
+</Turn>
+<Turn speaker="spk1" startTime="722.428" endTime="722.864">
+<Sync time="722.428"/>
+d'accord 
+</Turn>
+<Turn speaker="spk2" startTime="722.864" endTime="751.189">
+<Sync time="722.864"/>
+donc je travaillais qu'à l'équipement et l'équipement c'était vraiment la crème de l'EDF parce que dans les dans les autres unités par exemple dans la distribution ou dans comment que ça s'appelle la distribution puis l'autre c'est quoi déjà les transports qu'est-ce qu'il y avait encore enfin d'autres c'était pas si bien mais nous à l'équipement c'était vraiment on travaillait avec des ingénieurs on travaillait on se déplaçait avec les centrales quand elles étaient terminées non c'était sympa 
+</Turn>
+<Turn speaker="spk1" startTime="751.189" endTime="751.755">
+<Sync time="751.189"/>
+bien oui 
+</Turn>
+<Turn speaker="spk2" startTime="751.755" endTime="756.643">
+<Sync time="751.755"/>
+je m'y suis bien plu bon sur la fin c'était moins bien parce que il y a des jeunes qui arrivaient ils étaient pas sympas du tout 
+</Turn>
+<Turn speaker="spk1" startTime="756.643" endTime="757.13">
+<Sync time="756.643"/>
+ah oui 
+</Turn>
+<Turn speaker="spk2" startTime="757.13" endTime="765.899">
+<Sync time="757.13"/>
+alors heureusement que je partais en retraite parce que ce serait je me serais bien cassé la gueule avec elles je les aurais bien foutues non mais elle étaient pas marrantes beh elles voulaient arriver 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="765.899" endTime="766.752">
+<Sync time="765.899"/>
+<Who nb="1"/>
+non 
+<Who nb="2"/>
+non merci 
+</Turn>
+<Turn speaker="spk2" startTime="766.752" endTime="771.362">
+<Sync time="766.752"/>
+voulaient arriver bah je leur aurait bien foutu leur leur toise elles méritaient ça au moins 
+</Turn>
+<Turn speaker="spk1" startTime="771.362" endTime="773.078">
+<Sync time="771.362"/>
+et vous avez au des enfants alors 
+</Turn>
+<Turn speaker="spk2" startTime="773.078" endTime="774.227">
+<Sync time="773.078"/>
+oui j'ai eu deux enfants 
+</Turn>
+<Turn speaker="spk1" startTime="774.227" endTime="774.609">
+<Sync time="774.227"/>
+d'accord 
+</Turn>
+<Turn speaker="spk2" startTime="774.609" endTime="775.42">
+<Sync time="774.609"/>
+j'ai eu deux enfants 
+</Turn>
+<Turn speaker="spk1" startTime="775.42" endTime="776.856">
+<Sync time="775.42"/>
+vous avez travaillé pendant 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="776.856" endTime="778.602">
+<Sync time="776.856"/>
+<Who nb="1"/>
+oui oui oui oui oui 
+<Who nb="2"/>
+que vous les éleviez 
+</Turn>
+<Turn speaker="spk1" startTime="778.602" endTime="779.513">
+<Sync time="778.602"/>
+c'était difficile 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="779.513" endTime="780.949">
+<Sync time="779.513"/>
+<Who nb="1"/>
+ou ça a ça a été 
+<Who nb="2"/>
+non pas trop non 
+</Turn>
+<Turn speaker="spk2" startTime="780.949" endTime="794.332">
+<Sync time="780.949"/>
+parce que les crèches elles étaient sympas et puis non au contraire c'est à ce c'était à ce moment-là on était bo- ils étaient les gosses ils étaient bien gardés bien nourris bien propres non on n'avait pas de mal 
+</Turn>
+<Turn speaker="spk1" startTime="794.332" endTime="794.761">
+<Sync time="794.332"/>
+d'accord oui 
+</Turn>
+<Turn speaker="spk2" startTime="794.761" endTime="801.057">
+<Sync time="794.761"/>
+non non non maintenant je sais pas si ça a évolué dans le bon sens j'en sais rien peut-être trop de monde encore 
+</Turn>
+<Turn speaker="spk1" startTime="801.057" endTime="802.583">
+<Sync time="801.057"/>
+et 
+<Event desc="bip" type="noise" extent="instantaneous"/>
+Mireille vous faites quoi 
+</Turn>
+<Turn speaker="spk3" startTime="802.583" endTime="803.942">
+<Sync time="802.583"/>
+moi je travaille à la Sécu 
+</Turn>
+<Turn speaker="spk1" startTime="803.942" endTime="808.931">
+<Sync time="803.942"/>
+d'accord donc administration aussi 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+sur Montreuil ou 
+</Turn>
+<Turn speaker="spk3" startTime="808.931" endTime="809.652">
+<Sync time="808.931"/>
+ah non à Paris 
+</Turn>
+<Turn speaker="spk1" startTime="809.652" endTime="813.08">
+<Sync time="809.652"/>
+à Paris d'accord donc vous vous faites la navette quoi 
+</Turn>
+<Turn speaker="spk3" startTime="813.08" endTime="814.893">
+<Sync time="813.08"/>
+ah oui oui je prends le métro 
+</Turn>
+<Turn speaker="spk1" startTime="814.893" endTime="820.865">
+<Sync time="814.893"/>
+cent vingt-sept 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+d'accord et vous vous avez eu des ri- des enfants 
+</Turn>
+<Turn speaker="spk3" startTime="820.865" endTime="822.444">
+<Sync time="820.865"/>
+oui deux j'ai deux filles 
+</Turn>
+<Turn speaker="spk1" startTime="822.444" endTime="823.999">
+<Sync time="822.444"/>
+vous avez travaillé pendant que 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="823.999" endTime="826.913">
+<Sync time="823.999"/>
+<Who nb="1"/>
+tout ouais tout le temps 
+<Who nb="2"/>
+vous les aviez 
+</Turn>
+<Turn speaker="spk1" startTime="826.913" endTime="838.67">
+<Sync time="826.913"/>
+ok hum alors hum da- dans votre temps libre vous vous m'avez déjà dit que vous faisiez de la randonnée c'est c'est votre principale activité de loisir ou 
+</Turn>
+<Turn speaker="spk3" startTime="838.67" endTime="842.487">
+<Sync time="838.67"/>
+bah non je fais avec Montreuil je fais de la gym je fais de la danse folklorique 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="842.487" endTime="843.863">
+<Sync time="842.487"/>
+<Who nb="1"/>
+je fais des trucs comme ça 
+<Who nb="2"/>
+ah oui ah ouais 
+</Turn>
+<Turn speaker="spk1" startTime="843.863" endTime="845.188">
+<Sync time="843.863"/>
+pas mal de choses alors 
+</Turn>
+<Turn speaker="spk3" startTime="845.188" endTime="847.946">
+<Sync time="845.188"/>
+ah oui parce qu'ils proposent alors là on peut dire qu'ils proposent beaucoup de trucs 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="847.946" endTime="851.042">
+<Sync time="847.946"/>
+<Who nb="1"/>
+ouais c'est vrai il y a plein de 
+<Who nb="2"/>
+et pour dans la danse folklorique qu'est-ce qu'ils proposent 
+<Event desc="bip" type="noise" extent="instantaneous"/>
+Mireille 
+</Turn>
+<Turn speaker="spk3" startTime="851.042" endTime="853.126">
+<Sync time="851.042"/>
+bah hier on a fait notre soirée de fin d'année 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="853.126" endTime="854.477">
+<Sync time="853.126"/>
+ça doit être sympa 
+</Turn>
+<Turn speaker="spk3" startTime="854.477" endTime="862.379">
+<Sync time="854.477"/>
+c'est sympa c'est très sympa moi j'ai c'est la fille qui nous fait la gym qui fait ça et j'ai essayé une fois pour voir et j'ai j'ai trouvé que c'était super 
+</Turn>
+<Turn speaker="spk2" startTime="862.379" endTime="863.006">
+<Sync time="862.379"/>
+ah oui 
+</Turn>
+<Turn speaker="spk3" startTime="863.006" endTime="863.856">
+<Sync time="863.006"/>
+on s'éclatait 
+</Turn>
+<Turn speaker="spk2" startTime="863.856" endTime="866.431">
+<Sync time="863.856"/>
+mais c'est quoi comme da- de tout des provinces françaises non 
+</Turn>
+<Turn speaker="spk3" startTime="866.431" endTime="867.721">
+<Sync time="866.431"/>
+non pas tellement français non 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="867.721" endTime="868.197">
+<Sync time="867.721"/>
+<Who nb="1"/>
+du country 
+<Who nb="2"/>
+non des danses 
+</Turn>
+<Turn speaker="spk3" startTime="868.197" endTime="870.716">
+<Sync time="868.197"/>
+israéliennes ah oui on fait de la country des danses israéliennes 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="870.716" endTime="871.485">
+<Sync time="870.716"/>
+<Who nb="1"/>
+oh c'est bien ça 
+<Who nb="2"/>
+des danses turques 
+</Turn>
+<Turn speaker="spk3" startTime="871.485" endTime="872.507">
+<Sync time="871.485"/>
+des danses 
+</Turn>
+<Turn speaker="spk2" startTime="872.507" endTime="873.139">
+<Sync time="872.507"/>
+oui oui c'est bien 
+</Turn>
+<Turn speaker="spk3" startTime="873.139" endTime="874.505">
+<Sync time="873.139"/>
+ah oui c'est vraiment c'est sympa 
+</Turn>
+<Turn speaker="spk2" startTime="874.505" endTime="875.638">
+<Sync time="874.505"/>
+et ça se fait où 
+</Turn>
+<Turn speaker="spk3" startTime="875.638" endTime="878.386">
+<Sync time="875.638"/>
+à <Comment desc="suite de syllabes incompréhensibles"/> à la Croix de Chavaux 
+</Turn>
+<Turn speaker="spk1" startTime="878.386" endTime="882.114">
+<Sync time="878.386"/>
+oui oui donc vous faites la la danse folklorique 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="882.114" endTime="883.743">
+<Sync time="882.114"/>
+<Who nb="1"/>
+le la randonnée c'est physique 
+<Who nb="2"/>
+le gym et la rando oui 
+</Turn>
+<Turn speaker="spk1" startTime="883.743" endTime="884.891">
+<Sync time="883.743"/>
+tout ça 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="884.891" endTime="888.367">
+<Sync time="884.891"/>
+non vous /<Comment desc="suite de syllabes incompréhensibles"/>, verrez/ mon physique vous verrez mon 
+</Turn>
+<Turn speaker="spk1" startTime="888.367" endTime="892.526">
+<Sync time="888.367"/>
+et les et pour la randonnée vous partez avec d'autres personnes de 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="892.526" endTime="894.408">
+<Sync time="892.526"/>
+<Who nb="1"/>
+la la car oui la ville nous met 
+<Who nb="2"/>
+la ville comment ça se passe 
+</Turn>
+<Turn speaker="spk3" startTime="894.408" endTime="895.202">
+<Sync time="894.408"/>
+un car à disposition 
+</Turn>
+<Turn speaker="spk1" startTime="895.202" endTime="896.502">
+<Sync time="895.202"/>
+ah oui 
+</Turn>
+<Turn speaker="spk3" startTime="896.502" endTime="901.215">
+<Sync time="896.502"/>
+à la mairie on part le mardi matin la mairie la ville nous loue un car 
+</Turn>
+<Turn speaker="spk1" startTime="901.215" endTime="903.964">
+<Sync time="901.215"/>
+d'accord et vous avez été où récemment 
+</Turn>
+<Turn speaker="spk3" startTime="903.964" endTime="911.596">
+<Sync time="903.964"/>
+ah bah on fait tout enfin la forêt de Fontainebleau on va dans l'est on va plutôt dans l'est parce que Fontainebleau faut en revenir avec les cars c'est on met trois heures hein 
+</Turn>
+<Turn speaker="spk1" startTime="911.596" endTime="912.207">
+<Sync time="911.596"/>
+ah ouais 
+</Turn>
+<Turn speaker="spk3" startTime="912.207" endTime="920.654">
+<Sync time="912.207"/>
+oui donc on va plutôt vers Ermenonville vers là là le la dernière fois on est allés dans un camping à <Comment desc="suite de syllabes incompréhensibles"/> vous connaissez ça appartient à Montreuil 
+</Turn>
+<Turn speaker="spk2" startTime="920.654" endTime="921.727">
+<Sync time="920.654"/>
+ah bon où ça 
+</Turn>
+<Turn speaker="spk3" startTime="921.727" endTime="932.412">
+<Sync time="921.727"/>
+c'est à côté de Coulommiers on passe Coulommiers et il y a ça appartient non pas à Montreuil à au Racing-Club de Montreuil enfin je pas il y a un truc c'est enfin il y a il y a 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="932.412" endTime="933.56">
+<Sync time="932.412"/>
+<Who nb="1"/>
+un vieux bâtiment 
+<Who nb="2"/>
+il y avait un <Comment desc="suite de syllabes incompréhensibles"/> 
+</Turn>
+<Turn speaker="spk3" startTime="933.56" endTime="942.421">
+<Sync time="933.56"/>
+<Comment desc="suite de syllabes incompréhensibles"/> sympa et un camping magnifique avec des gens qui ont des tentes à demeure qui viennent des weekends il y a que des Montreuillois là c'est marrant 
+</Turn>
+<Turn speaker="spk2" startTime="942.421" endTime="943.62">
+<Sync time="942.421"/>
+et c'est où du côté de Coulommiers 
+</Turn>
+<Turn speaker="spk3" startTime="943.62" endTime="952.350">
+<Sync time="943.62"/>
+au-delà de Coulommiers voilà ça fait un peu loin et c'est la Seine-et-Marne là-bas je crois et là on a fait la fête de fin d'année là c'était notre dernière rando parce que tout s'arrête là 
+</Turn>
+<Turn speaker="spk1" startTime="952.350" endTime="956.566">
+<Sync time="952.350"/>
+c'était vous étiez combien 
+</Turn>
+<Turn speaker="spk3" startTime="956.566" endTime="958.878">
+<Sync time="956.566"/>
+on remplit le car en général cinquante voilà ouais 
+</Turn>
+<Turn speaker="spk1" startTime="958.878" endTime="960.912">
+<Sync time="958.878"/>
+d'accord ouais ça fait un grand groupe 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="960.912" endTime="964.059">
+<Sync time="960.912"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+et vous pique-niquez vous prenez de quoi de quoi manger 
+<Who nb="2"/>
+ah oui ça oh ça fait un grand groupe et on pique- on pique-nique 
+</Turn>
+<Turn speaker="spk3" startTime="964.059" endTime="968.192">
+<Sync time="964.059"/>
+pas parce qu'il y a des gens âgés là-dedans il y a une dame qui a quatre-vingt-quatorze ans par exemple 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="968.192" endTime="972.856">
+<Sync time="968.192"/>
+<Who nb="1"/>
+oh c'est sympa 
+<Who nb="2"/>
+elle fait de la randonnée elle randonne encore et beaucoup de gens très âgés 
+</Turn>
+<Turn speaker="spk3" startTime="972.856" endTime="987.537">
+<Sync time="972.856"/>
+des gens qui qui sont dans ce club depuis fort longtemps donc ils veulent pas décrocher et ils veulent pas manger non plus le cul dans l'herbe alors on va dans des foyers dans des dans des petites villes là de banlieue il y a des foyers communaux qui nous laissent les clés on mange 
+</Turn>
+<Turn speaker="spk1" startTime="987.537" endTime="988.498">
+<Sync time="987.537"/>
+comme des gîtes en fait 
+</Turn>
+<Turn speaker="spk3" startTime="988.498" endTime="993.618">
+<Sync time="988.498"/>
+ouais voilà on a si c'est des salles qui leur servent de de repas de vieux de 
+</Turn>
+<Turn speaker="spk2" startTime="993.618" endTime="1002.125">
+<Sync time="993.618"/>
+vous connaissez une une dame qui s'appelle Violette ça vous dit quelque chose madame Schmitt non parce qu'elle faisait la rando dans 
+</Turn>
+<Turn speaker="spk3" startTime="1002.125" endTime="1020.73">
+<Sync time="1002.125"/>
+oh je sais pas j'en il y en a que je connais pas trop dans la randonnée enfin c'est très sympa et c'est là que je vois qu'il y a un vrai élan montreuillois alors 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+quand on parle de Montreuil là-dedans alors ils se retrouvent dans tous les gueuletons de fin d'année parce qu'il y a de vrais gueuletons de fin d'année pour les vieux à Montreuil aussi j'y suis jamais allée 
+</Turn>
+<Turn speaker="spk2" startTime="1020.73" endTime="1021.086">
+<Sync time="1020.73"/>
+moi non plus 
+</Turn>
+<Turn speaker="spk3" startTime="1021.086" endTime="1022.407">
+<Sync time="1021.086"/>
+je me sens pas d'y aller encore 
+</Turn>
+<Turn speaker="spk2" startTime="1022.407" endTime="1026.252">
+<Sync time="1022.407"/>
+moi j'ai été une fois pour la retraite au parc Montreau mais ça m'- je suis gênée j'aime pas j'accrochais pas 
+</Turn>
+<Turn speaker="spk3" startTime="1026.252" endTime="1035.489">
+<Sync time="1026.252"/>
+je sais pas si Voynet continuera ça parce qu'ils font cinq tournées de repas de fin d'année avec des repas grande classe et tout hein et tellement il y a de vieux 
+</Turn>
+<Turn speaker="spk2" startTime="1035.489" endTime="1036.581">
+<Sync time="1035.489"/>
+ça doit couter cher 
+</Turn>
+<Turn speaker="spk3" startTime="1036.581" endTime="1039.922">
+<Sync time="1036.581"/>
+et ça doit couter cher alors là Voynet moi je me dit peut-être elle va mettre des des freins à ça 
+</Turn>
+<Turn speaker="spk2" startTime="1039.922" endTime="1042.133">
+<Sync time="1039.922"/>
+vaut mieux mettre ça ailleurs quand même 
+</Turn>
+<Turn speaker="spk3" startTime="1042.133" endTime="1043.128">
+<Sync time="1042.133"/>
+quand elle va découvrir 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1043.128" endTime="1045.293">
+<Sync time="1043.128"/>
+<Who nb="1"/>
+comme le c'est comme les fêtes de Noël 
+<Who nb="2"/>
+la ville est en déficit paraît-il 
+</Turn>
+<Turn speaker="spk2" startTime="1045.293" endTime="1053.336">
+<Sync time="1045.293"/>
+et du jour de l'an avec leur feu d'artifice mois je suis pas je suis pas pour hein ça sert à rien ça sert à rien oh ils avaient 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1053.336" endTime="1056.960">
+<Sync time="1053.336"/>
+<Who nb="1"/>
+oh bah /0, c'est justifié/ 
+<Who nb="2"/>
+vous êtes rabat-joie 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1056.960" endTime="1070.901">
+<Sync time="1056.960"/>
+une année j'y suis allée il y avait des dan- des danseurs brésiliens pour f- pour que pour clore la fête moi je trouvais ça vraiment tarte oh non je me dis qu'est-ce c'est que ce pognon dépensé inutilement non il y a des gens qui en ont qui ont besoin de qu'on les aide 
+</Turn>
+<Turn speaker="spk3" startTime="1070.901" endTime="1072.328">
+<Sync time="1070.901"/>
+oui mais faut aussi qu'ils fassent des 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1072.328" endTime="1074.008">
+<Sync time="1072.328"/>
+<Who nb="1"/>
+des trucs festifs 
+<Who nb="2"/>
+oh ça sert à rien 
+</Turn>
+<Turn speaker="spk3" startTime="1074.008" endTime="1079.481">
+<Sync time="1074.008"/>
+eh beh je peux vous dire que les repas de fin d'année des petits vieux et s'ils les suppriment Voynet elle se elle se coupe alors là de 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1079.481" endTime="1083.705">
+<Sync time="1079.481"/>
+<Who nb="1"/>
+ils sont seuls ces vrai que oui c'est vrai ils sont seuls bah oui 
+<Who nb="2"/>
+toute la tout le troisième âge de Montreuil 
+</Turn>
+<Turn speaker="spk3" startTime="1083.705" endTime="1084.947">
+<Sync time="1083.705"/>
+ils sont pas tellement seuls 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1084.947" endTime="1086.84">
+<Sync time="1084.947"/>
+<Who nb="1"/>
+non ah bon 
+<Who nb="2"/>
+c'est qu'ils aime bien ça c'est qu'ils aiment 
+</Turn>
+<Turn speaker="spk3" startTime="1086.84" endTime="1099.565">
+<Sync time="1086.84"/>
+vraiment et et dans ces repas de fin d'année ils font des tables entrées de entières de randonneurs ils se retrouvent tu y vas tu y vas on se retrouve voilà et et et cinq fois il remplit la salle hein Brard il remplissait la salle cinq fois ça ça doit couter du pognon 
+</Turn>
+<Turn speaker="spk2" startTime="1099.565" endTime="1101.552">
+<Sync time="1099.565"/>
+oui c'est ça c'est un c'est un peu gros quand même 
+</Turn>
+<Turn speaker="spk3" startTime="1101.552" endTime="1108.601">
+<Sync time="1101.552"/>
+parce que les vieux ils sont plus tellement c'est des trucs qui datent de l'époque où les vieux avait peut-être un minimum vieillesse enfin je sais pas des périodes 
+</Turn>
+<Turn speaker="spk2" startTime="1108.601" endTime="1109.876">
+<Sync time="1108.601"/>
+les économiquement faibles 
+</Turn>
+<Turn speaker="spk3" startTime="1109.876" endTime="1118.425">
+<Sync time="1109.876"/>
+voilà ce qu'on appelait et puis la tradition a perduré alors que les vieux sont finalement plus à l'aise que les jeunes maintenant ils ferait mieux d faire des repas de chomeurs à la limite 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1118.425" endTime="1120.718">
+<Sync time="1118.425"/>
+<Who nb="1"/>
+non mais j'aimerais mieux qu'i- oui moi j' 
+<Who nb="2"/>
+faire un repas de Noël pour les chomeurs ce serait mieux 
+</Turn>
+<Turn speaker="spk2" startTime="1120.718" endTime="1127.616">
+<Sync time="1120.718"/>
+aimerais bien qu'ils fassent des fêtes champêtres un peu plus souvent que une fois par an au parc des belles fêtes champêtres même dans les autres parcs c'est sympa 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1127.616" endTime="1129.461">
+<Sync time="1127.616"/>
+<Who nb="1"/>
+qu'est-ce qui qu'est-ce qui se passe dans la fête champêtre 
+<Who nb="2"/>
+les fêtes champêtres 
+</Turn>
+<Turn speaker="spk2" startTime="1129.461" endTime="1132.403">
+<Sync time="1129.461"/>
+eh bien il y a des stands il y a des alors là il y a bon d- 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1132.403" endTime="1136.248">
+<Sync time="1132.403"/>
+<Who nb="1"/>
+fête de la musique la grande fête 
+<Who nb="2"/>
+africains il y a il y a par de tout de tout 
+</Turn>
+<Turn speaker="spk2" startTime="1136.248" endTime="1139.915">
+<Sync time="1136.248"/>
+ouais c'est bien il y a de la musique 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1139.915" endTime="1141.575">
+<Sync time="1139.915"/>
+<Who nb="1"/>
+on rencontre des des gens 
+<Who nb="2"/>
+non c'est sympa 
+</Turn>
+<Turn speaker="spk3" startTime="1141.575" endTime="1142.717">
+<Sync time="1141.575"/>
+vous avez un parc à Saint-Ouen y a pas de parc si il y a un parc 
+</Turn>
+<Turn speaker="spk1" startTime="1142.717" endTime="1149.719">
+<Sync time="1142.717"/>
+oui oui oui oui le Parc du Château ça s'appelle c'est près de la c'est au-delà de la mairie près de la Seine en fait 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1149.719" endTime="1153.157">
+<Sync time="1149.719"/>
+<Who nb="1"/>
+il y a une partie qui touche la Seine en fait 
+<Who nb="2"/>
+ah notre Montreuil chéri où êtes-vous 
+</Turn>
+<Turn speaker="spk2" startTime="1153.157" endTime="1159.139">
+<Sync time="1153.157"/>
+notre Montreuil à nous 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ah la la la la moi quand je vois les HLM ça me rend malade 
+</Turn>
+<Turn speaker="spk3" startTime="1159.139" endTime="1160.844">
+<Sync time="1159.139"/>
+ah bah ça c'est l'HLM qui sont dégueulasses 
+</Turn>
+<Turn speaker="spk2" startTime="1160.844" endTime="1163.897">
+<Sync time="1160.844"/>
+ah la la la la puis alors ils ont rasé par contre 
+</Turn>
+<Turn speaker="spk3" startTime="1163.897" endTime="1165.121">
+<Sync time="1163.897"/>
+c'est vrai qu'ils en ont fait trop 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1165.121" endTime="1168.124">
+<Sync time="1165.121"/>
+<Who nb="1"/>
+au début ils ont trop fait aussi faut que ce soit partagé 
+<Who nb="2"/>
+ah la la mon dieu mon dieu mon dieu 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1168.124" endTime="1172.098">
+<Sync time="1168.124"/>
+<Who nb="1"/>
+c'est de la mauvaise architecture ouais ils ont fait ça à la va-vite 
+<Who nb="2"/>
+puis tout en hauteur vous savez tout 
+</Turn>
+<Turn speaker="spk3" startTime="1172.098" endTime="1181.337">
+<Sync time="1172.098"/>
+faudrait partager les populations faudrait aussi pouvoir mettre de accès à la propriété il y a il y a rien en accès à la propriété par exemple pas beaucoup 
+</Turn>
+<Turn speaker="spk2" startTime="1181.337" endTime="1186.002">
+<Sync time="1181.337"/>
+bah c'est cher aussi même si ils mettent accès à la propriété quand vous voyez les prix 
+</Turn>
+<Turn speaker="spk1" startTime="1186.002" endTime="1186.332">
+<Sync time="1186.002"/>
+oui 
+</Turn>
+<Turn speaker="spk3" startTime="1186.332" endTime="1198.45">
+<Sync time="1186.332"/>
+oui mais ils pourrait faire de l'accès à la propriété à prix il il préemptait Brard lui il arrêtait pas de préempter sur les les prix donc ça évitait que ça flambe puis après il a laissé flamber on peut dire hein 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1198.45" endTime="1199.709">
+<Sync time="1198.45"/>
+<Who nb="1"/>
+bah il y a des limites en fait 
+<Who nb="2"/>
+puis il a laissé flamber 
+</Turn>
+<Turn speaker="spk1" startTime="1199.709" endTime="1207.155">
+<Sync time="1199.709"/>
+à ce qu'on peut faire moi je me souviens on allait acheter ici enfin on avait visité des maisons ici et on parlait de ça de la préemption 
+</Turn>
+<Turn speaker="spk3" startTime="1207.155" endTime="1218.735">
+<Sync time="1207.155"/>
+ouais ouais il avait cette particularité c'était pour éviter c'était bien au départ mais moi ma fille par exemple qui a acheté dans le bas-Montreuil à Robespierre il a préempté et puis ça s'est fait sous la table 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1218.735" endTime="1220.027">
+<Sync time="1218.735"/>
+<Who nb="1"/>
+<Comment desc="suite de syllabes incompréhensibles"/> bah oui la différence 
+<Who nb="2"/>
+ah oui 
+</Turn>
+<Turn speaker="spk3" startTime="1220.027" endTime="1229.28">
+<Sync time="1220.027"/>
+chez le notaire on a eu elle a acheté au prix que le no- que le la qui était imposé au(x) notaire(s) mais le mec pour vendre il voulait avoir la différence hein 
+</Turn>
+<Turn speaker="spk1" startTime="1229.28" endTime="1231.584">
+<Sync time="1229.28"/>
+ouais c'est louche tout ça 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1231.584" endTime="1234.584">
+<Sync time="1231.584"/>
+c'est pas on gagne pas grand-chose quoi 
+</Turn>
+<Turn speaker="spk1" startTime="1234.584" endTime="1239.04">
+<Sync time="1234.584"/>
+et et vous 
+<Event desc="bip" type="noise" extent="instantaneous"/>
+Marie- Marie-Hélène vous avez participé à des activités de 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1239.04" endTime="1243.976">
+<Sync time="1239.04"/>
+<Who nb="1"/>
+moi je peux pas je peux pas je pourrais que je garde maman je peux pas 
+<Who nb="2"/>
+loisirs sur la commune ouais ouais 
+</Turn>
+<Turn speaker="spk1" startTime="1243.976" endTime="1244.837">
+<Sync time="1243.976"/>
+ah oui d'accord 
+</Turn>
+<Turn speaker="spk2" startTime="1244.837" endTime="1246.774">
+<Sync time="1244.837"/>
+alors j'ai maman à demeure maintenant 
+</Turn>
+<Turn speaker="spk3" startTime="1246.774" endTime="1248.799">
+<Sync time="1246.774"/>
+on est toutes les deux avec nos petits vieux 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1248.799" endTime="1251.394">
+<Sync time="1248.799"/>
+<Who nb="1"/>
+je peux pas la laisser parce qu'elle tombe souvent 
+<Who nb="2"/>
+ah elle est toujours en vie elle a quel âge votre maman 
+</Turn>
+<Turn speaker="spk2" startTime="1251.394" endTime="1252.204">
+<Sync time="1251.394"/>
+quatre-vingt-huit 
+</Turn>
+<Turn speaker="spk1" startTime="1252.204" endTime="1252.647">
+<Sync time="1252.204"/>
+ah oui 
+</Turn>
+<Turn speaker="spk2" startTime="1252.647" endTime="1260.419">
+<Sync time="1252.647"/>
+alors comme elle tombe souvent et puis qu'elle déprime souvent quand je la laisse elle me fait la tête si je par exemple je je suis un petit peu /<Comment desc="suite de syllabes incompréhensibles"/>, pourtant/ je suis venue ce matin 
+</Turn>
+<Turn speaker="spk3" startTime="1260.419" endTime="1261.925">
+<Sync time="1260.419"/>
+bah ça fait des années qu'elle part pas en vacances 
+</Turn>
+<Turn speaker="spk2" startTime="1261.925" endTime="1277.47">
+<Sync time="1261.925"/>
+pourquoi tu fais ça pourquoi tu fais ça mais fais-le pas j'ai /dit, mis/ maman c'est sympa je lui dis faut bien changer un peu faut bien bouger un peu elle me dit oh bien tu vas encore en courses je suis tenue vous savez je suis trop tenue et puis nous les Ritals on est comme ça hein c'est dans le sang c'est vrai faut dire la vérité on peut pas laisser un parent 
+</Turn>
+<Turn speaker="spk3" startTime="1277.47" endTime="1278.837">
+<Sync time="1277.47"/>
+c'est un esprit de famille 
+</Turn>
+<Turn speaker="spk2" startTime="1278.837" endTime="1286.242">
+<Sync time="1278.837"/>
+ouais on peut pas on a des des rites aussi nous hein faut dire la- faut dire ce qui est puis maman je la laisserais pas 
+</Turn>
+<Turn speaker="spk1" startTime="1286.242" endTime="1289.508">
+<Sync time="1286.242"/>
+donc vous vous voyez comme un comme comme une Italienne 
+</Turn>
+<Turn speaker="spk2" startTime="1289.508" endTime="1296.204">
+<Sync time="1289.508"/>
+bah ça bah oui parce que j'ai été élevée comme ça ça me coûte de la laisser ça me j'ai j'ai j'ai des remords quoi à chaque fois j'ai des remords 
+</Turn>
+<Turn speaker="spk3" startTime="1296.204" endTime="1298.28">
+<Sync time="1296.204"/>
+mais ça serait pas forcément votre côté italien 
+</Turn>
+<Turn speaker="spk2" startTime="1298.28" endTime="1303.749">
+<Sync time="1298.28"/>
+mais si j'ai été élevée comme ça Fran- ma grand-mère était avec nous tout le temps quand on est partis c'est c'est notre tout notre vie 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1303.749" endTime="1305.420">
+<Sync time="1303.749"/>
+<Who nb="1"/>
+je pense que les générations 
+<Who nb="2"/>
+toute notre enfance 
+</Turn>
+<Turn speaker="spk3" startTime="1305.420" endTime="1312.142">
+<Sync time="1305.420"/>
+italiennes maintenant ils foutent lendène- leurs parents en maison de retraite comme partout ça a dû changer croyez pas 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1312.142" endTime="1314.509">
+<Sync time="1312.142"/>
+<Who nb="1"/>
+la nouvelle génération non la génération non 
+<Event desc="bip" type="noise" extent="instantaneous"/>
+Mireille 
+<Who nb="2"/>
+il y a des maisons de retraite en Italie 
+</Turn>
+<Turn speaker="spk2" startTime="1314.509" endTime="1323.048">
+<Sync time="1314.509"/>
+les jeunes peut-être de la géné- entre trente et et peut-être quarante oui mais pas ma génération à moi nous on est encore co- on est encore 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1323.048" endTime="1325.453">
+<Sync time="1323.048"/>
+<Who nb="1"/>
+entrés dans dans cet esprit-là 
+<Who nb="2"/>
+sentait peut-être coupés de la 
+</Turn>
+<Turn speaker="spk1" startTime="1325.453" endTime="1327.909">
+<Sync time="1325.453"/>
+des pratiques italiennes en fait ces gens-là leurs parents 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1327.909" endTime="1331.251">
+<Sync time="1327.909"/>
+<Who nb="1"/>
+c'est comme les Méditerranéens vous savez on est tous pareils hein 
+<Who nb="2"/>
+leurs parents sont nés en France 
+</Turn>
+<Turn speaker="spk2" startTime="1331.251" endTime="1336.256">
+<Sync time="1331.251"/>
+c'est la famille qui compte en premier mais falloir se faire chier à aller les voir des fois il y a 
+</Turn>
+<Turn speaker="spk3" startTime="1336.256" endTime="1338.041">
+<Sync time="1336.256"/>
+<Comment desc="suite de syllabes incompréhensibles"/> 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1338.041" endTime="1358.585">
+<Sync time="1338.041"/>
+c'est fatigant hein c'est très très fatigant le mot que j'ai employé c'est pas beau mais c'est pas vrai non plus mais c'est fatigant parce que faut toujours répéter les mêmes choses faut rassurer faut c'est difficile c'est difficile des fois je dis oh vivement que j'aille à Auchan me ressourcer un coup 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+faut que je sois dehors pour être pour être bien 
+</Turn>
+<Turn speaker="spk1" startTime="1358.585" endTime="1361.053">
+<Sync time="1358.585"/>
+la vie la vraie non 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1361.053" endTime="1363.196">
+<Sync time="1361.053"/>
+<Who nb="1"/>
+je respire dès que je 
+<Who nb="2"/>
+oui c'est ça <Comment desc="suite de syllabes incompréhensibles"/> 
+</Turn>
+<Turn speaker="spk2" startTime="1363.196" endTime="1367.965">
+<Sync time="1363.196"/>
+respire l'air de la rue je suis bien c'est c'est le sirop de la rue moi finalement 
+</Turn>
+<Turn speaker="spk1" startTime="1367.965" endTime="1371.395">
+<Sync time="1367.965"/>
+faut sortir de chez soi 
+</Turn>
+<Turn speaker="spk2" startTime="1371.395" endTime="1374.965">
+<Sync time="1371.395"/>
+vous pouvez faire des activités c'est bien faites-les parce que ça vaut le coup mais moi je peux pas 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1374.965" endTime="1380.712">
+<Sync time="1374.965"/>
+<Who nb="1"/>
+oui parce que papa c'est vrai il est âgé mais il est bien il vit tout seul ouais ouais 
+<Who nb="2"/>
+ah je peux pas je peux pas 
+</Turn>
+<Turn speaker="spk1" startTime="1380.712" endTime="1385.434">
+<Sync time="1380.712"/>
+et en en en structures euh culturelles vous avez parlé d'un théâtre 
+</Turn>
+<Turn speaker="spk3" startTime="1385.434" endTime="1388.51">
+<Sync time="1385.434"/>
+ah oui il y a un nouveau théâtre là qui vient qui a ouvert cet été 
+</Turn>
+<Turn speaker="spk2" startTime="1388.51" endTime="1390.169">
+<Sync time="1388.51"/>
+vous l'avez vue l'inauguration non 
+</Turn>
+<Turn speaker="spk3" startTime="1390.169" endTime="1392.016">
+<Sync time="1390.169"/>
+oui j'ai été au premier <Comment desc="suite de syllabes incompréhensibles"/> 
+</Turn>
+<Turn speaker="spk2" startTime="1392.016" endTime="1392.776">
+<Sync time="1392.016"/>
+c'était bien 
+</Turn>
+<Turn speaker="spk3" startTime="1392.776" endTime="1395.928">
+<Sync time="1392.776"/>
+non c'était chiant c'était Pirandello c'était chiant comme tout 
+</Turn>
+<Turn speaker="spk1" startTime="1395.928" endTime="1396.333">
+<Sync time="1395.928"/>
+ah oui 
+</Turn>
+<Turn speaker="spk3" startTime="1396.333" endTime="1397.952">
+<Sync time="1396.333"/>
+ils ont pour le dernier ils ont fait que des 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1397.952" endTime="1400.928">
+<Sync time="1397.952"/>
+<Who nb="1"/>
+programmes chiants 
+<Who nb="2"/>
+c'était quelle pièce 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1400.928" endTime="1404.27">
+<Sync time="1400.928"/>
+<Who nb="1"/>
+c'était pas les Six personnages en quête d'auteur 
+<Who nb="2"/>
+la Cantatrice chauve 
+</Turn>
+<Turn speaker="spk3" startTime="1404.27" endTime="1406.409">
+<Sync time="1404.27"/>
+non non si c'était Six personnages en quête d'auteur 
+</Turn>
+<Turn speaker="spk1" startTime="1406.409" endTime="1408.523">
+<Sync time="1406.409"/>
+ah vous avez pas aimé 
+</Turn>
+<Turn speaker="spk3" startTime="1408.523" endTime="1409.169">
+<Sync time="1408.523"/>
+après ça 
+</Turn>
+<Turn speaker="spk1" startTime="1409.169" endTime="1410.068">
+<Sync time="1409.169"/>
+j'adore cette pièce 
+</Turn>
+<Turn speaker="spk3" startTime="1410.068" endTime="1410.612">
+<Sync time="1410.068"/>
+ah oui 
+</Turn>
+<Turn speaker="spk1" startTime="1410.612" endTime="1416.638">
+<Sync time="1410.612"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+/<Comment desc="suite de syllabes incompréhensibles"/>, autre/ enfin ça peut être mon- ça peut être mal monté <Comment desc="suite de syllabes incompréhensibles"/> mm mm ah hah 
+</Turn>
+<Turn speaker="spk2" startTime="1416.638" endTime="1420.993">
+<Sync time="1416.638"/>
+non mais j'ai trouvé que c'était compliqué bah si ça devient un méli-mélo de de rôles et de de gens là-dedans c'était 
+</Turn>
+<Turn speaker="spk1" startTime="1420.993" endTime="1421.267">
+<Sync time="1420.993"/>
+d'accord 
+</Turn>
+<Turn speaker="spk3" startTime="1421.267" endTime="1422.499">
+<Sync time="1421.267"/>
+moi j'ai trouvé que c'était chiant 
+</Turn>
+<Turn speaker="spk1" startTime="1422.499" endTime="1424.655">
+<Sync time="1422.499"/>
+mais ça c'est un théâtre qui qui qui vient de s'ouvrir 
+</Turn>
+<Turn speaker="spk3" startTime="1424.655" endTime="1426.912">
+<Sync time="1424.655"/>
+il vient de se faire il a été inauguré dans l'hiver là 
+</Turn>
+<Turn speaker="spk1" startTime="1426.912" endTime="1427.147">
+<Sync time="1426.912"/>
+d'accord 
+</Turn>
+<Turn speaker="spk3" startTime="1427.147" endTime="1428.107">
+<Sync time="1427.147"/>
+donc il avait très peu de 
+</Turn>
+<Turn speaker="spk1" startTime="1428.107" endTime="1429.371">
+<Sync time="1428.107"/>
+il y avait pas de théâtre sur Montreuil avant 
+</Turn>
+<Turn speaker="spk3" startTime="1429.371" endTime="1433.238">
+<Sync time="1429.371"/>
+et après ça ils ont fait un- une pièce qui était tirée d'Au-dessus du volcan là oh c'était 
+</Turn>
+<Turn speaker="spk1" startTime="1433.238" endTime="1434.719">
+<Sync time="1433.238"/>
+ah oui ah oui ça c'est <Comment desc="suite de syllabes incompréhensibles"/> 
+</Turn>
+<Turn speaker="spk3" startTime="1434.719" endTime="1450.505">
+<Sync time="1434.719"/>
+chiant aussi le livre déjà était dur moi j'ai même pas pu lire le bouquin et je m'étais dit peut-être qu'en allant voir la pièce ça passera c'était super chiant aussi bah l'année prochaine espérons qu'ils ont ouais ça va non mais il y a d'autres théâtres hein il y a le théâtre Marcellin Berthelot à la 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1450.505" endTime="1451.567">
+<Sync time="1450.505"/>
+<Who nb="1"/>
+à la Croix de Chavaux 
+<Who nb="2"/>
+oui oui 
+</Turn>
+<Turn speaker="spk3" startTime="1451.567" endTime="1458.923">
+<Sync time="1451.567"/>
+un petit théâtre il y a un autre théâtre à moi j'ai été au théâtre à Girandole voyez à la en face le marché il y a un petit théâtre qui s'appelle la Girandole 
+</Turn>
+<Turn speaker="spk2" startTime="1458.923" endTime="1459.563">
+<Sync time="1458.923"/>
+en face le marché 
+</Turn>
+<Turn speaker="spk2" startTime="1459.563" endTime="1464.211">
+<Sync time="1459.563"/>
+je suis allée la semaine dernière une petite salle de rien du tout très sympa aussi ouais 
+</Turn>
+<Turn speaker="spk1" startTime="1464.211" endTime="1467.421">
+<Sync time="1464.211"/>
+hm ils ont une programmation différente par rapport à 
+</Turn>
+<Turn speaker="spk3" startTime="1467.421" endTime="1489.475">
+<Sync time="1467.421"/>
+oh oui c'est des petites c'est des gens seuls qui font des ouais ouais ouais c'est des Italiens tiens /<Comment desc="suite de syllabes incompréhensibles"/>, juste/ un groupe d'Italiens qui tiennent ça j'ai vu une pièce qui s'appelait le titre était marrant la pièce était un peu chiante enfin c'était Vous reprendrez bien un peu de sexe c'était Dario Fo tiré d'un truc de Dario Fo Vous reprendrez bien un peu de sexe euh merci pour vous être agréable c'était le titre 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ça doit être marrant ça 
+</Turn>
+<Turn speaker="spk2" startTime="1489.475" endTime="1490.453">
+<Sync time="1489.475"/>
+/<Comment desc="suite de syllabes incompréhensibles"/>, ça l'était/ pas 
+</Turn>
+<Turn speaker="spk3" startTime="1490.453" endTime="1515.931">
+<Sync time="1490.453"/>
+c'était assez drôle mais enfin limité quoi c'était une femme qui racontait des si mais ça m- Dario Fo en plus je j'avais une bonne idée je me disais ça doit être drôle ça ça doit être une comédie italienne mais en fait non c'est une dame qui mais enfin un tout petit théâtre et très sympa la Girandole ça s'appelle il y en a plein d'autres hein il y a il y a la mura- il y a le il y a un truc assez moderne assez branché qui est vers oh non des théâtres il y en a non non 
+</Turn>
+<Turn speaker="spk1" startTime="1515.931" endTime="1518.484">
+<Sync time="1515.931"/>
+et des des médiathèques des choses comme ça 
+</Turn>
+<Turn speaker="spk3" startTime="1518.484" endTime="1520.788">
+<Sync time="1518.484"/>
+oh bah il y a une super bibliothèque 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1520.788" endTime="1522.051">
+<Sync time="1520.788"/>
+<Who nb="1"/>
+où je vais moi 
+<Who nb="2"/>
+Robert-Desnos 
+</Turn>
+<Turn speaker="spk1" startTime="1522.051" endTime="1522.557">
+<Sync time="1522.051"/>
+vous y allez 
+</Turn>
+<Turn speaker="spk3" startTime="1522.557" endTime="1522.843">
+<Sync time="1522.557"/>
+oui oui 
+</Turn>
+<Turn speaker="spk2" startTime="1522.843" endTime="1526.807">
+<Sync time="1522.843"/>
+moi j'y vais j'ai été une fois puis j'ai pas trouvé le livre que je voulais alors du coup 
+</Turn>
+<Turn speaker="spk3" startTime="1526.807" endTime="1527.742">
+<Sync time="1526.807"/>
+ah si il y en a il y a 
+</Turn>
+<Turn speaker="spk2" startTime="1527.742" endTime="1529.877">
+<Sync time="1527.742"/>
+ça veut dire il y était mais il avait été emprunté 
+</Turn>
+<Turn speaker="spk3" startTime="1529.877" endTime="1531.861">
+<Sync time="1529.877"/>
+non non il y a une très belle bibliothèque 
+</Turn>
+<Turn speaker="spk2" startTime="1531.861" endTime="1532.342">
+<Sync time="1531.861"/>
+je suis pas retournée 
+</Turn>
+<Turn speaker="spk3" startTime="1532.342" endTime="1534.751">
+<Sync time="1532.342"/>
+ah oui moi je me mets sur des listes d'attente quand il y est pas 
+</Turn>
+<Turn speaker="spk2" startTime="1534.751" endTime="1537.69">
+<Sync time="1534.751"/>
+non il y a une bibliothèque aussi au parc 
+</Turn>
+<Turn speaker="spk3" startTime="1537.69" endTime="1538.625">
+<Sync time="1537.69"/>
+oui l'annexe 
+</Turn>
+<Turn speaker="spk2" startTime="1538.625" endTime="1539.244">
+<Sync time="1538.625"/>
+mm l'annexe 
+</Turn>
+<Turn speaker="spk3" startTime="1539.244" endTime="1539.871">
+<Sync time="1539.244"/>
+l'annexe 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1539.871" endTime="1541.623">
+<Sync time="1539.871"/>
+<Who nb="1"/>
+il y a deux annexes il y a trois annexes je crois 
+<Who nb="2"/>
+<Comment desc="suite de syllabes incompréhensibles"/> 
+</Turn>
+<Turn speaker="spk3" startTime="1541.623" endTime="1549.567">
+<Sync time="1541.623"/>
+à part la grande qui est à la mairie il y a trois annexes mais on peut faire venir je pense des livres non non c'est c'est bien sur le plan culturel 
+</Turn>
+<Turn speaker="spk2" startTime="1549.567" endTime="1554.791">
+<Sync time="1549.567"/>
+et puis alors chaque année c'est les il y a le comment le le Mois du livre non pas le Mois du livre 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1554.791" endTime="1557.94">
+<Sync time="1554.791"/>
+<Who nb="1"/>
+ah oui le Salon du livre de jeunesse 
+<Who nb="2"/>
+Salon du livre à Montreuil 
+</Turn>
+<Turn speaker="spk1" startTime="1557.94" endTime="1559.33">
+<Sync time="1557.94"/>
+d'accord ouais ouais 
+</Turn>
+<Turn speaker="spk3" startTime="1559.33" endTime="1560.905">
+<Sync time="1559.33"/>
+faudrait y aller pour Boniface hein 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1560.905" endTime="1566.298">
+<Sync time="1560.905"/>
+<Who nb="1"/>
+ouais c'est en août c'est en août ouais ouais ouais ouais quand il sera un peu plus grand 
+<Who nb="2"/>
+c'est un très très beau salon du livre 
+</Turn>
+<Turn speaker="spk2" startTime="1566.298" endTime="1569.285">
+<Sync time="1566.298"/>
+avant il était à la mairie sur la place mais maintenant il est s'est 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1569.285" endTime="1570.97">
+<Sync time="1569.285"/>
+<Who nb="1"/>
+déplacé oui 
+<Who nb="2"/>
+il est à Robespierre oui 
+</Turn>
+<Turn speaker="spk1" startTime="1570.97" endTime="1571.507">
+<Sync time="1570.97"/>
+d'accord 
+</Turn>
+<Turn speaker="spk3" startTime="1571.507" endTime="1576.734">
+<Sync time="1571.507"/>
+ah oui c'est très très bien le Salon du livre de jeunesse Salon du livre de jeunesse 
+</Turn>
+<Turn speaker="spk2" startTime="1576.734" endTime="1584.47">
+<Sync time="1576.734"/>
+ah bah il y a des petites manifestations aussi des feux dans la rue piétonnes il y a des musiciens qui viennent il y a des euh des gens 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1584.47" endTime="1587.791">
+<Sync time="1584.47"/>
+<Who nb="1"/>
+ah oui oui parce qu'il y a une rue piétonne 
+<Who nb="2"/>
+le théâtre de rue hein c'est souvent 
+</Turn>
+<Turn speaker="spk3" startTime="1587.791" endTime="1589.422">
+<Sync time="1587.791"/>
+il y a pas longtemps il y avait les chorales toutes les chorales 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1589.422" endTime="1593.345">
+<Sync time="1589.422"/>
+<Who nb="1"/>
+de de du coin sont venues et elles ont investies les coins de la rue ils chantaient 
+<Who nb="2"/>
+oui toutes les chorales 
+</Turn>
+<Turn speaker="spk2" startTime="1593.345" endTime="1596.415">
+<Sync time="1593.345"/>
+des chorales doit y en avoir quatre ou cinq à Montreuil 
+</Turn>
+<Turn speaker="spk1" startTime="1596.415" endTime="1597.845">
+<Sync time="1596.415"/>
+d'accord oui c'est sympa 
+</Turn>
+<Turn speaker="spk2" startTime="1597.845" endTime="1598.773">
+<Sync time="1597.845"/>
+oui c'est sympa 
+</Turn>
+<Turn speaker="spk1" startTime="1598.773" endTime="1599.676">
+<Sync time="1598.773"/>
+oui 
+</Turn>
+<Turn speaker="spk3" startTime="1599.676" endTime="1607.261">
+<Sync time="1599.676"/>
+non mais il y a plein de choses hein si vous voyiez le catalogue de toutes les activités proposées là dans les centres culturels dans l'- à Jean-<Comment desc="suite de syllabes incompréhensibles"/> qui est le plus grand d'ailleurs 
+</Turn>
+<Turn speaker="spk2" startTime="1607.261" endTime="1609.092">
+<Sync time="1607.261"/>
+il y a surtout aussi des braderies hein 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1609.092" endTime="1613.041">
+<Sync time="1609.092"/>
+<Who nb="1"/>
+il y a un conservatoire de musique 
+<Who nb="2"/>
+vide-greniers de braderies souvent souvent 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1613.041" endTime="1614.661">
+<Sync time="1613.041"/>
+<Who nb="1"/>
+quand arrivent les beaux jours hein 
+<Who nb="2"/>
+vous aimez vous y allez 
+</Turn>
+<Turn speaker="spk2" startTime="1614.661" endTime="1618.509">
+<Sync time="1614.661"/>
+oui j'aime ça parce que j'aime fouiner j'aime les vieilles choses j'adore 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1618.509" endTime="1620.636">
+<Sync time="1618.509"/>
+<Who nb="1"/>
+/<Comment desc="suite de syllabes incompréhensibles"/>, je les aime/ pas toutes hein 
+<Who nb="2"/>
+qu'est-ce que vous qu'est-ce que vous cherchez 
+</Turn>
+<Turn speaker="spk2" startTime="1620.636" endTime="1624.358">
+<Sync time="1620.636"/>
+oh non rien j'ai pas d'idées au au un coup de coeur quoi 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1624.358" endTime="1626.179">
+<Sync time="1624.358"/>
+<Who nb="1"/>
+plaisir des yeux quoi 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+comme on dit 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1626.179" endTime="1628.667">
+<Sync time="1626.179"/>
+<Who nb="1"/>
+plaisir des mais si j'ai un truc de souvenir 
+<Who nb="2"/>
+qu'est qu'il y a comme saloperies dans les braderies 
+</Turn>
+<Turn speaker="spk2" startTime="1628.667" endTime="1634.035">
+<Sync time="1628.667"/>
+si un souvenir me me me tente tu sais des fois un vieux moulin à la main là comment que ça s'appelle 
+</Turn>
+<Turn speaker="spk1" startTime="1634.035" endTime="1634.642">
+<Sync time="1634.035"/>
+un moulin à café oui 
+</Turn>
+<Turn speaker="spk2" startTime="1634.642" endTime="1637.452">
+<Sync time="1634.642"/>
+j'aime ça j'aime bien des conneries comme ça 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1637.452" endTime="1641.239">
+<Sync time="1637.452"/>
+oui c'est vrai oui c'est agréable à enfin ça ça évoque le passé 
+</Turn>
+<Turn speaker="spk2" startTime="1641.239" endTime="1647.284">
+<Sync time="1641.239"/>
+si ça fait du bien ça fait du bien des vieilles choses aussi qu'on peut pas prendre ces trucs des fois 
+</Turn>
+<Turn speaker="spk1" startTime="1647.284" endTime="1648.805">
+<Sync time="1647.284"/>
+ouais d'accord 
+</Turn>
+<Turn speaker="spk2" startTime="1648.805" endTime="1667.794">
+<Sync time="1648.805"/>
+ah oui il y a des des bonnes braderies des bonnes font même de la musique des fois au rue de au comment collège le le- Tillemont quand ils font leur braderie là juste au le long du de la grille des des du de l'école d'horticulture 
+</Turn>
+<Turn speaker="spk3" startTime="1667.794" endTime="1668.246">
+<Sync time="1667.794"/>
+ah oui 
+</Turn>
+<Turn speaker="spk2" startTime="1668.246" endTime="1679.009">
+<Sync time="1668.246"/>
+mah ils font aussi de la musique hein des fois il y a des stands des estrades avec des musiciens on les connaît pas les noms sont vraiment pas c'est vraiment des inconnus mais enfin c'est de la musique quand même c'est sympa 
+</Turn>
+<Turn speaker="spk1" startTime="1679.009" endTime="1680.298">
+<Sync time="1679.009"/>
+c'est c'est l'ambiance 
+</Turn>
+<Turn speaker="spk3" startTime="1680.298" endTime="1682.205">
+<Sync time="1680.298"/>
+ouais il y a une école horticole il y a une école 
+</Turn>
+<Turn speaker="spk2" startTime="1682.205" endTime="1683.943">
+<Sync time="1682.205"/>
+oui l'école d'horticulture 
+</Turn>
+<Turn speaker="spk3" startTime="1683.943" endTime="1685.91">
+<Sync time="1683.943"/>
+une école de de cuisine aussi 
+</Turn>
+<Turn speaker="spk2" startTime="1685.91" endTime="1687.877">
+<Sync time="1685.91"/>
+de cuisine je connais pas 
+</Turn>
+<Turn speaker="spk3" startTime="1687.877" endTime="1689.267">
+<Sync time="1687.877"/>
+c'est Amélie-Cotton 
+</Turn>
+<Turn speaker="spk2" startTime="1689.267" endTime="1689.718">
+<Sync time="1689.267"/>
+Amélie-Cotton 
+</Turn>
+<Turn speaker="spk3" startTime="1689.718" endTime="1690.239">
+<Sync time="1689.718"/>
+Eugénie-Cotton 
+</Turn>
+<Turn speaker="spk2" startTime="1690.239" endTime="1691.729">
+<Sync time="1690.239"/>
+Eugénie-Cotton oui 
+</Turn>
+<Turn speaker="spk3" startTime="1691.729" endTime="1694.197">
+<Sync time="1691.729"/>
+<Comment desc="suite de syllabes incompréhensibles"/> restaurant comment ça s'appelle 
+</Turn>
+<Turn speaker="spk2" startTime="1694.197" endTime="1697.082">
+<Sync time="1694.197"/>
+ah bon ah Le bouche là Métier(s) de bouche 
+</Turn>
+<Turn speaker="spk3" startTime="1697.082" endTime="1701.156">
+<Sync time="1697.082"/>
+oui non mais comment ils s'appellent ces écoles qui pra- écol'hôtelière voilà 
+</Turn>
+<Turn speaker="spk2" startTime="1701.156" endTime="1721.291">
+<Sync time="1701.156"/>
+ah oui écol'hôtelière oui mais leur le le comment la l'école d'horticulture elle elle propose aussi chaque année ou deux fois par an les un- vente de de plantes vertes de belles plantes fleuries hein des bouquets composés par les des élèves tout si c'est beau c'est beau à voir oui 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1721.291" endTime="1723.691">
+<Sync time="1721.291"/>
+<Who nb="1"/>
+c'est beau mm c'est beau 
+<Who nb="2"/>
+journée portes ouvertes 
+</Turn>
+<Turn speaker="spk1" startTime="1723.691" endTime="1724.193">
+<Sync time="1723.691"/>
+c'est sympa 
+</Turn>
+<Turn speaker="spk3" startTime="1724.193" endTime="1725.909">
+<Sync time="1724.193"/>
+oh non si on veut faire des choses à Montreuil 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1725.909" endTime="1728.653">
+<Sync time="1725.909"/>
+<Who nb="1"/>
+il y a vraiment de quoi faire 
+<Who nb="2"/>
+parce que les fainéants 
+</Turn>
+<Turn speaker="spk1" startTime="1728.653" endTime="1731.864">
+<Sync time="1728.653"/>
+une fois j'avais fait un il y avait des ateliers d'artistes une journée de 
+</Turn>
+<Turn speaker="spk3" startTime="1731.864" endTime="1733.53">
+<Sync time="1731.864"/>
+une journée portes ouvertes voilà ouais 
+</Turn>
+<Turn speaker="spk2" startTime="1733.53" endTime="1736.575">
+<Sync time="1733.53"/>
+bah les ateliers de quartier ça e- ça existe toujours en bas de la mairie là 
+</Turn>
+<Turn speaker="spk3" startTime="1736.575" endTime="1737.378">
+<Sync time="1736.575"/>
+bah il y en a partout 
+</Turn>
+<Turn speaker="spk1" startTime="1737.378" endTime="1737.714">
+<Sync time="1737.378"/>
+ouais 
+</Turn>
+<Turn speaker="spk3" startTime="1737.714" endTime="1740.674">
+<Sync time="1737.714"/>
+le jour où ils font portes ouvertes euh tu es étonné tu rentres dans des 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1740.674" endTime="1742.039">
+<Sync time="1740.674"/>
+<Who nb="1"/>
+des des des cours 
+<Who nb="2"/>
+dans des appartements oui 
+</Turn>
+<Turn speaker="spk3" startTime="1742.039" endTime="1744.658">
+<Sync time="1742.039"/>
+et tu as des gens qui ont des super lofts et tout ouais 
+</Turn>
+<Turn speaker="spk2" startTime="1744.658" endTime="1749.961">
+<Sync time="1744.658"/>
+ah oui des dans le vieux quartier de Montreuil il y a des pié- des rues encore il y a des cours pavées avec 
+</Turn>
+<Turn speaker="spk3" startTime="1749.961" endTime="1754.285">
+<Sync time="1749.961"/>
+mais des gens a- des choses qui ne s'ouvrent que ces ces jours-là 
+</Turn>
+<Turn speaker="spk1" startTime="1754.285" endTime="1757.471">
+<Sync time="1754.285"/>
+oui c'était en fait c'est des appartements qui servent pas vraiment 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1757.471" endTime="1759.789">
+<Sync time="1757.471"/>
+<Who nb="1"/>
+d'appartements en fait il y a des elles des espèces de 
+<Who nb="2"/>
+faut se balader quoi faut être au courant 
+</Turn>
+<Turn speaker="spk2" startTime="1759.789" endTime="1764.164">
+<Sync time="1759.789"/>
+avec la Dépêche de Montreuil on est au courant quand même hein des 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1764.164" endTime="1766.457">
+<Sync time="1764.164"/>
+<Who nb="1"/>
+c'est là que vous vous trouvez vos informations sur la ville 
+<Who nb="2"/>
+des manifestations qui 
+</Turn>
+<Turn speaker="spk2" startTime="1766.457" endTime="1767.495">
+<Sync time="1766.457"/>
+oui oui oui 
+</Turn>
+<Turn speaker="spk1" startTime="1767.495" endTime="1769.738">
+<Sync time="1767.495"/>
+c'est le le journal de de la ville 
+</Turn>
+<Turn speaker="spk3" startTime="1769.738" endTime="1770.581">
+<Sync time="1769.738"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+oui 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1770.581" endTime="1774.579">
+<Sync time="1770.581"/>
+<Who nb="1"/>
+c'est celui-ci en fait 
+<Who nb="2"/>
+mais avant il était mieux il était mieux conçu avant avant 
+</Turn>
+<Turn speaker="spk3" startTime="1774.579" endTime="1775.984">
+<Sync time="1774.579"/>
+quand c'était Brard 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1775.984" endTime="1777.339">
+<Sync time="1775.984"/>
+non non non mais oui 
+</Turn>
+<Turn speaker="spk1" startTime="1777.339" endTime="1779.105">
+<Sync time="1777.339"/>
+c'est c'est ça se vend en fait c'est 
+</Turn>
+<Turn speaker="spk3" startTime="1779.105" endTime="1783.806">
+<Sync time="1779.105"/>
+non non ça se vend pas bah je sais pas pourquoi il y a toujours un prix sur les trucs gratuits /<Comment desc="suite de syllabes incompréhensibles"/>, tu crois qu'/ ils sont obligés 
+</Turn>
+<Turn speaker="spk2" startTime="1783.806" endTime="1787.905">
+<Sync time="1783.806"/>
+oh c'est peut-être le prix de revient avec le papier non l'impression et tout ça 
+</Turn>
+<Turn speaker="spk3" startTime="1787.905" endTime="1793.684">
+<Sync time="1787.905"/>
+je sais pas mais même sur les trucs qu'on reçoit quand on donne de l'argent à des assos quand ils t'envoient quand envoient un journal il y a toujours un prix de marqué 
+</Turn>
+<Turn speaker="spk2" startTime="1793.684" endTime="1797.221">
+<Sync time="1793.684"/>
+c'était c'était du papier glacé avant un peu un peu plus cartonné 
+</Turn>
+<Turn speaker="spk3" startTime="1797.221" endTime="1799.554">
+<Sync time="1797.221"/>
+ah oui /<Comment desc="suite de syllabes incompréhensibles"/>, tiens regarde/ c'est vrai qu' <Comment desc="suite de syllabes incompréhensibles"/> souviens de celui-là 
+</Turn>
+<Turn speaker="spk2" startTime="1799.554" endTime="1821.539">
+<Sync time="1799.554"/>
+oui il était bien et c'était toujours le même qui é- éniè- en- alors à la fin à la la dernière page il y avait un petit un photo ancienne avec un le comment le pas le résumé d'un- un journaliste avait un petit comment on appelle ça quelqu'un qui fait un un commentaire quoi toujours le même journaliste 
+</Turn>
+<Turn speaker="spk1" startTime="1821.539" endTime="1825.197">
+<Sync time="1821.539"/>
+ah une une chronique une chronique de la ville oui 
+</Turn>
+<Turn speaker="spk2" startTime="1825.197" endTime="1826.152">
+<Sync time="1825.197"/>
+Gilbert Schön c'était 
+</Turn>
+<Turn speaker="spk1" startTime="1826.152" endTime="1826.68">
+<Sync time="1826.152"/>
+d'accord 
+</Turn>
+<Turn speaker="spk2" startTime="1826.68" endTime="1828.052">
+<Sync time="1826.68"/>
+et après il faisait bien 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1828.052" endTime="1829.047">
+<Sync time="1828.052"/>
+<Who nb="1"/>
+regardez 
+<Who nb="2"/>
+<Comment desc="suite de syllabes incompréhensibles"/> 
+</Turn>
+<Turn speaker="spk3" startTime="1829.047" endTime="1832.504">
+<Sync time="1829.047"/>
+le programme du Méliès qu'on a aussi à disposition la la quantité 
+</Turn>
+<Turn speaker="spk2" startTime="1832.504" endTime="1835.997">
+<Sync time="1832.504"/>
+on en avait pas gardé la vieux machin-là le 
+</Turn>
+<Turn speaker="spk3" startTime="1835.997" endTime="1838.223">
+<Sync time="1835.997"/>
+si je crois que j'en ai gardé 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1838.223" endTime="1839.675">
+<Sync time="1838.223"/>
+<Who nb="1"/>
+cartonné 
+<Who nb="2"/>
+moi j'ai /<Comment desc="suite de syllabes incompréhensibles"/>, hein tu vois/ quand même on a 
+</Turn>
+<Turn speaker="spk3" startTime="1839.675" endTime="1844.356">
+<Sync time="1839.675"/>
+on a un une sacré quantité de de films à voir hein pour trois quatre-vingt-dix non c'est vraiment 
+</Turn>
+<Turn speaker="spk1" startTime="1844.356" endTime="1846.896">
+<Sync time="1844.356"/>
+ouais c'est sûr donc ça comme ça vous êtes 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1846.896" endTime="1849.76">
+<Sync time="1846.896"/>
+<Who nb="1"/>
+et ça ils sont très fréquentés en plus je veux dire ces trucs-là 
+<Who nb="2"/>
+bien informées de de ce qui se passe 
+</Turn>
+<Turn speaker="spk3" startTime="1849.76" endTime="1855.026">
+<Sync time="1849.76"/>
+existent mais ils sont très fréquentés il y a tout le temps du monde au Méliès étant tout ce qu'ils organisent quoi 
+</Turn>
+<Turn speaker="spk1" startTime="1855.026" endTime="1860.604">
+<Sync time="1855.026"/>
+et vous avez dit tout à l'heure que c'était qu'il y avait un conflit entre ce cinéma-là et le l'UGC 
+</Turn>
+<Turn speaker="spk3" startTime="1860.604" endTime="1861.358">
+<Sync time="1860.604"/>
+ils sont en procès 
+</Turn>
+<Turn speaker="spk1" startTime="1861.358" endTime="1861.951">
+<Sync time="1861.358"/>
+en procès pourquoi 
+</Turn>
+<Turn speaker="spk3" startTime="1861.951" endTime="1884.7">
+<Sync time="1861.951"/>
+parce que l'UGC ne re- attaquent le Méliès qui veut multiplier ses salles à la Croix de Chavaux ils en ont trois salles en ce moment et le le projet c'est de transporter le Méliès dans le nouveau contexte de la mairie et il y en aura six à ce moment-là donc euh l'UGC les attaque pour par rapport à leurs salles qu'ils ont à Rosny voilà c'est un truc à la con 
+</Turn>
+<Turn speaker="spk1" startTime="1884.7" endTime="1885.257">
+<Sync time="1884.7"/>
+pourquoi 
+</Turn>
+<Turn speaker="spk3" startTime="1885.257" endTime="1887.816">
+<Sync time="1885.257"/>
+pour pour concurrence déloyale 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1887.816" endTime="1888.67">
+<Sync time="1887.816"/>
+<Who nb="1"/>
+je crois 
+<Who nb="2"/>
+ah concurrence d'accord 
+</Turn>
+<Turn speaker="spk3" startTime="1888.67" endTime="1892.76">
+<Sync time="1888.67"/>
+je crois parce que c'est du cinoche pas cher et que les gens de Rosny 
+</Turn>
+<Turn speaker="spk1" startTime="1892.76" endTime="1894.821">
+<Sync time="1892.76"/>
+c'est c'est subventionné par la mairie en fait oui 
+</Turn>
+<Turn speaker="spk3" startTime="1894.821" endTime="1897.022">
+<Sync time="1894.821"/>
+c'est municipal c'est un cinéma municipal 
+</Turn>
+<Turn speaker="spk1" startTime="1897.022" endTime="1898.856">
+<Sync time="1897.022"/>
+d'accord ah oui 
+</Turn>
+<Turn speaker="spk3" startTime="1898.856" endTime="1934.414">
+<Sync time="1898.856"/>
+oui oui mais ils sont en train de le perdre le procès puis il y a eu des pétitions énormes tous les cinéastes et tout en sont rattachés maintenant ils sont en train d'emmerder euh un une autre Noisy-le-Grand qui a une structure aussi avec des cinémas et ils sont finalement ils ont transféré visiblement leur hargne de Montreuil vers Noisy-le-Grand qui essaye aussi de faire des structures de cinéma alors voilà et finalement je crois que finalement d'après ce qu- ce qu'il y a marqué au cinoche ils sont en train de laisser tomber plus ou moins le le procès qu'ils savent perdu de toute façon parce que je crois que le Méliès a le droit de c'est pas parce que 
+</Turn>
+<Turn speaker="spk2" startTime="1934.414" endTime="1937.153">
+<Sync time="1934.414"/>
+et par contre je voudrais parler d'autre chose là 
+</Turn>
+<Turn speaker="spk3" startTime="1937.153" endTime="1942.042">
+<Sync time="1937.153"/>
+ils ont fait valoir en fait que très peu de films étaient en concurrence entre les grandes salles UGC et ça 
+</Turn>
+<Turn speaker="spk2" startTime="1942.042" endTime="1947.042">
+<Sync time="1942.042"/>
+pour les enfants il y a toujours les colonies de vacances qui existent depuis que je suis toute petite 
+</Turn>
+<Turn speaker="spk3" startTime="1947.042" endTime="1948.248">
+<Sync time="1947.042"/>
+ah vous les avez connues vous les colos 
+</Turn>
+<Turn speaker="spk2" startTime="1948.248" endTime="1955.51">
+<Sync time="1948.248"/>
+les colos de Montreuil alors il y en a il y en a en Bourgogne donc à Saint-Bris-le-Vineux magnifique colonie 
+</Turn>
+<Turn speaker="spk3" startTime="1955.51" endTime="1956.731">
+<Sync time="1955.51"/>
+en plein vignoble 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1956.731" endTime="1958.088">
+<Sync time="1956.731"/>
+vous avez été quand vous étiez petite 
+</Turn>
+<Turn speaker="spk2" startTime="1958.088" endTime="1976.42">
+<Sync time="1958.088"/>
+ah oui c'est trop beau il y a dans le Jura à Ecry pas loin de Lons-le-Saunier alors c'est d- celui-là je le connais les autres je les connais pas je sais qu'il y avait à maintenant Berck mais elle est fermée la colonie de Berck-Plage donc c'est au bord de la mer alors il y avait montagne campagne et bord de mer 
+</Turn>
+<Turn speaker="spk1" startTime="1976.42" endTime="1979.928">
+<Sync time="1976.42"/>
+et vous êtes partie avec vos en- vos 
+</Turn>
+<Turn speaker="spk2" startTime="1979.928" endTime="1985.913">
+<Sync time="1979.928"/>
+ah non non non tous les tous les ans maman m'inscrivait pour partir un mois en colo ou deux mois ça dépend 
+</Turn>
+<Turn speaker="spk1" startTime="1985.913" endTime="1986.567">
+<Sync time="1985.913"/>
+d'accord 
+</Turn>
+<Turn speaker="spk2" startTime="1986.567" endTime="1987.38">
+<Sync time="1986.567"/>
+avec la mairie 
+</Turn>
+<Turn speaker="spk1" startTime="1987.38" endTime="1988.26">
+<Sync time="1987.38"/>
+d'accord 
+</Turn>
+<Turn speaker="spk2" startTime="1988.26" endTime="1988.828">
+<Sync time="1988.26"/>
+voilà 
+</Turn>
+<Turn speaker="spk1" startTime="1988.828" endTime="1989.21">
+<Sync time="1988.828"/>
+deux mois 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1989.21" endTime="1990.642">
+<Sync time="1989.21"/>
+<Who nb="1"/>
+deux mois ou un mois 
+<Who nb="2"/>
+ça décline 
+</Turn>
+<Turn speaker="spk1" startTime="1990.642" endTime="1991.104">
+<Sync time="1990.642"/>
+c'est long 
+</Turn>
+<Turn speaker="spk2" startTime="1991.104" endTime="1992.627">
+<Sync time="1991.104"/>
+oui oui oui dans le temps on avait droit jusqu'à deux mois 
+</Turn>
+<Turn speaker="spk3" startTime="1992.627" endTime="1993.119">
+<Sync time="1992.627"/>
+ah la la 
+</Turn>
+<Turn speaker="spk1" startTime="1993.119" endTime="1994.15">
+<Sync time="1993.119"/>
+vous êtes partie deux mois 
+</Turn>
+<Turn speaker="spk2" startTime="1994.15" endTime="1995.472">
+<Sync time="1994.15"/>
+oui je suis partie deux mois 
+</Turn>
+<Turn speaker="spk1" startTime="1995.472" endTime="1997.522">
+<Sync time="1995.472"/>
+c'est- vos parents vous manquaient 
+</Turn>
+<Turn speaker="spk2" startTime="1997.522" endTime="2002.874">
+<Sync time="1997.522"/>
+oh mais c'était trop bien on s'amusait trop non c'était bien j'aimais j'avais des copines aussi 
+</Turn>
+<Turn speaker="spk3" startTime="2002.874" endTime="2005.186">
+<Sync time="2002.874"/>
+il paraît que les gens veulent plus du tout envoyer les mômes en colonie 
+</Turn>
+<Turn speaker="spk2" startTime="2005.186" endTime="2005.854">
+<Sync time="2005.186"/>
+ah non maintenant c'est 
+</Turn>
+<Turn speaker="spk1" startTime="2005.854" endTime="2008.493">
+<Sync time="2005.854"/>
+deux mois c'est vrai que ça se fait plus hein 
+</Turn>
+<Turn speaker="spk2" startTime="2008.493" endTime="2009.362">
+<Sync time="2008.493"/>
+puis ils ont ouvert 
+</Turn>
+<Turn speaker="spk1" startTime="2009.362" endTime="2011.423">
+<Sync time="2009.362"/>
+vous vous l'envisagez par exemple de pouvoir faire ça 
+</Turn>
+<Turn speaker="spk1" startTime="2011.423" endTime="2013.926">
+<Sync time="2011.423"/>
+oh peut-être mais pas deux mois oui c'est vrai que 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="2013.926" endTime="2016.981">
+<Sync time="2013.926"/>
+<Who nb="1"/>
+ça me paraît long oui oui oui 
+<Who nb="2"/>
+ah non deux mois ça se fait plus ça même ils ont raccourci 
+</Turn>
+<Turn speaker="spk3" startTime="2016.981" endTime="2019.056">
+<Sync time="2016.981"/>
+ils font des séjours de trois semaines au lieu d'un mois maintenant 
+</Turn>
+<Turn speaker="spk2" startTime="2019.056" endTime="2025.905">
+<Sync time="2019.056"/>
+bah il y a trop de monde aussi hein puis à l'époque si on man- si on nous acceptait deux mois c'est qu'on pou- pouvait 
+</Turn>
+<Turn speaker="spk1" startTime="2025.905" endTime="2026.408">
+<Sync time="2025.905"/>
+mm oui oui 
+</Turn>
+<Turn speaker="spk2" startTime="2026.408" endTime="2029.313">
+<Sync time="2026.408"/>
+mais il y a eu d'autres d'autres colos d'ouvertes hein 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2029.313" endTime="2031.841">
+<Sync time="2029.313"/>
+<Who nb="1"/>
+mais c'est plus tellement dans l'esprit des gens 
+<Who nb="2"/>
+au fil des années non 
+</Turn>
+<Turn speaker="spk2" startTime="2031.841" endTime="2033.414">
+<Sync time="2031.841"/>
+non mais c'était bien la colo 
+</Turn>
+<Turn speaker="spk3" startTime="2033.414" endTime="2036.595">
+<Sync time="2033.414"/>
+les enfants rois 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+maintenant parce que c'est des enfants rois 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2036.595" endTime="2037.389">
+<Sync time="2036.595"/>
+oui oui ils sont 
+</Turn>
+<Turn speaker="spk3" startTime="2037.389" endTime="2043.208">
+<Sync time="2037.389"/>
+qu'on n'ose pas contrarier et s'ils veulent pas y aller ils y vont pas quoi alors nous on nous demandait pas moi aussi j'étais en colo 
+</Turn>
+<Turn speaker="spk2" startTime="2043.208" endTime="2044.238">
+<Sync time="2043.208"/>
+mais ça vous a plu 
+</Turn>
+<Turn speaker="spk3" startTime="2044.238" endTime="2044.967">
+<Sync time="2044.238"/>
+non jamais 
+</Turn>
+<Turn speaker="spk2" startTime="2044.967" endTime="2045.580">
+<Sync time="2044.967"/>
+oooh 
+</Turn>
+<Turn speaker="spk3" startTime="2045.580" endTime="2046.731">
+<Sync time="2045.580"/>
+j'étais pas t- enfin je crois pas 
+</Turn>
+<Turn speaker="spk2" startTime="2046.731" endTime="2058.314">
+<Sync time="2046.731"/>
+on avait qu'une hâte mais c'est de partir en colo alors tu es inscrite elle doit t'inscrire qu'on disait alors on va à Saint-Bris cette année cette année c'est Saint-Bris et après c'était le Jura moi je suis jamais allée à Berck 
+</Turn>
+<Turn speaker="spk3" startTime="2058.314" endTime="2059.56">
+<Sync time="2058.314"/>
+il y avait Bourron-Marlotte aussi 
+</Turn>
+<Turn speaker="spk2" startTime="2059.56" endTime="2062.952">
+<Sync time="2059.56"/>
+alors Bou- euh mes enfants sont allés à Bourron-Marlotte /<Comment desc="suite de syllabes incompréhensibles"/>, enseigner/ 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2062.952" endTime="2069.007">
+<Sync time="2062.952"/>
+<Who nb="1"/>
+c'était en randonnée voilà c'était un lieu Bourron-Marlotte c'est c'est <Comment desc="suite de syllabes incompréhensibles"/> ils l'ont plus hein 
+<Who nb="2"/>
+c'est adorable adorable c'est pour les petits hein adorable 
+</Turn>
+<Turn speaker="spk2" startTime="2069.007" endTime="2072.841">
+<Sync time="2069.007"/>
+ah oui il l'ont plus oui c'est vrai je l'ai lu ils ont plus Bourron-Marlotte 
+</Turn>
+<Turn speaker="spk3" startTime="2072.841" endTime="2073.52">
+<Sync time="2072.841"/>
+parce que la randonnée y allait 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2073.52" endTime="2077.857">
+<Sync time="2073.52"/>
+<Who nb="1"/>
+souvent comme point de de chute 
+<Who nb="2"/>
+c'est près de Coulommiers hein c'est pas tellement loin oh c'était trop mignon ça 
+</Turn>
+<Turn speaker="spk2" startTime="2077.857" endTime="2084.053">
+<Sync time="2077.857"/>
+oh les vaches ils nous ont eus encore bon tant pis pour nous 
+</Turn>
+<Turn speaker="spk1" startTime="2084.053" endTime="2090.676">
+<Sync time="2084.053"/>
+tout se perd hum donc en fait vous pour les loisirs /<Comment desc="suite de syllabes incompréhensibles"/>, il faisait plutôt/ juste vous promener 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2090.676" endTime="2094.495">
+<Sync time="2090.676"/>
+<Who nb="1"/>
+oh bah je me balade moi je fais mes courses voilà mes promenades quotidiennes 
+<Who nb="2"/>
+aller faire vos courses des choses comme ça 
+</Turn>
+<Turn speaker="spk2" startTime="2094.495" endTime="2103.43">
+<Sync time="2094.495"/>
+le parc Montreaux quand je vais chez le je vais chez le comment le l'ophthalmo parce que on a notre ophthalmo n'a le le centre dispensaire 
+</Turn>
+<Turn speaker="spk1" startTime="2103.43" endTime="2103.967">
+<Sync time="2103.43"/>
+d'accord 
+</Turn>
+<Turn speaker="spk2" startTime="2103.967" endTime="2104.596">
+<Sync time="2103.967"/>
+donc je me promène 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2104.596" endTime="2105.691">
+<Sync time="2104.596"/>
+<Who nb="1"/>
+voilà 
+<Who nb="2"/>
+en même temps 
+</Turn>
+<Turn speaker="spk1" startTime="2105.691" endTime="2108.154">
+<Sync time="2105.691"/>
+et vous faites toujours vos courses au même endroit 
+</Turn>
+<Turn speaker="spk2" startTime="2108.154" endTime="2108.973">
+<Sync time="2108.154"/>
+oui 
+</Turn>
+<Turn speaker="spk1" startTime="2108.973" endTime="2110.068">
+<Sync time="2108.973"/>
+c'est ou- au super- 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2110.068" endTime="2112.556">
+<Sync time="2110.068"/>
+<Who nb="1"/>
+immuablement je vais à Auchan 
+<Who nb="2"/>
+marché ou des petits magasins 
+</Turn>
+<Turn speaker="spk2" startTime="2112.556" endTime="2118.626">
+<Sync time="2112.556"/>
+je vais à 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+U- à comment à U Super U et à Lidl en bas aux Morillons 
+</Turn>
+<Turn speaker="spk3" startTime="2118.626" endTime="2119.757">
+<Sync time="2118.626"/>
+ah oui vous faites les trois 
+</Turn>
+<Turn speaker="spk2" startTime="2119.757" endTime="2120.812">
+<Sync time="2119.757"/>
+oui ou alors aux Morillons 
+</Turn>
+<Turn speaker="spk1" startTime="2120.812" endTime="2125.687">
+<Sync time="2120.812"/>
+comment vous vous décidez entre enfin là comment vous vous décidez pour l'un ou l'autre 
+</Turn>
+<Turn speaker="spk2" startTime="2125.687" endTime="2127.963">
+<Sync time="2125.687"/>
+bah suivant ce qui me manque 
+</Turn>
+<Turn speaker="spk1" startTime="2127.963" endTime="2128.365">
+<Sync time="2127.963"/>
+oui 
+</Turn>
+<Turn speaker="spk2" startTime="2128.365" endTime="2139.505">
+<Sync time="2128.365"/>
+parce que je me dis tiens il me manque ça les fromages ils sont meilleurs à tel endroit j'irai chercher mes fromages là la lessive elle est moins chère en bas dans la Plaine je vais dans la Plaine ou alors il y a des nouveautés à U je vais à U bon bah 
+</Turn>
+<Turn speaker="spk1" startTime="2139.505" endTime="2142.227">
+<Sync time="2139.505"/>
+il y a il y a plus de de petits commerces de 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2142.227" endTime="2143.784">
+<Sync time="2142.227"/>
+<Who nb="1"/>
+d'alimentation 
+<Who nb="2"/>
+c'est presque fini 
+</Turn>
+<Turn speaker="spk2" startTime="2143.784" endTime="2144.759">
+<Sync time="2143.784"/>
+bah il y a plus que notre Marocain 
+</Turn>
+<Turn speaker="spk3" startTime="2144.759" endTime="2149.025">
+<Sync time="2144.759"/>
+bah notre dernier épicier qui est là oui il vend tellement cher en plus 
+</Turn>
+<Turn speaker="spk1" startTime="2149.025" endTime="2150.076">
+<Sync time="2149.025"/>
+c'est pour dépanner plutôt 
+</Turn>
+<Turn speaker="spk2" startTime="2150.076" endTime="2159.861">
+<Sync time="2150.076"/>
+elle aurait p- notre Shopi il est fermé ils ont eu a- ils sont venu à bout de Shopi bah il y a eu une grande surface <Comment desc="suite de syllabes incompréhensibles"/> un hypermarché qui s'est ouvert ou un supermarché 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2159.861" endTime="2163.342">
+<Sync time="2159.861"/>
+<Who nb="1"/>
+au nez de l'autre au nez de oui je vois pas comment on a le droit de faire ça 
+<Who nb="2"/>
+oui oui alors l'autre il a fermé 
+</Turn>
+<Turn speaker="spk3" startTime="2163.342" endTime="2167.709">
+<Sync time="2163.342"/>
+oui oui en deux mois le mec il était scié c'était une moyenne surface quoi 
+</Turn>
+<Turn speaker="spk2" startTime="2167.709" endTime="2170.038">
+<Sync time="2167.709"/>
+c'était bien moi j'aimais- vous l'aimiez pas vous y aller 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2170.038" endTime="2172.405">
+<Sync time="2170.038"/>
+<Who nb="1"/>
+moi oh non toujours des 
+<Who nb="2"/>
+moi j'aimais bien c'était sympa 
+</Turn>
+<Turn speaker="spk3" startTime="2172.405" endTime="2175.595">
+<Sync time="2172.405"/>
+des gens qui vous suivaient dans les rayons comme si on avait été ah oui 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2175.595" endTime="2177.138">
+<Sync time="2175.595"/>
+<Who nb="1"/>
+c'est assez désagréable 
+<Who nb="2"/>
+moi je faisais pas attention 
+</Turn>
+<Turn speaker="spk3" startTime="2177.138" endTime="2181.872">
+<Sync time="2177.138"/>
+mais enfin quand même dans le principe je trouve que c'est vraiment dégueulasse quoi d'autoriser hein ils l'ont scié quoi c'était sûr 
+</Turn>
+<Turn speaker="spk2" startTime="2181.872" endTime="2182.696">
+<Sync time="2181.872"/>
+ah oui oui oui 
+</Turn>
+<Turn speaker="spk3" startTime="2182.696" endTime="2186.418">
+<Sync time="2182.696"/>
+ce le Super U s'est construit à vingt mètres de ce machin et là ça y est il est fermé 
+</Turn>
+<Turn speaker="spk2" startTime="2186.418" endTime="2188.899">
+<Sync time="2186.418"/>
+c'est pas juste bah là mais Franprix a pas fermé 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2188.899" endTime="2189.735">
+<Sync time="2188.899"/>
+<Who nb="1"/>
+c'est les lois du commerce 
+<Who nb="2"/>
+par contre 
+</Turn>
+<Turn speaker="spk2" startTime="2189.735" endTime="2191.215">
+<Sync time="2189.735"/>
+Franprix est resté 
+</Turn>
+<Turn speaker="spk3" startTime="2191.215" endTime="2192.228">
+<Sync time="2191.215"/>
+je ne connais même pas votre Franprix 
+</Turn>
+<Turn speaker="spk2" startTime="2192.228" endTime="2193.114">
+<Sync time="2192.228"/>
+c'est où il y a le 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2193.114" endTime="2194.063">
+<Sync time="2193.114"/>
+<Who nb="1"/>
+quand même plus loin 
+<Who nb="2"/>
+château d'eau 
+</Turn>
+<Turn speaker="spk2" startTime="2194.063" endTime="2194.886">
+<Sync time="2194.063"/>
+il y a le château d'eau 
+</Turn>
+<Turn speaker="spk3" startTime="2194.886" endTime="2196.443">
+<Sync time="2194.886"/>
+ah bon c'est quand même bien plus loin 
+</Turn>
+<Turn speaker="spk2" startTime="2196.443" endTime="2208.759">
+<Sync time="2196.443"/>
+pas tellement non parce que vous prenez la rue Anatole France Franprix il fait ça le coin comme ça vous prenez la rue Anatole France vous- vous continuez un peu paf le U il est là ils sont pas loin hein 
+</Turn>
+<Turn speaker="spk3" startTime="2208.759" endTime="2209.215">
+<Sync time="2208.759"/>
+ah ouais 
+</Turn>
+<Turn speaker="spk2" startTime="2209.215" endTime="2210.532">
+<Sync time="2209.215"/>
+parce que vous connaissez pas le coin 
+</Turn>
+<Turn speaker="spk3" startTime="2210.532" endTime="2212.545">
+<Sync time="2210.532"/>
+non non puis moi je fais mes courses <Comment desc="suite de syllabes incompréhensibles"/> prendre le bus 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2212.545" endTime="2216.634">
+<Sync time="2212.545"/>
+<Who nb="1"/>
+à vrai dire souvent voilà je fais les courses à Croix de Chavaux 
+<Who nb="2"/>
+voilà voilà voilà non non mais vous connaissez pas le coin c'est pour ça 
+</Turn>
+<Turn speaker="spk3" startTime="2216.634" endTime="2217.837">
+<Sync time="2216.634"/>
+ah non je vais jamais par là 
+</Turn>
+<Turn speaker="spk1" startTime="2217.837" endTime="2224.432">
+<Sync time="2217.837"/>
+mais vous allez jamais dans les vous avez évoqué des des commerces de produits exotiques 
+</Turn>
+<Turn speaker="spk2" startTime="2224.432" endTime="2227.71">
+<Sync time="2224.432"/>
+ah bah il y en a plein rue de Paris oui bah du du 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2227.71" endTime="2235.761">
+<Sync time="2227.71"/>
+<Who nb="1"/>
+ah oui toute la rue de Paris hein la rue de Paris vous pouvez l'enfiler à minuit et demie tout est ouvert <Comment desc="suite de syllabes incompréhensibles"/> c'est très sympa ça 
+<Who nb="2"/>
+comment des produits africains algériens quoi c'est bien la rue de Paris c'est vrai que c'est sympa 
+</Turn>
+<Turn speaker="spk1" startTime="2235.761" endTime="2240.609">
+<Sync time="2235.761"/>
+/<Comment desc="suite de syllabes incompréhensibles"/>, c'est vrai que c'est/ <Comment desc="suite de syllabes incompréhensibles"/> comme ça ouais et vous vous avez testé des choses 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2240.609" endTime="2241.754">
+<Sync time="2240.609"/>
+<Who nb="1"/>
+vous avez été voir 
+<Who nb="2"/>
+ah moi des fois je vais 
+</Turn>
+<Turn speaker="spk2" startTime="2241.754" endTime="2248.862">
+<Sync time="2241.754"/>
+chercher des fois il y a un poulet chez halal des fois il m'est arrivé de prendre des merguez aussi au boucher halal qui fait le coin vous savez 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2248.862" endTime="2254.508">
+<Sync time="2248.862"/>
+<Who nb="1"/>
+enfin c'est à la Croix de Chav- non pas de mouton il y a que des poulets chez eux 
+<Who nb="2"/>
+ah la la ça pue tellement ils font cuire le mouton ça me lève le coeur 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ah le mouton qui 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="2254.508" endTime="2256.938">
+<Sync time="2254.508"/>
+<Who nb="1"/>
+mouton qui cuit je trouve que c'est 
+<Who nb="2"/>
+su- sur le le présentoir à l'extérieur 
+</Turn>
+<Turn speaker="spk2" startTime="2256.938" endTime="2259.368">
+<Sync time="2256.938"/>
+je prends là même des merguez des fois je prends 
+</Turn>
+<Turn speaker="spk3" startTime="2259.368" endTime="2261.267">
+<Sync time="2259.368"/>
+oh bah si parce qu'ils font tourner des têtes de mouton <Comment desc="suite de syllabes incompréhensibles"/> 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="2261.267" endTime="2265.736">
+<Sync time="2261.267"/>
+<Who nb="1"/>
+ah j' <Comment desc="suite de syllabes incompréhensibles"/> jamais vu ah bon j'ai jamais vu 
+<Who nb="2"/>
+là aussi ah la la moi c'est la c'est l'odeur qui me fait mal 
+</Turn>
+<Turn speaker="spk2" startTime="2265.736" endTime="2266.215">
+<Sync time="2265.736"/>
+ah bon 
+</Turn>
+<Turn speaker="spk3" startTime="2266.215" endTime="2267.696">
+<Sync time="2266.215"/>
+ouais il y a des têtes de mouton qui tournent 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2267.696" endTime="2269.139">
+<Sync time="2267.696"/>
+<Who nb="1"/>
+dans les broches 
+<Who nb="2"/>
+ah non j'ai jamais vu 
+</Turn>
+<Turn speaker="spk3" startTime="2269.139" endTime="2271.974">
+<Sync time="2269.139"/>
+vous avez jamais vu vous avez pris ça pour des poulets peut-être 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2271.974" endTime="2273.696">
+<Sync time="2271.974"/>
+ah non ah bah quand même pas 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2273.696" endTime="2276.911">
+<Sync time="2273.696"/>
+<Who nb="1"/>
+comme ça dégouterait assez de bouffer une tête de mouton c'est pour ça que 
+<Who nb="2"/>
+non non non non j'ai 
+</Turn>
+<Turn speaker="spk2" startTime="2276.911" endTime="2279.519">
+<Sync time="2276.911"/>
+jamais vu c'est peut-être <Comment desc="suite de syllabes incompréhensibles"/> un commerçant dans le 
+</Turn>
+<Turn speaker="spk3" startTime="2279.519" endTime="2283.354">
+<Sync time="2279.519"/>
+si à l'angle là celui qui fait tourner de la de la viande tout de suite à la Croix de Chavaux 
+</Turn>
+<Turn speaker="spk2" startTime="2283.354" endTime="2284.392">
+<Sync time="2283.354"/>
+oui le premier 
+</Turn>
+<Turn speaker="spk3" startTime="2284.392" endTime="2284.975">
+<Sync time="2284.392"/>
+ouais ouais 
+</Turn>
+<Turn speaker="spk2" startTime="2284.975" endTime="2286.76">
+<Sync time="2284.975"/>
+<Comment desc="suite de syllabes incompréhensibles"/> 
+</Turn>
+<Turn speaker="spk3" startTime="2286.76" endTime="2287.532">
+<Sync time="2286.76"/>
+non moi je vais pas 
+</Turn>
+<Turn speaker="spk2" startTime="2287.532" endTime="2289.608">
+<Sync time="2287.532"/>
+moi je vais au marché moi j'aime bien le marché de la Croix de Chavaux aussi 
+</Turn>
+<Turn speaker="spk3" startTime="2289.608" endTime="2291.519">
+<Sync time="2289.608"/>
+il y a un grand marché euh bio par contre 
+</Turn>
+<Turn speaker="spk1" startTime="2291.519" endTime="2291.975">
+<Sync time="2291.519"/>
+ah oui 
+</Turn>
+<Turn speaker="spk3" startTime="2291.975" endTime="2294.532">
+<Sync time="2291.975"/>
+place de la République alors là c'est le côté bobo de Montreuil 
+</Turn>
+<Turn speaker="spk1" startTime="2294.532" endTime="2299.646">
+<Sync time="2294.532"/>
+c'est le place de la mairie là où il y a la mairie c'est ça place de la République là où il y a la mairie 
+</Turn>
+<Turn speaker="spk3" startTime="2299.646" endTime="2304.317">
+<Sync time="2299.646"/>
+ah non pas du tout c'est dans le vieux Montreuil c'est dans le bas-Montreuil c'est métro Robespierre 
+</Turn>
+<Turn speaker="spk1" startTime="2304.317" endTime="2304.633">
+<Sync time="2304.317"/>
+d'accord 
+</Turn>
+<Turn speaker="spk3" startTime="2304.633" endTime="2309.444">
+<Sync time="2304.633"/>
+il y a toute une petite place et alors là il y a des magasins qui s'appellent les Nouveaux vous les connaissez peut-être pas 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2309.444" endTime="2310.495">
+<Sync time="2309.444"/>
+<Who nb="1"/>
+les Nouveaux Robinson 
+<Who nb="2"/>
+non je connais pas 
+</Turn>
+<Turn speaker="spk3" startTime="2310.495" endTime="2317.622">
+<Sync time="2310.495"/>
+qui se s- qui ont investi toute la place et ils font du bio alors là pour tous les nouveaux arrivants de Montreuil 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2317.622" endTime="2319.331">
+<Sync time="2317.622"/>
+<Who nb="1"/>
+qui mangent bio 
+<Who nb="2"/>
+je vois même pas où c'est 
+</Turn>
+<Turn speaker="spk3" startTime="2319.331" endTime="2319.901">
+<Sync time="2319.331"/>
+bah ouais 
+</Turn>
+<Turn speaker="spk2" startTime="2319.901" endTime="2321.179">
+<Sync time="2319.901"/>
+métro Robespierre vous dites 
+</Turn>
+<Turn speaker="spk3" startTime="2321.179" endTime="2341.939">
+<Sync time="2321.179"/>
+place de la République vous voyez pas cette place elle est assez assez jolie et la rue Barbès la rue Robespierre l'église l'église qui avu- Robespierre et il y a une place avec un grand square et tout le tour oh c'est très ça ça a été racheté en deux temps trois mouvements il y a tous les lofts qui sont construits là les anciennes petites boîtes qui ont fait des lofts quoi 
+</Turn>
+<Turn speaker="spk1" startTime="2341.939" endTime="2342.794">
+<Sync time="2341.939"/>
+donc ça fait un petit quartier 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="2342.794" endTime="2344.68">
+<Sync time="2342.794"/>
+<Who nb="1"/>
+bobo ah OK 
+<Who nb="2"/>
+et alors après ouais vraiment 
+</Turn>
+<Turn speaker="spk3" startTime="2344.68" endTime="2346.819">
+<Sync time="2344.68"/>
+parce que pour acheter bio faut quand même 
+</Turn>
+<Turn speaker="spk1" startTime="2346.819" endTime="2347.807">
+<Sync time="2346.819"/>
+ça ça 
+</Turn>
+<Turn speaker="spk3" startTime="2347.807" endTime="2348.604">
+<Sync time="2347.807"/>
+c'est cher hein 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="2348.604" endTime="2350.655">
+<Sync time="2348.604"/>
+<Who nb="1"/>
+c'est <Comment desc="suite de syllabes incompréhensibles"/> bio 
+<Who nb="2"/>
+non bobo c'est ça vous mangez bio 
+</Turn>
+<Turn speaker="spk1" startTime="2350.655" endTime="2352.927">
+<Sync time="2350.655"/>
+en partie enfin un peu oui ce qu'on trouve 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="2352.927" endTime="2354.49">
+<Sync time="2352.927"/>
+<Who nb="1"/>
+au supermarché mais 
+<Who nb="2"/>
+mais c'est c'est bien sympa ce qu'ils 
+</Turn>
+<Turn speaker="spk3" startTime="2354.49" endTime="2357.047">
+<Sync time="2354.49"/>
+vendent c'est vrai sauf que ça te fait des paniers deux fois plus chers quoi 
+</Turn>
+<Turn speaker="spk1" startTime="2357.047" endTime="2358.389">
+<Sync time="2357.047"/>
+ouais ouais c'est sûr 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="2358.389" endTime="2360.971">
+<Sync time="2358.389"/>
+<Who nb="1"/>
+mais les les 
+<Who nb="2"/>
+mais il y a une vraie clientèle hein 
+</Turn>
+<Turn speaker="spk1" startTime="2360.971" endTime="2364.313">
+<Sync time="2360.971"/>
+donc il y a un quartier il y a pas de quartier bourgeois j'avais évoqué tout à l'heure mais 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="2364.313" endTime="2365.655">
+<Sync time="2364.313"/>
+<Who nb="1"/>
+un quartier bobo là-bas 
+<Who nb="2"/>
+non ce quartier-là 
+</Turn>
+<Turn speaker="spk3" startTime="2365.655" endTime="2381.769">
+<Sync time="2365.655"/>
+voilà mais lié au fait de c'est que des commerces de il y a il y a la nourriture il y a les produits il y a il y a un autre p- ils ont racheté plein de magasins dans sur ce truc donc il y a le grand qui est la nourriture et il y en a d'autres qui font les textiles les matelas mêmes ils font des matelas bio et puis des 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2381.769" endTime="2382.364">
+<Sync time="2381.769"/>
+<Who nb="1"/>
+des produits 
+<Who nb="2"/>
+c'est sympa 
+</Turn>
+<Turn speaker="spk3" startTime="2382.364" endTime="2384.427">
+<Sync time="2382.364"/>
+cosmétiques ouais ouais oh bah vous connaissez pas 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2384.427" endTime="2387.465">
+<Sync time="2384.427"/>
+<Who nb="1"/>
+cette place si c'est une c'est une jolie place 
+<Who nb="2"/>
+non bah non pourtant moi je fouine ah bon 
+</Turn>
+<Turn speaker="spk3" startTime="2387.465" endTime="2401.199">
+<Sync time="2387.465"/>
+et ils se s'- là pour la Fête de la musique par exemple ils font beaucoup de bah il y a le foyer Robespierre la rue Bara qui lui alors il est hard il est vraiment dans un état il est il est pourtant dans ce quartier-là c'est un foyer pour Maliens mais alors honteux hein 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="2401.199" endTime="2401.731">
+<Sync time="2401.199"/>
+<Who nb="1"/>
+honteux 
+<Who nb="2"/>
+ah bon 
+</Turn>
+<Turn speaker="spk3" startTime="2401.731" endTime="2404.756">
+<Sync time="2401.731"/>
+ils sont trois par pièce c'est c' affreux 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2404.756" endTime="2406.402">
+<Sync time="2404.756"/>
+<Who nb="1"/>
+<Comment desc="suite de syllabes incompréhensibles"/> ah non 
+<Who nb="2"/>
+c'est pas comme le foyer du logement 
+</Turn>
+<Turn speaker="spk3" startTime="2406.402" endTime="2408.794">
+<Sync time="2406.402"/>
+c'est pas comme celui-là non 
+</Turn>
+<Turn speaker="spk2" startTime="2408.794" endTime="2410.187">
+<Sync time="2408.794"/>
+celui-là ils l'auraient <Comment desc="suite de syllabes incompréhensibles"/> quand même 
+</Turn>
+<Turn speaker="spk3" startTime="2410.187" endTime="2417.516">
+<Sync time="2410.187"/>
+oui mais déjà ils étaient bien les gens ils avaient des ils étaient séparés là vraiment il y a une surcharge épouvantable donc les gens ils sont ils ils peuvent pas rester 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2417.516" endTime="2418.288">
+<Sync time="2417.516"/>
+<Who nb="1"/>
+<Comment desc="suite de syllabes incompréhensibles"/> donc 
+<Who nb="2"/>
+ils sont entassés 
+</Turn>
+<Turn speaker="spk3" startTime="2418.288" endTime="2424.655">
+<Sync time="2418.288"/>
+ils sont dehors ou ils sont ils ont même fait un marché assez sympa- assez pittoresque alors à l'intérieur de ce foyer 
+</Turn>
+<Turn speaker="spk2" startTime="2424.655" endTime="2425.06">
+<Sync time="2424.655"/>
+ah bon 
+</Turn>
+<Turn speaker="spk3" startTime="2425.06" endTime="2430.782">
+<Sync time="2425.06"/>
+ouais ils vendent des choses pour eux quoi pour leur consommation c'est un marché avec des des produits africains 
+</Turn>
+<Turn speaker="spk1" startTime="2430.782" endTime="2432.136">
+<Sync time="2430.782"/>
+on peut y aller de l'extérieur 
+</Turn>
+<Turn speaker="spk3" startTime="2432.136" endTime="2446.642">
+<Sync time="2432.136"/>
+oui je crois qu'on pourrait rentrer bah oui ma fille qui habite dans le coin là ils ont déjà été acheté des cigarettes le dimanche par exemple il y a des mecs qui revendent des cigarettes au- la viande qui est dans un état pas possible qu'ils mettent dans les camionnettes /<Comment desc="suite de syllabes incompréhensibles"/>, de grand/ là quand on passe on le voit sam- on a pas envie d'acheter 
+</Turn>
+<Turn speaker="spk1" startTime="2446.642" endTime="2448.082">
+<Sync time="2446.642"/>
+ouais ouais mm 
+</Turn>
+<Turn speaker="spk3" startTime="2448.082" endTime="2456.537">
+<Sync time="2448.082"/>
+non non ça c'est c'est rigolo c'est c'est rigolo sans être rigolo parce que c'est vraiment le foyer dégueulasse quoi où là vraiment on n'a pas le respect des gens hein 
+</Turn>
+<Turn speaker="spk1" startTime="2456.537" endTime="2464.461">
+<Sync time="2456.537"/>
+bien bah on est arrivés à la fin du questionnaire donc euh je vais arrêter l'enregistrement merci beaucoup hein 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+euh je dis ça 
+</Turn>
+</Section>
+</Episode>
+</Trans>

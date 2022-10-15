@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OAI-PMH xmlns='http://www.openarchives.org/OAI/2.0/' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd'>
+<responseDate>2022-10-14T21:26:10Z</responseDate>
+<request identifier='oai:crdo.vjf.cnrs.fr:cocoon-77b4602c-1849-3ca6-bcdd-c0a1355c24c6' metadataPrefix='crdo_dcq' verb='GetRecord' >http://cocoon.huma-num.fr/crdo_servlet/oai-pmh</request>
+<GetRecord>
+<record>
+    <header>
+        <identifier>oai:crdo.vjf.cnrs.fr:cocoon-77b4602c-1849-3ca6-bcdd-c0a1355c24c6</identifier>
+        <datestamp>2020-11-28</datestamp>
+        <setSpec>Linguistique</setSpec>
+        <setSpec>set-8bc96a4e-9899-30e4-99be-c72d216eb38b</setSpec>
+        <setSpec>set-fb6071ef-fb7f-4f0d-a071-effb7fef0dd6:set-fd48c512-26d0-3bd3-b02b-4ae995285d05</setSpec>
+    </header>
+    <metadata>
+        <crdo_dcq:dcq xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:crdo_dcq="http://crdo.risc.cnrs.fr/schemas/dcq/" xsi:schemaLocation="http://crdo.risc.cnrs.fr/schemas/dcq/ https://cocoon.huma-num.fr/schemas/dcq.xsd">
+            <dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-77b4602c-1849-3ca6-bcdd-c0a1355c24c6</dc:identifier>
+            <dc:identifier xsi:type="dcterms:URI">https://doi.org/10.34847/cocoon.77b4602c-1849-3ca6-bcdd-c0a1355c24c6</dc:identifier>
+            <dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-344791</dc:identifier>
+            <dc:title xml:lang="fr">Entretien de Younes Belkacem</dc:title>
+            <dc:description xml:lang="fr">Enregistrement issu du Corpus de Français Parlé Parisien des années 2000 (CFPP2000)</dc:description>
+            <dc:description xml:lang="fr">Quartier(s) concerné(s) : Montreuil; Anonymisation : Sonia RANCA-ROSOFF;</dc:description>
+            <dc:description xml:lang="fr">L'usine de matériel d'équipement industriel Matrat, fondée en 1921, est spécialisée dans la production de fraiseuses et de machines-outils. Elle est reprise en 1928 par Gaston Dufour. Des agrandissements successifs dirigés par l'architecte Charles Brocard, en 1929 et 1940, donnent lieu à l'extension du site vers les n°137-139 du boulevard de Chanzy (locaux d'habitation et ateliers de mécanique), puis, vers 1952, les n° 153-155. Après un premier dépôt de bilan en 1980, l'entreprise est rachetée par Profel-Promat. Un second dépôt de bilan a lieu en 1982, mais le site conserve une activité réduite jusqu'à la fin des années 1980. Actuellement, les bâtiments abritent des entrepôts commerciaux. L'enquêté évoque le R.M.I. Source INSEE : Le revenu minimum d'insertion (RMI), créé en 1988, a pour objectif de garantir un niveau minimum de ressources et faciliter l'insertion ou la réinsertion de personnes disposant de faibles revenus. Le RMI est versé à toute personne remplissant les conditions suivantes : résider en France, être âgé d'au moins 25 ans (sauf cas particuliers : femmes enceintes, etc.), disposer de ressources inférieures au montant du RMI et conclure un contrat d'insertion. Le RMI est une allocation dite « différentielle » : l'intéressé touche la différence entre le montant du RMI et ses ressources mensuelles. Les ressources prises en compte pour le calcul du RMI sont celles du demandeur mais aussi de son conjoint ou concubin et l'allocation dépend également des personnes à sa charge. Le Revenu de Solidarité active (RSA), entré en vigueur le 1er juin 2009 en France métropolitaine,qui se substitue au revenu minimum d'insertion (RMI).;</dc:description>
+            <dc:publisher>Langage et langues : description, théorisation, transmission</dc:publisher>
+            <dcterms:created xsi:type="dcterms:W3CDTF">2008-11-07</dcterms:created>
+            <dcterms:spatial xml:lang="fr">France, Île-de-France, Paris, Paris, Université de la Sorbonne Nouvelle Paris 3, site Censier</dcterms:spatial>
+            <dcterms:spatial xsi:type="dcterms:Point">east=2.34444;north=48.86</dcterms:spatial>
+            <dcterms:spatial xsi:type="dcterms:ISO3166">FR</dcterms:spatial>
+            <dcterms:spatial xsi:type="dcterms:TGN">7008038</dcterms:spatial>
+            <dc:coverage xml:lang="fr">Quartier concerné : MONTREUIL</dc:coverage>
+            <dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/data/cfpp2000/Younes_Belkacem_H_59_Mo.mp3</dc:identifier>
+            <dc:format xsi:type="dcterms:IMT">audio/x-wav</dc:format>
+            <dc:type xsi:type="dcterms:DCMIType">Sound</dc:type>
+            <dcterms:extent>PT61M00S</dcterms:extent>
+            <dcterms:accessRights>Freely accessible</dcterms:accessRights>
+            <dcterms:isPartOf xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-8bc96a4e-9899-30e4-99be-c72d216eb38b</dcterms:isPartOf>
+            <dcterms:isRequiredBy xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-683aba09-1807-325f-bb5e-bb96ed037319</dcterms:isRequiredBy>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-sa/3.0/</dcterms:license>
+            <dcterms:issued xsi:type="dcterms:W3CDTF">2013-04-24T19:26:54+02:00</dcterms:issued>
+            <dcterms:isFormatOf xsi:type="dcterms:URI">http://purl.org/net/crdo/data/cocoon-77b4602c-1849-3ca6-bcdd-c0a1355c24c6.version1</dcterms:isFormatOf>
+            <dcterms:available xsi:type="dcterms:W3CDTF">2013-04-24</dcterms:available>
+            <dcterms:isPartOf xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-fd48c512-26d0-3bd3-b02b-4ae995285d05</dcterms:isPartOf>
+            <dc:type xml:lang="fr">Dialogue</dc:type>
+            <dc:type xml:lang="fr">Entretiens</dc:type>
+            <dc:type xml:lang="fr">Conversation</dc:type>
+            <dc:subject xml:lang="fr">Montreuil (Seine-Saint-Denis)</dc:subject>
+            <dc:subject xml:lang="fr">Quartiers (urbanisme)</dc:subject>
+            <dc:subject xml:lang="fr">Professions</dc:subject>
+            <dc:subject xml:lang="fr">Logement</dc:subject>
+            <dc:subject xml:lang="fr">Immigrés</dc:subject>
+            <dc:subject xml:lang="fr">Parents et enfants</dc:subject>
+            <dc:subject xml:lang="fr">Voisinage (relations humaines)</dc:subject>
+            <dc:subject xml:lang="fr">Magasins d'alimentation</dc:subject>
+            <dc:subject xml:lang="fr">Petits commerces</dc:subject>
+            <dc:subject xml:lang="fr">Solidarité</dc:subject>
+            <dc:subject xml:lang="fr">Communautarisme</dc:subject>
+            <dc:subject xml:lang="fr">Tsiganes</dc:subject>
+            <dc:subject xml:lang="fr">Écoles</dc:subject>
+            <dc:subject xml:lang="fr">Éducation familiale</dc:subject>
+            <dc:subject xml:lang="fr">Enseignants</dc:subject>
+            <dc:subject xml:lang="fr">Langues</dc:subject>
+            <dc:subject xml:lang="fr">Vacances</dc:subject>
+            <dc:subject xml:lang="fr">Crises économiques</dc:subject>
+            <dc:subject xml:lang="fr">Vol (droit)</dc:subject>
+            <dc:subject xml:lang="fr">Chômage</dc:subject>
+            <dc:subject xml:lang="fr">Drogues et jeunesse</dc:subject>
+            <dc:subject xml:lang="fr">Associations</dc:subject>
+            <dc:subject xml:lang="fr">Automobiles</dc:subject>
+            <dc:subject xml:lang="fr">Cafés</dc:subject>
+            <dc:subject xml:lang="fr">Information</dc:subject>
+            <dcterms:spatial xml:lang="fr">Domicile de l'enquêteur</dcterms:spatial>
+            <dc:identifier xml:lang="fr">Cote producteur: [Mo-03] Younes_Belkacem_H_59_Mo</dc:identifier>
+            <dc:identifier xml:lang="fr">Ancienne cote: crdo-CFPP2000_34_SOUND</dc:identifier>
+            <dc:language xsi:type="dcterms:ISO639-3">fra</dc:language>
+            <dc:language xml:lang="fr">Français</dc:language>
+            <dc:subject xsi:type="dcterms:ISO639-3">fra</dc:subject>
+            <dc:subject>Français</dc:subject>
+            <dc:subject>anthropological_linguistics</dc:subject>
+            <dc:subject>applied_linguistics</dc:subject>
+            <dc:subject>discourse_analysis</dc:subject>
+            <dc:subject>general_linguistics</dc:subject>
+            <dc:subject>lexicography</dc:subject>
+            <dc:subject>morphology</dc:subject>
+            <dc:subject>phonetics</dc:subject>
+            <dc:subject>phonology</dc:subject>
+            <dc:subject>semantics</dc:subject>
+            <dc:subject>sociolinguistics</dc:subject>
+            <dc:subject>syntax</dc:subject>
+            <dc:subject>text_and_corpus_linguistics</dc:subject>
+            <dc:subject>typology</dc:subject>
+            <dc:type>formulaic</dc:type>
+            <dc:type>dialogue</dc:type>
+            <dc:type>narrative</dc:type>
+            <dc:type>report</dc:type>
+            <dc:type>procedural</dc:type>
+            <dc:type>unintelligible_speech</dc:type>
+            <dc:type>primary_text</dc:type>
+            <dc:creator>Branca-Rosoff, Sonia</dc:creator>
+            <dc:contributor>Branca-Rosoff, Sonia (interviewer)</dc:contributor>
+            <dc:contributor>Belkacem, Younes (speaker)</dc:contributor>
+            <dc:contributor>Branca-Rosoff, Sonia (depositor)</dc:contributor>
+        </crdo_dcq:dcq>
+    </metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

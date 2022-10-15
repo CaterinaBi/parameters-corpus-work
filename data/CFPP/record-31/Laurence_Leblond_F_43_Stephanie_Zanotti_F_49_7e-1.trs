@@ -1,0 +1,1460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Trans SYSTEM "https://cocoon.huma-num.fr/schemas/trans-14.dtd">
+<Trans scribe="Sandy Bichon" audio_filename="Laurence_Leblond_F_43_Stephanie_Zanotti_F_49_7e-1.wav" version="33" version_date="29-OCT-2007">
+<Topics>
+<Topic id="to1" desc="arrivée dans le quartier"/>
+<Topic id="to2" desc="rencontre des interviewées"/>
+<Topic id="to3" desc="domicile des parents"/>
+<Topic id="to4" desc="agréments du quartier"/>
+<Topic id="to5" desc="tourisme- Champ de Mars"/>
+<Topic id="to6" desc="quartier comme village"/>
+<Topic id="to7" desc="déplacements"/>
+<Topic id="to8" desc="cinémas"/>
+<Topic id="to9" desc="sorties à la campagne"/>
+<Topic id="to10" desc="le sport à Paris"/>
+<Topic id="to11" desc="définition du quartier"/>
+<Topic id="to12" desc="quartier et c ommerces"/>
+<Topic id="to13" desc="gardienne d'immeuble"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="Florence Lefeuvre (ENQ)" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Laurence Leblond" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="Stéphanie Zanotti" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="inconnue" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="216.276" topic="to1">
+<Turn startTime="0" endTime="8.12" speaker="spk1">
+<Sync time="0"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="0.936"/>
+o.k. bon on peut on peut commencer si ça vous va par cette belle journée<Comment desc="suite de syllabes incompréhensibles"/>
+</Turn>
+<Turn speaker="spk2 spk1" startTime="8.12" endTime="9.144">
+<Sync time="8.12"/>
+<Who nb="1"/>
+on a de la chance 
+<Who nb="2"/>
+on a de la chance oui 
+</Turn>
+<Turn speaker="spk1" startTime="9.144" endTime="14.913">
+<Sync time="9.144"/>
+d'avoir une belle journée alors donc je vais commencer par des questions euh qui portent sur euh 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="14.913" endTime="20.878">
+<Sync time="14.913"/>
+<Who nb="1"/>
+la résidence dans dans votre quartier du septième arrondissement 
+<Who nb="2"/>
+mm mm d'accord oui oui 
+</Turn>
+<Turn speaker="spk1" startTime="20.878" endTime="27.465">
+<Sync time="20.878"/>
+alors comment est-ce que vous ou vos parents êtes arrivés dans le quartier donc déjà c'est c'est vous 
+</Turn>
+<Turn speaker="spk2" startTime="27.465" endTime="51.339">
+<Sync time="27.465"/>
+d'accord oui moi j'ai vécu enfin depuis l'âge d'un an et demi dans le septième arrondissement mes parents sont arrivés en fait c'est par mon grand-père qui avait acheté un appartement près du boulevard des Invalides pour mes parents qui venaient de m'avoir 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+voilà tout simplement et donc euh ben j'ai toujours vécu là donc euh ma mère est d'originaire originaire de la région parisienne et mon père d'Agen du Lot-et-Garonne 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="51.339" endTime="56.041">
+<Sync time="51.339"/>
+<Who nb="1"/>
+ah d'accord quelqu'un du du Sud-Ouest ah d'accord 
+<Who nb="2"/>
+voilà oui oui 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="56.041" endTime="84.238">
+<Sync time="56.041"/>
+mais qui s'est fait parisien dès le enfin dès l'âge de vingt ans en fait il était monté à Paris comme on disait à ce moment-là faire ses études et euh il vivait à Paris depuis l'âge de vingt ans donc c'est vrai qu'il a il s'est bien implanté il a bien apprécié la vie parisienne maintenant il est décédé et ma mère vit toujours au même endroit depuis ce temps-là donc euh voyez moi je suis suis vraiment une 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+enfin du quartier et j'ai j'ai pas bougé enfin en me mariant j'ai déménagé de quartier dans le septième mais à l'intérieur du septième 
+</Turn>
+<Turn speaker="spk1" startTime="84.238" endTime="87.470">
+<Sync time="84.238"/>
+ah oui d'accord parce que votre maman elle habite dans le septième arrondissement 
+</Turn>
+<Turn speaker="spk2" startTime="87.470" endTime="89.821">
+<Sync time="87.470"/>
+voilà oui oui oui 
+</Turn>
+<Turn speaker="spk1" startTime="89.821" endTime="92.869">
+<Sync time="89.821"/>
+d'accord et pourquoi votre grand-père a choisi le euh septième 
+</Turn>
+<Turn speaker="spk2" startTime="92.869" endTime="130.896">
+<Sync time="92.869"/>
+alors à l'époque ça je peux pas vous dire aucune idée c'est euh lui il était entrepreneur de bâtiment il a dû trouver que c'était un bon investissement et il a eu fort raison parce c'est un très bon investissement c'est clair donc euh donc il a euh bon je ne sais pas pourquoi il a choisi ce quartier et pas un autre sans doute aussi parce que il avait trouvé cet appartement voilà lui il était dans le bâtiment donc il voulait sans doute trouver un immeuble assez agréable de bonne qualité en pierre de taille comme on dit mais je vous dis ça j'en sais absolument rien je ne sais pas effectivement je lui ai jamais posé la question et je crois que même ma mère se souvient pas vraiment pourquoi mais 
+</Turn>
+<Turn speaker="spk1" startTime="130.896" endTime="133.265">
+<Sync time="130.896"/>
+vous n'avez pas parlé avec votre grand-père de ça en fait 
+</Turn>
+<Turn speaker="spk2" startTime="133.265" endTime="154.041">
+<Sync time="133.265"/>
+non ben non vous savez enfin mon grand-père était quelqu'un de très autoritaire 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+très gentil mais bon on n'ab- enfin on posait pas ce genre de questions je dois dire je sais pas non puis il est décédé moi j'avais vingt-quatre ans donc je dois dire que à l'époque je me suis pas trop posé la question de savoir pourquoi là et pas ailleurs 
+</Turn>
+<Turn speaker="spk1" startTime="154.041" endTime="156.398">
+<Sync time="154.041"/>
+et vous vous êtes dans le septième euh 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="156.398" endTime="157.899">
+<Sync time="156.398"/>
+<Who nb="1"/>
+je suis dans le septième un peu par hasard 
+<Who nb="2"/>
+un peu par hasard 
+</Turn>
+<Turn speaker="spk3" startTime="157.899" endTime="193.306">
+<Sync time="157.899"/>
+hein parce que j'ai rencontré mon mari enfin moi j'habitais Paris de plutôt du côté de l'Opéra après être avoir fait des études en province à Angers et puis je suis arrivée aussi un peu à Paris par hasard je savais pas où aller donc je me suis dit pourquoi pas Paris 
+<Sync time="173.035"/>
+donc euh j'ai débarqué du côté d'Opéra là aussi par hasard parce que on avait pa- parce qu'on avait loué une petite chambre juste à côté de de Drouan rue Saint-Augustin et après j'ai rencontré mon mari dans les années quatre-vingt-cinq et lui habitait dans le quartier il avait acheté dans le quartier donc euh au fur et puis donc 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="193.306" endTime="195.437">
+<Sync time="193.306"/>
+<Who nb="1"/>
+par la force des choses 
+<Who nb="2"/>
+vous y êtes allée voilà 
+</Turn>
+<Turn speaker="spk3" startTime="195.437" endTime="201.391">
+<Sync time="195.437"/>
+je me suis installée dans son quartier donc ça fait vingt ans que je suis dans le septième 
+</Turn>
+<Turn speaker="spk1" startTime="201.391" endTime="203.031">
+<Sync time="201.391"/>
+ah oui quand même ça fait 
+</Turn>
+<Turn speaker="spk3" startTime="203.031" endTime="206.626">
+<Sync time="203.031"/>
+depuis quatre-vingt-cinq oui donc même un peu plus oui 
+</Turn>
+<Turn speaker="spk1" startTime="206.626" endTime="209.157">
+<Sync time="206.626"/>
+hum hum donc c'est pas mal c'est un arrondissement que vous connaissez bien 
+</Turn>
+<Turn speaker="spk3" startTime="209.157" endTime="211.802">
+<Sync time="209.157"/>
+ah oui et puis maintenant je veux plus en partir hein 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="211.802" endTime="215.036">
+<Sync time="211.802"/>
+c'est bon signe 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="215.036" endTime="216.276">
+<Sync time="215.036"/>
+ah oui non mais là je 
+</Turn>
+</Section>
+<Section type="report" topic="to2" startTime="216.276" endTime="306.797">
+<Turn speaker="spk1" startTime="216.276" endTime="220.445">
+<Sync time="216.276"/>
+donc vous vous être connues il y a une dizaine d'années vous disiez par le biais de l'école 
+</Turn>
+<Turn speaker="spk3" startTime="220.445" endTime="228.056">
+<Sync time="220.445"/>
+voilà c'est ça dans les conseils d'école dans les fêtes d'école dans les associations en fait de parents d'élèves 
+</Turn>
+<Turn speaker="spk1" startTime="228.056" endTime="229.508">
+<Sync time="228.056"/>
+vos enfants ont le même âge un peu ou 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="229.508" endTime="231.675">
+<Sync time="229.508"/>
+<Who nb="1"/>
+un an un an de 
+<Who nb="2"/>
+ben ta fille un an 
+</Turn>
+<Turn speaker="spk3" startTime="231.675" endTime="233.395">
+<Sync time="231.675"/>
+un an de moins que Marie-Lou 
+</Turn>
+<Turn speaker="spk2" startTime="233.395" endTime="245.486">
+<Sync time="233.395"/>
+voilà ma fille aînée a donc un an de plus et ma cadette a trois ans de moins que la sienne et donc on a elles ont fréquenté la même école primaire et c'est comme ça qu'on s'est connues maternelle et primaire école de quartier 
+</Turn>
+<Turn speaker="spk1" startTime="245.486" endTime="248.12">
+<Sync time="245.486"/>
+elles jouent encore ensemble ou 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="248.120" endTime="249.090">
+<Sync time="248.120"/>
+<Who nb="1"/>
+ben elles se connaissent 
+<Who nb="2"/>
+non non 
+</Turn>
+<Turn speaker="spk2" startTime="249.090" endTime="263.914">
+<Sync time="249.090"/>
+pas tell- enfin bien mais pas vr- vous savez quand elles sont pas dans les mêmes classes enfin les mêmes niveaux je dirais c'est tout de suite elles ont pas beaucoup de maintenant elles sont pas dans le même collège ni lycée enfin moi elle est au lycée maintenant donc 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="262.875"/>
+ça va vite hein 
+</Turn>
+<Turn speaker="spk3" startTime="263.914" endTime="265.416">
+<Sync time="263.914"/>
+tu en as une tu en as une au collège et 
+</Turn>
+<Turn speaker="spk2" startTime="265.416" endTime="270.700">
+<Sync time="265.416"/>
+et l'autre au lycée oui première année de collège et première année de lycée cette année vous voyez donc c'est important 
+</Turn>
+<Turn speaker="spk3" startTime="270.700" endTime="273.904">
+<Sync time="270.700"/>
+et ma fille est en dernière année de collège 
+</Turn>
+<Turn speaker="spk2" startTime="273.904" endTime="277.126">
+<Sync time="273.904"/>
+mais bon elles ont des connaissances communes enfin bon 
+</Turn>
+<Turn speaker="spk1" startTime="277.126" endTime="278.33">
+<Sync time="277.126"/>
+parce que c'est le même collège 
+</Turn>
+<Turn speaker="spk3" startTime="278.33" endTime="278.695">
+<Sync time="278.33"/>
+non 
+</Turn>
+<Turn speaker="spk1" startTime="278.695" endTime="279.545">
+<Sync time="278.695"/>
+non 
+</Turn>
+<Turn speaker="spk2" startTime="279.545" endTime="280.347">
+<Sync time="279.545"/>
+non elles sont pas dans le même 
+</Turn>
+<Turn speaker="spk1" startTime="280.347" endTime="280.848">
+<Sync time="280.347"/>
+parce qu'il y a beaucoup de collèges 
+</Turn>
+<Turn speaker="spk2" startTime="280.848" endTime="302.283">
+<Sync time="280.848"/>
+non mais en fait ce qui se passe c'est qu'on a bon elles étaient en primaire dans la même école primaire si vous voulez puis après même si on est dans différents collèges on est toujours dans le même quartier on habite toujours dans le même quartier donc on se croise forcément on se bon c'est comme ça aussi que nous on est restées amies on se voit et tout ça il y a des liens qui se créent ce n'est pas impersonnel 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="302.283" endTime="303.967">
+<Sync time="302.283"/>
+<Who nb="1"/>
+c'est comme un village en plus c'est un petit village 
+<Who nb="2"/>
+donc euh voilà ouais ouais 
+</Turn>
+<Turn speaker="spk2" startTime="303.967" endTime="306.797">
+<Sync time="303.967"/>
+oui pour nous c'est un village 
+</Turn>
+</Section>
+<Section type="report" topic="to3" startTime="306.797" endTime="451.764">
+<Turn speaker="spk1" startTime="306.797" endTime="309.253">
+<Sync time="306.797"/>
+vous vos parents ne n'habitent pas dans le septième arrondissement 
+</Turn>
+<Turn speaker="spk1" startTime="309.253" endTime="310.448">
+<Sync time="309.253"/>
+non ils sont à Nice moi mes parents 
+</Turn>
+<Turn speaker="spk1" startTime="310.448" endTime="310.840">
+<Sync time="310.448"/>
+ils sont à Nice 
+</Turn>
+<Turn speaker="spk3" startTime="310.840" endTime="313.827">
+<Sync time="310.840"/>
+et ils travaillaient en Afrique 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="313.827" endTime="315.892">
+<Sync time="313.827"/>
+<Who nb="1"/>
+donc là 
+<Who nb="2"/>
+alors là euh de ce côté là donc 
+</Turn>
+<Turn speaker="spk3" startTime="315.892" endTime="318.494">
+<Sync time="315.892"/>
+ça euh c'est vraiment par hasard hein que je suis arrivée à Paris 
+</Turn>
+<Turn speaker="spk1" startTime="318.494" endTime="322.205">
+<Sync time="318.494"/>
+et vous votre maman est dans le septième et donc vous la vous la voyez régulièrement 
+</Turn>
+<Turn speaker="spk2" startTime="322.205" endTime="340.711">
+<Sync time="322.205"/>
+oui oui bien sûr ben oui oui sachant que elle est veuve et que je suis sa fille unique et que nous n'avons pas d'autre famille donc c'est clair que oui on se voit assez souvent elle a tout fait effectivement pour que ben aussi je puisse rester dans le quartier être dans le septième et moi j'adore ce quartier donc c'est vrai que j'avais très envie de m'installer avec mon mari dans le septième 
+</Turn>
+<Turn speaker="spk1" startTime="340.711" endTime="343.059">
+<Sync time="340.711"/>
+mm mm c'est-à-dire elle avait envie que vous soyez là 
+</Turn>
+<Turn speaker="spk2" startTime="343.059" endTime="343.898">
+<Sync time="343.059"/>
+bien sûr 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="343.898" endTime="345.508">
+<Sync time="343.898"/>
+<Who nb="1"/>
+pour rester dans le septième 
+<Who nb="2"/>
+oui oui tout à fait 
+</Turn>
+<Turn speaker="spk1" startTime="345.508" endTime="347.945">
+<Sync time="345.508"/>
+et ça vous en étiez plus ou moins consciente 
+</Turn>
+<Turn speaker="spk2" startTime="347.945" endTime="362.971">
+<Sync time="347.945"/>
+ah oui oui ben moi j'étais ravie hein de toute façon vous savez enfin moi je suis parisienne de coeur vraiment j'adore Paris euh je ne conçois absolument pas de vivre ailleurs qu'à Paris sauf éventuellement j'aurais peut-être à aimé à partir à l'étranger dans une capitale vous voyez 
+</Turn>
+<Turn speaker="spk1" startTime="362.971" endTime="363.768">
+<Sync time="362.971"/>
+d'accord 
+</Turn>
+<Turn speaker="spk2" startTime="363.768" endTime="412.910">
+<Sync time="363.768"/>
+enfin comme ça mais c'est vrai qu'en dehors de ça bon évidemment si on est obligé de partir en banlieue ou dans d'autres villes pour des raisons professionnelles ou quoi bien sûr qu'on le je l'aurais fait évidemment on va pas non plus euh mais je veux dire tant qu'à faire de rester à Paris euh bon ben c'est vrai que c'est un quartier très agréable et qu'on n'a pas tellement envie d'en partir <Comment desc="suite de syllabes incompréhensibles"/> enfin moi je connais bien sûr des tas d'autres quartiers mon mari avait commencé lui à il avait habité en tant qu'étudiant dans le quatrième près de Notre-Dame c'est vrai que c'est un quartier aussi très agréable et euh mais bon étant donné que enfin moi c'est vrai que c'est une raison purement familiale ma mère est toute seule elle habite dans le quart- dans le septième j'ai pas tellement envie de m'en éloigner exprès je dirais 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+vous voyez si euh surtout qu'on a bon moi j'ai quand j'ai eu mes enfants je travaillais à temps complet donc j'étais très contente qu'elle puisse s'en occuper quand elles étaient malades quand la crèche les prenait plus 
+</Turn>
+<Turn startTime="412.910" endTime="414.162" speaker="spk1">
+<Sync time="412.910"/>
+donc elle s'en est occupée 
+</Turn>
+<Turn speaker="spk2" startTime="414.162" endTime="427.970">
+<Sync time="414.162"/>
+donc elle s'est beaucoup occupée de mes filles et ça c'est vraiment important de je dis surtout quand on se retrouve toute seule comme elle quoi c'est quand même un peu difficile donc euh j'ai perdu mon père j'avais dix-huit ans donc euh voyez c'était quand je suis partie me marier bon ben elle s'est retrouvée 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="427.970" endTime="429.146">
+<Sync time="427.970"/>
+<Who nb="1"/>
+c'est jeune 
+<Who nb="2"/>
+oui oui 
+</Turn>
+<Turn speaker="spk2" startTime="429.146" endTime="433.519">
+<Sync time="429.146"/>
+donc ça c'est vrai qu'on a un lien très fort entre nous c'est normal hein 
+</Turn>
+<Turn speaker="spk1" startTime="433.519" endTime="436.174">
+<Sync time="433.519"/>
+oui oui c'est tout à fait normal et puis c'est bien non mais 
+</Turn>
+<Turn speaker="spk2" startTime="436.174" endTime="439.706">
+<Sync time="436.174"/>
+oui oui oui non mais bien sûr oui ben c'est important c'est sûr 
+</Turn>
+<Turn speaker="spk1" startTime="439.706" endTime="445.674">
+<Sync time="439.706"/>
+oui apparemment c'est c'est important pour vous et puis c'est tout à fait bien vécu euh 
+</Turn>
+<Turn speaker="spk2" startTime="445.674" endTime="451.764">
+<Sync time="445.674"/>
+ah oui tout à fait oui oui non bien sûr oui oui oui non non on s'entend très bien 
+</Turn>
+</Section>
+<Section type="report" topic="to4" startTime="451.764" endTime="624.118">
+<Turn speaker="spk1" startTime="451.764" endTime="460.309">
+<Sync time="451.764"/>
+et euh donc euh qu'est-ce que vous disiez que c'était agréable le quartier qu'est-ce qui fait que c'est agréable ce quartier euh pour vous 
+</Turn>
+<Turn speaker="spk2" startTime="460.309" endTime="541.524">
+<Sync time="460.309"/>
+moi enfin pour moi c'est parce que c'est un bon moi je suis très sensible à l'architecture à la au vieux Paris au patrimoine et tout ça donc c'est vrai que euh j'aime bien cet environnement architectural très harmonieux avec des larges avenues un peu de verdure avec le la Seine en en bordure de Seine euh en même temps c'est assez fréquenté par les touristes puisqu'on a la chance d'avoir beaucoup de monuments historiques et des musées et ça moi je trouve ça très intéressant cette ambiance un peu internationale des personnes des touristes qui vous demandent leur chemin à tous les coins de rue enfin ça fait vacances en même temps quoi je trouve ça vraiment sympa et euh ben sinon c'est vrai qu'on a un cadre de vie vraiment enfin formidable on a je sais pas moi j'ai gardé beaucoup d'amis dans le septième vous voyez c'est facile d'accès on est en même temps c'est vrai que c'est un quartier assez tranquille entre guillemets c'est-à-dire qu'au niveau de la vie nocturne on n'a pas vraiment de nuisances comparé à d'autres quartiers comme le Quartier Latin par exemple qui est aussi agréable mais bon c'est pas du tout je le vois pas pareil pour habiter je trouve ça un petit peu un petit peu moins agréable donc euh mais donc c'est un quartier assez calme mais qui est assez central donc on peut facilement aller sur les Champs-Elysées venir dans le Quartier Latin aller à l'Opéra voyez par rapport au centre d'activités dans Paris 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="541.524" endTime="543.912">
+<Sync time="541.524"/>
+<Who nb="1"/>
+on peut se déplacer assez facilement 
+<Who nb="2"/>
+on peut se déplacer 
+</Turn>
+<Turn speaker="spk2" startTime="543.912" endTime="547.481">
+<Sync time="543.912"/>
+facilement oui ça enfin moi je trouve ça important aussi même 
+</Turn>
+<Turn speaker="spk1" startTime="547.481" endTime="548.924">
+<Sync time="547.481"/>
+oui on peut sortir du quartier 
+</Turn>
+<Turn speaker="spk2" startTime="548.924" endTime="566.023">
+<Sync time="548.924"/>
+voilà vous voyez même pour les enfants enfin moi je pense à mes filles qui après feront des études supérieures ben si elles vont à la Sorbonne ou ailleurs je sais pas ou même en dehors de Paris bon on est on a quand même tous les métros les lignes de métro de bus de qui sont quand même très pratiques c'est bien desservi 
+</Turn>
+<Turn speaker="spk1" startTime="566.023" endTime="570.950">
+<Sync time="566.023"/>
+et vos filles elles elles ressentent ce côté agréable là que vous décrivez ou euh 
+</Turn>
+<Turn speaker="spk2" startTime="570.950" endTime="584.818">
+<Sync time="570.950"/>
+je pense oui parce que ben on les promène aussi dans d'autres quartiers si je puis dire pour qu'elles se rendent compte justement que Paris c'est pas que le septième arrondissement 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+donc euh oui oui non mais elles apprécient elles apprécient effectivement oui je pense 
+</Turn>
+<Turn speaker="spk1" startTime="584.818" endTime="588.694">
+<Sync time="584.818"/>
+d'accord elles font pas du tout même avec l'adolescence 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="588.694" endTime="592.954">
+<Sync time="588.694"/>
+<Who nb="1"/>
+rebelles non non écoutez 
+<Who nb="2"/>
+non non dans le rejet de ce Paris ou de Paris 
+</Turn>
+<Turn speaker="spk2" startTime="592.954" endTime="597.063">
+<Sync time="592.954"/>
+ah oui non non elles apprécient franchement 
+</Turn>
+<Turn speaker="spk1" startTime="597.063" endTime="601.051">
+<Sync time="597.063"/>
+elles rêvent pas par exemple de campagne de forêts de non pas spécialement 
+</Turn>
+<Turn speaker="spk2" startTime="601.051" endTime="605.710">
+<Sync time="601.051"/>
+pas spécialement non moi je suis pas du tout campagne donc euh 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="605.710" endTime="609.494">
+<Sync time="605.710"/>
+<Who nb="1"/>
+elles non plus 
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+donc je vais pas leur faire rêver de ça 
+</Turn>
+<Turn speaker="spk2" startTime="609.494" endTime="614.014">
+<Sync time="609.494"/>
+non mais on s'échappe de Paris bien sûr mais enfin moi je serais plutôt m'échapper pour aller à la mer donc euh 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="614.014" endTime="616.697">
+<Sync time="614.014"/>
+<Who nb="1"/>
+voilà d'accord d'accord 
+<Who nb="2"/>
+donc c'est pas à côté 
+</Turn>
+<Turn speaker="spk1" startTime="616.697" endTime="621.213">
+<Sync time="616.697"/>
+est-ce vous trouvez qu'il y a assez d'espaces verts dans le septième arrondissement 
+</Turn>
+<Turn speaker="spk3" startTime="621.213" endTime="622.311">
+<Sync time="621.213"/>
+ah ben il y a le Champ-de-Mars à côté 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="622.311" endTime="624.118">
+<Sync time="622.311"/>
+<Who nb="1"/>
+mais moi j'aime pas trop 
+<Who nb="2"/>
+je crois qu'on est quand même oui oui 
+</Turn>
+</Section>
+<Section type="report" topic="to5" startTime="624.118" endTime="710.214">
+<Turn speaker="spk3" startTime="624.118" endTime="639.447">
+<Sync time="624.118"/>
+le fréquenter parce que je trouve qu'il y a trop de touristes hein alors moi j'y mets même pas les pieds parce que le week-end je trouve qu'il y a tellement de touristes que je ça me donne même pas envie de d'y aller enfin j'y allais par la force des choses quand ma fille était petite pour euh pour euh bon faire un tour histoire de dire qu'on avait fait quand même un tour au Champ-de-Mars 
+</Turn>
+<Turn speaker="spk2" startTime="639.447" endTime="640.368">
+<Sync time="639.447"/>
+dans la verdure 
+</Turn>
+<Turn speaker="spk3" startTime="640.368" endTime="647.668">
+<Sync time="640.368"/>
+mais là je préfère rester enfermée chez moi plutôt que d'aller dans le Champ-de-Mars où il y a je trouve qu'il y a trop de monde 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="647.668" endTime="649.506">
+<Sync time="647.668"/>
+<Who nb="1"/>
+oui puis le problème c'est que les touristes 
+<Who nb="2"/>
+enfin bon c'est trop touristique 
+</Turn>
+<Turn speaker="spk2" startTime="649.506" endTime="692.226">
+<Sync time="649.506"/>
+c'est normal tant mieux pour nous d'ailleurs on est contents d'avoir tous ces touristes à Paris mais euh on a aussi beaucoup de manifestations commerciales sur le Champ-de-Mars ce qui vraiment le détruit à tous les niveaux enfin autant au niveau physique je dirais et puis l'ambiance et le toute la toutes les les i- les constructions qu'on y fait enfin c'est des constructions temporaires vous savez pour des salons des manifestations commerciales qui mobilisent toute une partie du Champ-de-Mars pendant plusieurs jours c'est vraiment une grosse nuisance pour les riverains et ça beaucoup de gens s'en plaignent il y a une association des riverains du Champ-de-Mars enfin bon c'est tout un cirque donc c'est vrai que du coup on peut bon c'est un grand espace vert assez agréable mais on peut pas euh considérer ça comme vraiment s'échapper enfin vous voyez 
+</Turn>
+<Turn speaker="spk3" startTime="692.226" endTime="693.199">
+<Sync time="692.226"/>
+pour s'échapper vaut mieux aller à la campagne 
+</Turn>
+<Turn speaker="spk2" startTime="693.199" endTime="700.269">
+<Sync time="693.199"/>
+bon il y a la verdure il y a les arbres c'est vrai il y a un environnement agréable une belle perspective sur la Tour Eiffel mais euh 
+</Turn>
+<Turn speaker="spk3" startTime="700.269" endTime="708.516">
+<Sync time="700.269"/>
+mais je trouve que pour sortir de Paris moi j'aimerais bien de temps en temps un peu plus sortir mais alors rien que d'imaginer les sorties le peu que je fais en sorties de Paris et en retour de week-ends 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="708.516" endTime="709.219">
+<Sync time="708.516"/>
+<Who nb="1"/>
+oui 
+<Who nb="2"/>
+alors là ça me donne même 
+</Turn>
+<Turn speaker="spk3" startTime="709.219" endTime="709.605">
+<Sync time="709.219"/>
+plus envie de sortir 
+</Turn>
+<Turn speaker="spk1" startTime="709.605" endTime="710.214">
+<Sync time="709.605"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to6" startTime="710.214" endTime="793.918">
+<Turn speaker="spk3" startTime="710.214" endTime="746.827">
+<Sync time="710.214"/>
+mais pour ce que vous disiez tout à l'heure je reviens un petit peu à ce qu'on disait pour la la vie dans le quartier moi je trouvais enfin bon ça fait juste vingt ans que je suis que j'y suis moi je voudrais plus sortir du quartier parce que pour moi c'est comme un village c'est-à-dire je connais tout le monde c'est-à-dire que je sors de la maison je vais tous les matins au café et euh boire le boire le café avec les copines justement les autres mamans des associations de parents d'élèves euh j'ai un petit photographe à côté qui est adorable on prend le café il y a une galerie à côté d'art on prend le café euh on croise pas mal de gens euh quand je vais au petit marché aussi je fais le tour du marché on croise souvent des gens allez viens boire un café donc je trouve que ça a un côté très convivial 
+</Turn>
+<Turn speaker="spk1" startTime="746.827" endTime="747.328">
+<Sync time="746.827"/>
+ah oui 
+</Turn>
+<Turn speaker="spk3" startTime="747.328" endTime="748.068">
+<Sync time="747.328"/>
+donc euh 
+</Turn>
+<Turn speaker="spk1" startTime="748.068" endTime="748.634">
+<Sync time="748.068"/>
+de village un peu 
+</Turn>
+<Turn speaker="spk3" startTime="748.634" endTime="760.184">
+<Sync time="748.634"/>
+oui complètement de village à côté il y a le petit magasin de la presse on plaisante souvent donc en fait je trouve que les commerçants sont vraiment enfin ça se passe bien 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="760.184" endTime="761.599">
+<Sync time="760.184"/>
+<Who nb="1"/>
+oui c'est vrai que 
+<Who nb="2"/>
+on discute moi j'ai le traiteur en dessous 
+</Turn>
+<Turn speaker="spk2" startTime="761.599" endTime="764.884">
+<Sync time="761.599"/>
+dès qu'on connaît un petit peu les gens dès qu'on est là depuis quelque temps 
+</Turn>
+<Turn speaker="spk3" startTime="764.884" endTime="792.133">
+<Sync time="764.884"/>
+et on se c'est vrai qu'on se crée des liens hein des liens de quartiers des liens de commerçants des liens avec des amis moi j'ai des a- ça fait maintenant au début je connaissais personne mais il y a ça fait effectivement bon ben vingt ans on connaît on s'est fait des liens et on n'a plus vraiment envie de de de partir enfin je dis je partirai mon mari sera à la retraite dans quelques années et là je me dis bon effectivement j'aurai envie de mer de montagne 
+</Turn>
+<Turn speaker="spk2" startTime="792.133" endTime="793.918">
+<Sync time="792.133"/>
+oui de voyages peut-être 
+</Turn>
+</Section>
+<Section type="report" topic="to7" startTime="793.918" endTime="856.361">
+<Turn speaker="spk3" startTime="793.918" endTime="816.583">
+<Sync time="793.918"/>
+
+<Comment desc="inaudible"/>
+de voyages donc je partirai effectivement six mois vraiment pour retrouver la nature parce que Paris toute l'année je j'en aurai pas spécialement envie hein c'est sauf pour les les musées parce que c'est vrai que comme tu disais c'est c'est quand même très central moi maintenant je fais tout à vélo on peut facilement sortir du quartier rentrer dans le quartier il y a tous les bus moi je fais tout à pied hein parce que comme j'ai pas de voiture donc du coup je fais tout à pied 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="816.583" endTime="820.95">
+<Sync time="816.583"/>
+<Who nb="1"/>
+oui moi aussi à pied en vélo 
+<Who nb="2"/>
+à bus en vélo 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="820.95" endTime="822.940">
+<Sync time="820.95"/>
+<Who nb="1"/>
+donc ce qui fait que 
+<Who nb="2"/>
+
+<Event desc="rire " type="noise" extent="instantaneous"/>
+oui c'est l'enfer la voiture 
+</Turn>
+<Turn speaker="spk3" startTime="822.940" endTime="844.47">
+<Sync time="822.940"/>
+ce qui fait que quand on sort même le soir on peut aller dans n'importe quel spectacle de théâtre d'opéra de n'im- n'importe où même quand on rentre en taxi ou on se fait raccompagner moi je trouve que le septième c'est vraiment très central idéal parce que mon mari qui est dans le quinzième pour se garer c'est une horreur dans le septième on arrive quand même toujours à se garer mais enfin on a un parking là-bas 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="844.47" endTime="846.455">
+<Sync time="844.47"/>
+<Who nb="1"/>
+ouais enfin remarque ça dépend des heures parce que 
+<Who nb="2"/>
+on arrive toujours à 
+</Turn>
+<Turn speaker="spk2" startTime="846.455" endTime="849.73">
+<Sync time="846.455"/>
+mon mari qui rentre en voiture il souffre quand même 
+</Turn>
+<Turn speaker="spk3" startTime="849.73" endTime="853.223">
+<Sync time="849.73"/>
+il y a des quartiers moi je vois du côté de l'opéra c'est sans arrêt bouché et cetera 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="853.223" endTime="855.390">
+<Sync time="853.223"/>
+<Who nb="1"/>
+ah oui quand tu vas au spectacle dans les théâtres 
+<Who nb="2"/>
+tandis que dans le septième on arrive quand même à 
+</Turn>
+<Turn speaker="spk2" startTime="855.390" endTime="856.361">
+<Sync time="855.390"/>
+ah oui c'est infernal 
+</Turn>
+</Section>
+<Section type="report" topic="to8" startTime="856.361" endTime="917.62">
+<Turn speaker="spk3" startTime="856.361" endTime="865.708">
+<Sync time="856.361"/>
+oui c'est ça tandis que le le septième effectivement ça manque un peu de cinémas quand même parce qu'on est obligé d'aller à l'Opéra ou du côté de Montparnasse c'est le plus près euh 
+</Turn>
+<Turn speaker="spk1" startTime="865.708" endTime="866.811">
+<Sync time="865.708"/>
+du septième c'est ça 
+</Turn>
+<Turn speaker="spk3" startTime="866.811" endTime="867.286">
+<Sync time="866.811"/>
+ah oui 
+</Turn>
+<Turn speaker="spk2" startTime="867.286" endTime="868.705">
+<Sync time="867.286"/>
+oui on n'a qu'un petit un petit cinéma 
+</Turn>
+<Turn speaker="spk3" startTime="868.705" endTime="869.359">
+<Sync time="868.705"/>
+la Pagode 
+</Turn>
+<Turn speaker="spk2" startTime="869.359" endTime="894.640">
+<Sync time="869.359"/>
+qui est sauvegardé à bout de bras là la Pagode là à Sèvres-Babylone et on avait un autre cinéma alors il y avait moi dans ma jeunesse un cinéma rue de Sèvres enfin qui n'existe plus depuis belle lurette je sais plus combien de temps mais vraiment et il y avait aussi un studio euh plutôt d'art et d'essai rue Bertrand près de l'hôpital Necker là rue de Sèvres aussi mais euh il a fermé et je sais qu'ils essaient de le rouvrir mais apparemment c'est pas si simple que ça 
+</Turn>
+<Turn speaker="spk1" startTime="894.640" endTime="895.424">
+<Sync time="894.640"/>
+c'est pas facile 
+</Turn>
+<Turn speaker="spk2" startTime="895.424" endTime="900.085">
+<Sync time="895.424"/>
+donc euh vous savez en plus avec les copropriétés c'est dans un immeuble privé enfin tout ça c'est 
+</Turn>
+<Turn speaker="spk1" startTime="900.085" endTime="903.382">
+<Sync time="900.085"/>
+donc ça ça vous manque un petit peu le fait que ça soit pas 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="903.382" endTime="906.986306241">
+<Sync time="903.382"/>
+<Who nb="1"/>
+ben ça serait bien d'avoir oui si on avait une salle à pr- 
+<Who nb="2"/>
+c'est sûr que oui si on nous on est un peu sans 
+</Turn>
+<Turn speaker="spk3" startTime="906.986306241" endTime="911.393">
+<Sync time="906.986306241"/>
+à côté ça serait quand même bien hein à la Saladière de temps en temps ils passent des films ils font des choses 
+</Turn>
+<Turn speaker="spk2" startTime="911.393" endTime="913.471">
+<Sync time="911.393"/>
+oui il y a des choses de temps en temps 
+</Turn>
+<Turn speaker="spk4" startTime="913.471" endTime="917.620">
+<Sync time="913.471"/>
+excusez-moi mais nous sommes domiciliées dans les armoires 
+</Turn>
+</Section>
+<Section type="report" topic="to7" startTime="917.62" endTime="1109.556">
+<Turn speaker="spk1" startTime="917.620" endTime="923.816">
+<Sync time="917.620"/>
+allez-y oui oui et euh et donc vous vous déplacez à pied essentiellement 
+</Turn>
+<Turn speaker="spk2" startTime="923.816" endTime="933.322">
+<Sync time="923.816"/>
+à pied à bus en métro oui bon le vélo moi je suis un peu frileuse parce que j'ai essayé une fois ou deux mais je trouve ça tellement dangereux que mais bon Stéphanie est très experte ça fait longtemps qu'elle en fait alors bon 
+</Turn>
+<Turn speaker="spk1" startTime="933.322" endTime="933.765">
+<Sync time="933.322"/>
+ah oui 
+</Turn>
+<Turn speaker="spk2" startTime="933.765" endTime="938.717">
+<Sync time="933.765"/>
+alors bon c'est mais moi je fais du vélo qu'à la campagne justement donc je vais dire que bon 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="938.717" endTime="942.666">
+<Sync time="938.717"/>
+<Who nb="1"/>
+donc le vélo à Paris c'est 
+<Who nb="2"/>
+moi je suis assez j'ai assez peur je dois dire que 
+</Turn>
+<Turn speaker="spk1" startTime="942.666" endTime="944.064">
+<Sync time="942.666"/>
+voilà vous c'est pas le vélib alors 
+</Turn>
+<Turn speaker="spk3" startTime="944.064" endTime="964.131">
+<Sync time="944.064"/>
+non mais c'est le vélo mais je reste que dans des voies euh c'est-à-dire que j'ai deux parcours c'est Montparnasse et Opéra parce que le Montparnasse il c'est bien parce qu'on se met dans des couloirs de bus sauf la petite avenue qui va de la grande avenue avenue de la Bourdonnais quand on va de de la place du Général Gouraud à l'avenue de la Bourdonnais il y a pas de de couloirs à vélo ça c'est une horreur et pourtant ça fait 
+</Turn>
+<Turn speaker="spk2" startTime="964.131" endTime="965.573">
+<Sync time="964.131"/>
+et il y a la contre-allée non non il n'y a pas de contre-allée 
+</Turn>
+<Turn speaker="spk3" startTime="965.573" endTime="988.151">
+<Sync time="965.573"/>
+même pas il y a pas de contre-allée alors là c'est c'est vraiment très dangereux moi je trouve mais à l'Opéra il y a des pistes cyclables qui vont pratiquement jusqu'à l'Opéra c'est les deux que je fais alors quelquefois bon je m'échappe un petit peu plus loin mais si on n'est pas dans des couloirs de bus moi je vois des vélibs qui font n'importe quoi des gens à vélo mais qui sont complètement moi j'ai le casque et tout j'ai tout l'équipement hein mais il y a des gens qui 
+<Event desc="pf" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="988.151" endTime="994.160">
+<Sync time="988.151"/>
+oui parce que il y a des vélibs mais il y a pas de casque avec s vouvoyez moi je trouve ça hallucinant c'est très dangereux enfin c'est n'importe quoi hein c'est 
+</Turn>
+<Turn speaker="spk3" startTime="994.160" endTime="999.363">
+<Sync time="994.160"/>
+puis les gens qui font n'importe quoi aussi qui grillent les feux rouges 
+</Turn>
+<Turn speaker="spk2" startTime="999.363" endTime="999.369">
+<Sync time="999.363"/>
+il y a quand même beaucoup de cas de 
+</Turn>
+<Turn speaker="spk1" startTime="999.369" endTime="1001.126">
+<Sync time="999.369"/>
+et et vos enfants n'ont pas envie de d'essayer 
+</Turn>
+<Turn speaker="spk2" startTime="1001.126" endTime="1012.491">
+<Sync time="1001.126"/>
+ah si moi elles veulent mais moi j'ai dit non de toute façon la petite elle a pas le droit c'est après quatorze ans donc j'ai dit 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+et l'autre j'ai fait ouais non je lui dis non tu ne prendras pas de vélib 
+</Turn>
+<Turn speaker="spk3" startTime="1012.491" endTime="1013.151">
+<Sync time="1012.491"/>
+moi elle a le vélo 
+</Turn>
+<Turn speaker="spk2" startTime="1013.151" endTime="1020.365">
+<Sync time="1013.151"/>
+j'espère qu'elle va m'écouter mais je sens qu'elle a des copines qui font des expériences ah oui le vélo est pas bien enclenché donc on peut le tirer comme ça ça va marcher et tout 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1020.365" endTime="1022.838">
+<Sync time="1020.365"/>
+<Who nb="1"/>
+oui oui ça va être difficile de résister 
+<Who nb="2"/>
+j'ai vraiment très peur 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1022.838" endTime="1025.998">
+<Sync time="1022.838"/>
+<Who nb="1"/>
+oui non mais vraiment ça me fait peur quand vous voyez les 
+<Who nb="2"/>
+je comprends oui 
+</Turn>
+<Turn speaker="spk2" startTime="1025.998" endTime="1036.732">
+<Sync time="1025.998"/>
+déjà même en voiture enfin moi les rares fois où ça m'arrive de conduire dans Paris euh vous avez les cars d'un côté les bus de l'autre les poids-lourds il y a des poids-lourds qui font des livraisons tout ça c'est quand même très 
+</Turn>
+<Turn speaker="spk1" startTime="1036.732" endTime="1039.013">
+<Sync time="1036.732"/>
+ben c'est comme ça qu'il y a eu un accident il n'y a pas longtemps 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1039.013" endTime="1039.617">
+<Sync time="1039.013"/>
+<Who nb="1"/>
+oui oui 
+<Who nb="2"/>
+oui oui 
+</Turn>
+<Turn speaker="spk2" startTime="1039.617" endTime="1042.851">
+<Sync time="1039.617"/>
+non mais il y a beaucoup d'accidents de toute façon je crois qu'on nous dit pas tout hein 
+</Turn>
+<Turn speaker="spk1" startTime="1042.851" endTime="1044.227">
+<Sync time="1042.851"/>
+oui oui certainement 
+</Turn>
+<Turn speaker="spk2" startTime="1044.227" endTime="1054.082">
+<Sync time="1044.227"/>
+mais c'est vraiment dangereux donc euh bon déjà les deux-roues c'est dangereux le nombre de gens enfin moi j'ai des amis qui ont des scooters parce qu'ils en peuvent plus enfin d'être dans les bouchons et tout ça mais enfin il y a des accidents c'est 
+</Turn>
+<Turn speaker="spk3" startTime="1054.082" endTime="1057.631">
+<Sync time="1054.082"/>
+moi elle a le vélo mais elle veut pas mettre le casque alors du coup que c'est question esthétique 
+</Turn>
+<Turn speaker="spk2" startTime="1057.631" endTime="1058.143">
+<Sync time="1057.631"/>
+ah ben oui mais ça j'imagine 
+</Turn>
+<Turn speaker="spk3" startTime="1058.143" endTime="1061.552">
+<Sync time="1058.143"/>
+il est dans la cour le vélo mais j'ai pas réussi à la à la à ce qu'on fasse du vélo ensemble 
+</Turn>
+<Turn speaker="spk2" startTime="1061.552" endTime="1063.168">
+<Sync time="1061.552"/>
+donc du coup tu la sors pas alors 
+</Turn>
+<Turn speaker="spk3" startTime="1063.168" endTime="1068.113">
+<Sync time="1063.168"/>
+eh ben non c'est moi qui sors du vélo quand le mien crève une fois sur deux avec les morceaux de verre lorsqu'il y a des grandes manifestations 
+</Turn>
+<Turn speaker="spk2" startTime="1068.113" endTime="1069.343">
+<Sync time="1068.113"/>
+ah oui c'est ça 
+</Turn>
+<Turn speaker="spk1" startTime="1069.343" endTime="1071.646">
+<Sync time="1069.343"/>
+et vous vous prenez un casque lorsque vous faites du vélo 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1071.646" endTime="1073.338">
+<Sync time="1071.646"/>
+<Who nb="1"/>
+oui toujours ou sinon 
+<Who nb="2"/>
+ah oui 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1073.338" endTime="1075.996">
+<Sync time="1073.338"/>
+<Who nb="1"/>
+ce qui est sympathique c'est 
+<Who nb="2"/>
+c'est normal enfin moi pour moi c'est la base hein je trouve que vraiment 
+</Turn>
+<Turn speaker="spk3" startTime="1075.996" endTime="1080.38">
+<Sync time="1075.996"/>
+c'est le dimanche le long des le long de la Seine là une ou deux fois elle l'a fait avec nous 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1080.38" endTime="1082.09">
+<Sync time="1080.38"/>
+<Who nb="1"/>
+oui quand ils ferment les quais les berges de Seine 
+<Who nb="2"/>
+quand ils ferment les quais 
+</Turn>
+<Turn speaker="spk3" startTime="1082.09" endTime="1095.442">
+<Sync time="1082.09"/>
+là c'est sympa d'être au milieu des rollers ça je fais ça un petit peu de temps en temps avec mon mari quand il fait beau quelquefois elle vient avec nous mais bon pour l'instant elle a plus ses activités entre son travail ses enfin 
+</Turn>
+<Turn speaker="spk2" startTime="1095.442" endTime="1096.449">
+<Sync time="1095.442"/>
+avec les copines 
+</Turn>
+<Turn speaker="spk3" startTime="1096.449" endTime="1098.478">
+<Sync time="1096.449"/>
+c'est des copines des activités d'adolescent 
+</Turn>
+<Turn speaker="spk2" startTime="1098.478" endTime="1108.400">
+<Sync time="1098.478"/>
+pour ça Paris c'est très pratique en deux minutes on est au cinéma ou dans tel Galeries Lafayette ou je sais pas quoi voyez enfin moi pour les jeunes je trouve ça génial quoi c'est sûr que 
+</Turn>
+<Turn speaker="spk1" startTime="1108.400" endTime="1109.556">
+<Sync time="1108.400"/>
+en fait les jeunes c'est 
+</Turn>
+</Section>
+<Section type="report" topic="to9" startTime="1109.556" endTime="1234.501">
+<Turn speaker="spk2" startTime="1109.556" endTime="1118.459">
+<Sync time="1109.556"/>
+c'est pour ça que je vais vous dire elles ont pas du tout envie d'aller à la campagne pour s'ennuyer à mourir 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+et pas voir de boutiques enfin surtout les filles voyez les garçons je sais pas mais 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1118.459" endTime="1119.242">
+<Sync time="1118.459"/>
+<Who nb="1"/>
+ah oui moi 
+<Who nb="2"/>
+faire les magasins 
+</Turn>
+<Turn speaker="spk3" startTime="1119.242" endTime="1130.99">
+<Sync time="1119.242"/>
+moi elle me dit effectivement euh moi j'aimerais bien de temps en temps aller à la campagne mais enfin quand je vois tous les problèmes pour sortir de Paris mais euh moi elle me dit oh non non mais maintenant je suis tellement habituée à Paris aussi que je sens qu'elle voudrait pas euh 
+</Turn>
+<Turn speaker="spk2" startTime="1130.99" endTime="1132.602">
+<Sync time="1130.99"/>
+ah oui ben non tu parles elle va pas aller s'enterrer dans un 
+</Turn>
+<Turn speaker="spk3" startTime="1132.602" endTime="1135.113">
+<Sync time="1132.602"/>
+puis alors dès qu' elle dès qu'elle voit une araignée ou une mouche elle saute au plafond 
+</Turn>
+<Turn speaker="spk2" startTime="1135.113" endTime="1135.657">
+<Sync time="1135.113"/>
+ah oui oui moi c'est pareil 
+</Turn>
+<Turn speaker="spk3" startTime="1135.657" endTime="1141.300">
+<Sync time="1135.657"/>
+moi déjà je saute au plafond quand je vois une araignée mais alors quand elle voit même une mouche je dis non mais c'est pas possible 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1141.300" endTime="1142.279">
+<Sync time="1141.300"/>
+<Who nb="1"/>
+on est aseptisés hein 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+tu pourrais pas 
+</Turn>
+<Turn speaker="spk3" startTime="1142.279" endTime="1144.591">
+<Sync time="1142.279"/>
+tu pourrais pas vivre à la campagne là avec 
+</Turn>
+<Turn speaker="spk1" startTime="1144.591" endTime="1149.416">
+<Sync time="1144.591"/>
+donc par exemple avoir une maison de campagne comme ça ça se fait pas partie des projets 
+</Turn>
+<Turn speaker="spk3" startTime="1149.416" endTime="1152.104">
+<Sync time="1149.416"/>
+moi j'aimerais bien mais quand on voit effectivement pour entrer et sortir 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1152.104" endTime="1153.663">
+<Sync time="1152.104"/>
+<Who nb="1"/>
+moi j'ai la moi 
+<Who nb="2"/>
+les entretiens faut les moyens aussi 
+</Turn>
+<Turn speaker="spk2" startTime="1153.663" endTime="1165.744">
+<Sync time="1153.663"/>
+j'ai mes grands-parents donc qui habitaient en région parisienne qui nous ont laissé leur maison donc si vous voulez pour nous c'est une maison de campagne mais à la limite bon moi j'ai pas le temps d'y aller enfin mon mari est très pris vous imaginez 
+</Turn>
+<Turn speaker="spk3" startTime="1165.744" endTime="1166.718">
+<Sync time="1165.744"/>
+elle est où ta maison de campagne 
+</Turn>
+<Turn speaker="spk2" startTime="1166.718" endTime="1167.499">
+<Sync time="1166.718"/>
+à l'Ile-Adam 
+</Turn>
+<Turn speaker="spk3" startTime="1167.499" endTime="1168.989">
+<Sync time="1167.499"/>
+ah oui 
+</Turn>
+<Turn speaker="spk2" startTime="1168.989" endTime="1182.786">
+<Sync time="1168.989"/>
+dans le Val d'Oise hein c'est très joli c'est une petite ville charmante enfin bon il y a des tas de choses à faire mais c'est vrai qu'on n'arrive même pas à se libérer le week-end entier pour aller faire cinquante kilomètres qui vont nous prendre une heure et demie euh non mais c'est ça vous savez c'est 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1182.786" endTime="1183.654">
+<Sync time="1182.786"/>
+<Who nb="1"/>
+tu as raison moi j'ai des 
+<Who nb="2"/>
+vous n'y allez pas finalement 
+</Turn>
+<Turn speaker="spk2" startTime="1183.654" endTime="1184.612">
+<Sync time="1183.654"/>
+si on y va mais très 
+</Turn>
+<Turn speaker="spk1" startTime="1184.612" endTime="1185.313">
+<Sync time="1184.612"/>
+rarement 
+</Turn>
+<Turn speaker="spk2" startTime="1185.313" endTime="1233.11090566">
+<Sync time="1185.313"/>
+pas assez souvent hein et c'est vrai que pour ma maman c'est pas très drôle parce que du coup elle elle y va toute seule nous on y va de temps en temps enfin voilà mais c'est vrai que bon par contre j'ai des amis de ma génération qui eux se sont acheté une maison de campagne parce que en plus ils ont vous savez je crois que c'est aussi parce que euh par exemple enfin moi je vois ceux qui ont des garçons souvent les garçons on sent qu'ils ont besoin d'un grand air de sortir de courir dans tous les sens moi j'ai deux filles elles sont ravies dans l'appartement aller voir les copines à droite à gauche dès qu'elles peuvent c'est vrai c'est pas les mêmes activités je crois et puis c'est vrai que moi personnellement je suis pas sportive donc j'ai jamais non plus été chercher le grand air enfin bon j'ai fait deux trois activités comme ça mais c'est tout bon mon mari lui il aime bien un peu mais le peu qu'on fait ça ça suffit donc c'est vrai que nos filles sont pas tellement c'est très différent pour chacun je pense hein 
+</Turn>
+<Turn speaker="spk1" startTime="1233.11090566" endTime="1234.501">
+<Sync time="1233.11090566"/>
+bien sûr oui 
+</Turn>
+</Section>
+<Section type="report" topic="to10" startTime="1234.501" endTime="1471.938">
+<Turn speaker="spk2" startTime="1234.501" endTime="1260.381">
+<Sync time="1234.501"/>
+puis c'est vrai que moi en tant que parisienne j'ai jam- c'est vrai que le problème de Paris je pense c'est effectivement pratiquer un sport à Paris c'est vraiment pas facile moi j'aime beaucoup le tennis pendant plusieurs années quand j'étais étudiante j'ai voulu en faire bon ben c'était toujours vraiment un parcours du combattant hein réserver un court le matin dès sept heures enfin je me souviens d'ailleurs quand j'étais à la Sorbonne il y avait un par le CROUS on pouvait réserver des courts de tennis euh bon alors il fallait réser- être le premier au téléphone le matin pour réserver le court 
+</Turn>
+<Turn speaker="spk3" startTime="1260.381" endTime="1260.929">
+<Sync time="1260.381"/>
+moi je vais je vais 
+</Turn>
+<Turn speaker="spk2" startTime="1260.929" endTime="1262.551">
+<Sync time="1260.929"/>
+après c'était à l'autre bout de Paris enfin bon c'est 
+</Turn>
+<Turn speaker="spk3" startTime="1262.551" endTime="1265.488">
+<Sync time="1262.551"/>
+je vais t'emmener au club où je vais là 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1265.488" endTime="1267.065">
+<Sync time="1265.488"/>
+<Who nb="1"/>
+oui oui non mais je pense que maintenant ça s'est amélioré 
+<Who nb="2"/>
+mais là il est loin aussi 
+</Turn>
+<Turn speaker="spk3" startTime="1267.065" endTime="1283.663">
+<Sync time="1267.065"/>
+non nous on a un club de tennis mais alors c'est du côté de Rueil-Malmaison alors bon euh alors on y va il faut faire il faut qu'il fasse beau c'est quand même c'est pas loin c'est à une demi-heure de Paris le cadre est absolument superbe tu vois on est dans le club ESSO avant c'était le club SHELL tu rentres là-dedans c'est c'est 
+</Turn>
+<Turn speaker="spk2" startTime="1283.663" endTime="1300.989">
+<Sync time="1283.663"/>
+ah non mais c'est sûr que c'est pas une ville de sportifs hein c'est clair enfin je veux dire et puis d'ailleurs dans le septième vous pouvez remarquer qu'on n'a quasiment rien comme équipement sportif c'est bien notre problème hein parce que alors on avait une piscine la piscine Deligny qui a coulé qui n'a jamais été remplacée par contre il y a d'autres piscines qui se sont construites dans Paris mais on a bien pris soin de ne pas en construire dans le septième 
+</Turn>
+<Turn speaker="spk1" startTime="1300.989" endTime="1302.012">
+<Sync time="1300.989"/>
+et c'est pas 
+</Turn>
+<Turn speaker="spk2" startTime="1302.012" endTime="1311.502">
+<Sync time="1302.012"/>
+je ne polémiquerai pas mais là-dessus c'est clair et net hein le maire de Paris l'a dit lui-même donc là-dessus on est au courant donc on n'a pas de piscine on est obligés de 
+</Turn>
+<Turn speaker="spk1" startTime="1311.502" endTime="1312.44">
+<Sync time="1311.502"/>
+il n'y a pas de piscine dans le septième 
+</Turn>
+<Turn speaker="spk2" startTime="1312.44" endTime="1313.117">
+<Sync time="1312.44"/>
+non on n'a pas de piscine dans le septième arrondissement 
+</Turn>
+<Turn speaker="spk3" startTime="1313.117" endTime="1315.278">
+<Sync time="1313.117"/>
+même les gamins au collège ils peuvent pas aller à la piscine 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1315.278" endTime="1315.383">
+<Sync time="1315.278"/>
+<Who nb="1"/>
+parce que il n'y a pas de piscine 
+<Who nb="2"/>
+on a un 
+</Turn>
+<Turn speaker="spk2" startTime="1315.383" endTime="1322.959">
+<Sync time="1315.383"/>
+un bassin é- école on appelle ça dans le collège de la rue Cler donc euh près de la tour Eiffel qui euh je sais pas la hauteur d'eau c'est ça 
+</Turn>
+<Turn speaker="spk3" startTime="1322.959" endTime="1323.182">
+<Sync time="1322.959"/>
+oui oui c'est pour les petits 
+</Turn>
+<Turn speaker="spk2" startTime="1323.182" endTime="1346.6937402">
+<Sync time="1323.182"/>
+je sais pas la hauteur d'eau c'est ça <Comment desc="suite de syllabes incompréhensibles"/> un mètre vous voyez donc ça veut dire que du de du CP au CM2 les enfants de primaire vont dans ce bassin école sachant qu'en CM2 enfin ma fille l'année dernière elle faisait déjà un mètre cinquante-cinq quand on est dans une piscine de un mètre enfin ça a aucun intérêt c'est tout petit en plus hein donc il y a on est obligé de pour les grands les lycées donc les collèges vont à la piscine Emile Antoine qui est dans le quinzième en fait 
+</Turn>
+<Turn speaker="spk3" startTime="1346.6937402" endTime="1347.95643977">
+<Sync time="1346.6937402"/>
+quand ils veulent bien la prêter 
+</Turn>
+<Turn speaker="spk2" startTime="1347.95643977" endTime="1361.887">
+<Sync time="1347.95643977"/>
+ils sont à la frontière entre le Champ-de-Mars là enfin avenue de Suffren donc ils nous prêtent le quinzième nous prête leur piscine enfin des horaires des créneaux horaires voilà et pareil pour le stade Suffren qui est à côté de la piscine qu'on partage avec le quinzième 
+</Turn>
+<Turn speaker="spk1" startTime="1361.887" endTime="1364.171">
+<Sync time="1361.887"/>
+d'accord 
+</Turn>
+<Turn speaker="spk2" startTime="1364.171" endTime="1390.391">
+<Sync time="1364.171"/>
+sinon nous n'avons rien nous sommes des sinistrés du sport 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+et encore on a quand même eu la chance grâce à notre maire il y a déjà plusieurs années d'avoir une salle enfin une sorte de un équipement quand même assez moderne sous l'esplanade des Invalides il y a un gymnase où il se pratique des tas de sports comme les arts martiaux la gymnastique enfin voyez des choses quand même assez variées et puis bon il y a quelques petits gymnases dans l'arrondissement mais bon qui vont avec les écoles en général vous voyez mais c'est tout quoi on a 
+</Turn>
+<Turn speaker="spk3" startTime="1390.391" endTime="1393.505">
+<Sync time="1390.391"/>
+et comme tu dis effectivement pour pouvoir pratiquer du sport bon effectivement 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1393.505" endTime="1394.049">
+<Sync time="1393.505"/>
+<Who nb="1"/>
+nous on va une demi-heure 
+<Who nb="2"/>
+faut vraiment le vouloir quoi 
+</Turn>
+<Turn speaker="spk3" startTime="1394.049" endTime="1400.953">
+<Sync time="1394.049"/>
+mais alors c'est l'expédition il faut il faut qu'il fasse beau il faut qu'il y ait de la place enfin bon c'est un peu compliqué alors bon 
+</Turn>
+<Turn speaker="spk2" startTime="1400.953" endTime="1436.823">
+<Sync time="1400.953"/>
+et alors il y a quelques courts de tennis à Emile Antoine il y en a un ou deux je sais même plus parce que ma fille y est allée pendant un moment mais comme c'était à l'extérieur quand il pleut on peut pas jouer enfin je vous passe les détails de la météo et et sinon il y a des courts couverts je sais par exemple au Racing club là qui a été repris par Lagardère il n'y a pas longtemps euh où il y a des associations qui louaient les terrains de tennis mais maintenant c'est plus possible et de toute façon c'était à des prix vraiment très très élevés moi je l'ai fait une année là pour ma fille l'année dernière enfin la cadette qui voulait vraiment bon elle a pris un an de cours de tennis voilà mais maintenant c'est fini euh cette association peut plus louer les terrains 
+</Turn>
+<Turn speaker="spk1" startTime="1436.823" endTime="1439.292">
+<Sync time="1436.823"/>
+et le Luxembourg non il y a pas de 
+</Turn>
+<Turn speaker="spk2" startTime="1439.292" endTime="1446.385">
+<Sync time="1439.292"/>
+ben si il y a des courts au Luxembourg mais bon c'est pris d'assaut c'est loin enfin c'est loin disons que pour les enfants se déplacer loin c'est pas vraiment possible c'est compliqué 
+</Turn>
+<Turn speaker="spk1" startTime="1446.385" endTime="1449.067">
+<Sync time="1446.385"/>
+oui d'accord donc pour ça 
+</Turn>
+<Turn speaker="spk2" startTime="1449.067" endTime="1455.054">
+<Sync time="1449.067"/>
+pour les équipements sportifs enfin bon je vous dis moi j'ai à chaque fois que j'ai voulu faire quelque chose c'est vrai que c'est quand même 
+</Turn>
+<Turn speaker="spk1" startTime="1455.054" endTime="1455.424">
+<Sync time="1455.054"/>
+ça a été difficile 
+</Turn>
+<Turn speaker="spk2" startTime="1455.424" endTime="1457.53">
+<Sync time="1455.424"/>
+bon il y a on peut toujours aller faire de la natation 
+</Turn>
+<Turn speaker="spk3" startTime="1457.53" endTime="1458.757">
+<Sync time="1457.53"/>
+oui la piscine à côté 
+</Turn>
+<Turn speaker="spk2" startTime="1458.757" endTime="1459.64755152">
+<Sync time="1458.757"/>
+il y a des tas de piscines dans Paris 
+</Turn>
+<Turn speaker="spk1" startTime="1459.64755152" endTime="1460.972">
+<Sync time="1459.64755152"/>
+oui bien sûr si on veut 
+</Turn>
+<Turn speaker="spk2" startTime="1460.972" endTime="1468.792">
+<Sync time="1460.972"/>
+c'est ça aussi l'avantage de Paris c'est que si dans un quartier il manque certaines choses comme les cinémas ou les équipements sportifs on peut trouver ça dans le quartier d'à côté et 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1468.792" endTime="1471.938">
+<Sync time="1468.792"/>
+<Who nb="1"/>
+mais il faut sortir il faut sortir du quartier 
+<Who nb="2"/>
+c'est facile d'accès mais il faut sortir du quartier 
+</Turn>
+</Section>
+<Section type="report" topic="to11" startTime="1471.938" endTime="1643.285">
+<Turn speaker="spk1" startTime="1471.938" endTime="1480.693">
+<Sync time="1471.938"/>
+et alors lorsque vous parlez du quartier comme cela qu'est-ce que ça évoque exactement exactement je veux dire par rapport aux rues euh 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1480.693" endTime="1483.138">
+<Sync time="1480.693"/>
+<Who nb="1"/>
+est-ce que c'est spécifique ou pas 
+<Who nb="2"/>
+oui ben c'est vrai enfin d'une part je crois qu'il y a le 
+</Turn>
+<Turn speaker="spk2" startTime="1483.138" endTime="1517.054">
+<Sync time="1483.138"/>
+nous deux habitons là dans le quartier du Gros-Caillou parce qu' en fait le septième arrondissement donc est divisé par quartiers à l'intérieur du septième mais euh bon nous on habite dans ce quartier-là donc c'est vrai qu'on connaît plus les personnes de ce quartier tout ça bon moi j'habitais avec mes parents dans le quartier on appelle ça Invalides donc plus près de Montparnasse Invalides boulevard des Invalides en allant vers le boulevard Montparnasse donc ça c'est en- un autre quartier mais en même temps moi j'ai il y a un marché par exemple avenue de Saxe où on peut all- où les gens vont facilement parce que c'est un des marchés les plus agréables dans le coin puis dans le septième il y a 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1517.054" endTime="1519.461">
+<Sync time="1517.054"/>
+<Who nb="1"/>
+tu as le marché avenue du Président Wilson aussi là 
+<Who nb="2"/>
+c'est le seul d'ailleurs 
+</Turn>
+<Turn speaker="spk2" startTime="1519.461" endTime="1521.094">
+<Sync time="1519.461"/>
+Président Wilson qui est 
+</Turn>
+<Turn speaker="spk3" startTime="1521.094" endTime="1522.400">
+<Sync time="1521.094"/>
+de l'autre côté du pont de l'Alma 
+</Turn>
+<Turn speaker="spk2" startTime="1522.400" endTime="1528.997">
+<Sync time="1522.400"/>
+de l'autre côté du pont de l'Alma mais ça c'est plus dans le septième on va dire mais enfin bon c'est 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+voilà mais disons que c'est si on n'est pas 
+</Turn>
+<Turn speaker="spk1" startTime="1528.997" endTime="1529.301">
+<Sync time="1528.997"/>
+qu'est-ce que c'est ce seizième 
+</Turn>
+<Turn speaker="spk3" startTime="1529.301" endTime="1529.954">
+<Sync time="1529.301"/>
+huitième 
+</Turn>
+<Turn speaker="spk2" startTime="1529.954" endTime="1530.847">
+<Sync time="1529.954"/>
+c'est huitième 
+</Turn>
+<Turn speaker="spk3" startTime="1530.847" endTime="1532.153">
+<Sync time="1530.847"/>
+oui huitième il me semble oui 
+</Turn>
+<Turn speaker="spk2" startTime="1532.153" endTime="1533.288">
+<Sync time="1532.153"/>
+oui c'est huitième 
+</Turn>
+<Turn speaker="spk3" startTime="1533.288" endTime="1534.215">
+<Sync time="1533.288"/>
+oui c'est ça 
+</Turn>
+<Turn speaker="spk2" startTime="1534.215" endTime="1541.561">
+<Sync time="1534.215"/>
+et donc c'est vrai que quartier ça fait c'est assez restrictif au niveau de enfin des gens qu'on connaît de c'est vrai de notre vie quotidienne 
+</Turn>
+<Turn speaker="spk3" startTime="1541.561" endTime="1543.06">
+<Sync time="1541.561"/>
+parce que les écoles sont à côté 
+</Turn>
+<Turn speaker="spk2" startTime="1543.06" endTime="1543.47">
+<Sync time="1543.06"/>
+voilà les écoles 
+</Turn>
+<Turn speaker="spk3" startTime="1543.47" endTime="1553.421">
+<Sync time="1543.47"/>
+l'école l'école primaire est à cinq minutes là le collège est à dix minutes le lycée là sera à dix minutes donc c'est vrai que même pour ma fille elle fait tout à pied elle fera le bus l'an prochain là quand elle ira 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1553.421" endTime="1555.472">
+<Sync time="1553.421"/>
+<Who nb="1"/>
+au lycée 
+<Who nb="2"/>
+à Victor Duruy 
+</Turn>
+<Turn speaker="spk3" startTime="1555.472" endTime="1560.701">
+<Sync time="1555.472"/>
+à Duruy à côté des des Invalides donc c'est vrai que moi je trouve que dans la vie de quartier on a tout pratiquement sous la main 
+</Turn>
+<Turn speaker="spk2" startTime="1560.701" endTime="1565.107">
+<Sync time="1560.701"/>
+c'est vrai que la vie de quartier ça s'étend à l'arrondissement finalement enfin vous voyez je crois qu'on peut 
+</Turn>
+<Turn speaker="spk1" startTime="1565.107" endTime="1568.824">
+<Sync time="1565.107"/>
+ça s'étend donc à l'arrondissement ou ça s'étend à ce qu'on peut faire à pied dans le quotidien 
+</Turn>
+<Turn speaker="spk3" startTime="1568.824" endTime="1570.439">
+<Sync time="1568.824"/>
+ah ce qu'on fait à pied dans le quotidien moi je trouve 
+</Turn>
+<Turn speaker="spk2" startTime="1570.439" endTime="1570.834">
+<Sync time="1570.439"/>
+ben ça fait 
+</Turn>
+<Turn speaker="spk3" startTime="1570.834" endTime="1582.927">
+<Sync time="1570.834"/>
+parce qu' il y a moi moi je fais le triangle hein quand je dis le triangle c'est à dire je fais les courses entre je vais rue Saint-Do je vais même pas jusqu'à la Tour Maubourg la rue Cler je remonte par l'avenue Bourdonnais donc je je je fais tout dans ce dans ce dans ce circuit 
+</Turn>
+<Turn speaker="spk2" startTime="1582.927" endTime="1583.983">
+<Sync time="1582.927"/>
+ça c'est vraiment le quartier proche 
+</Turn>
+<Turn speaker="spk3" startTime="1583.983" endTime="1586.291">
+<Sync time="1583.983"/>
+ah oui ça c'est le triangle un peu du Gros-Caillou 
+</Turn>
+<Turn speaker="spk2" startTime="1586.291" endTime="1617.228">
+<Sync time="1586.291"/>
+c'est vrai que nous on est donc entre le le Champ-de-Mars et l'esplanade des Invalides si vous voulez donc c'est vrai que ça fait un peu des barrières entre guillemets naturelles 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+parce que traverser le Champ-de-Mars c'est quand même toute une aventure et traverser l'esplanade des Invalides c'en est une autre mais bon étant donné que la mairie par exemple du septième est de l'autre côté de l'esplanade des Invalides forcément qu'on est amené à la traverser de temps en temps si on veut on a des démarches à faire mais bon tout ça c'est pour dire que c'est vrai qu'il y a des petites frontières naturelles comme ça enfin des petites elles sont importantes 
+</Turn>
+<Turn speaker="spk3" startTime="1617.228" endTime="1618.382">
+<Sync time="1617.228"/>
+c'est l'Ecole militaire effectivement 
+</Turn>
+<Turn speaker="spk2" startTime="1618.382" endTime="1620.498">
+<Sync time="1618.382"/>
+mais on peut quand même faire tout ça à pied si on veut le faire je veux dire 
+</Turn>
+<Turn speaker="spk1" startTime="1620.498" endTime="1624.173">
+<Sync time="1620.498"/>
+et alors pour vous quartier ça serait ça ça serait entre ces deux barrières là plus que 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1624.173" endTime="1625.984">
+<Sync time="1624.173"/>
+<Who nb="1"/>
+moi c'est oui je pense non tu crois pas 
+<Who nb="2"/>
+plus que que 
+</Turn>
+<Turn speaker="spk3" startTime="1625.984" endTime="1627.803">
+<Sync time="1625.984"/>
+moi c'est Ecole militaire effectivement 
+</Turn>
+<Turn speaker="spk2" startTime="1627.803" endTime="1629.022">
+<Sync time="1627.803"/>
+toi c'est plus restreint peut-être plus 
+</Turn>
+<Turn speaker="spk3" startTime="1629.022" endTime="1631.928">
+<Sync time="1629.022"/>
+rue Cler oui parce que je vais pas je vais pas souvent peut-être moins souvent à la mairie que toi 
+</Turn>
+<Turn speaker="spk2" startTime="1631.928" endTime="1634.431">
+<Sync time="1631.928"/>
+oui non mais c'est pas à la mairie ou le musée d'Orsay vous voyez par exemple oui ça dépend des activités de chacun 
+</Turn>
+<Turn speaker="spk3" startTime="1634.431" endTime="1643.285">
+<Sync time="1634.431"/>
+oui c'est avenue de la Bourdonnais avenue Rapp avenue Bosquet Ecole Militaire moi c'est vraiment rue Cler c'est avenue de la Motte-Piquet c'est vraiment ce j'ai tout un circuit pour les courses 
+</Turn>
+</Section>
+<Section type="report" topic="to12" startTime="1643.285" endTime="1779.109">
+<Turn speaker="spk2" startTime="1643.285" endTime="1676.297">
+<Sync time="1643.285"/>
+oui et c'est vrai que nous on a quand même un point central c'est la rue Cler dans le quartier qui est une rue très commerçante et je crois que les quartiers sont quand même assez enfin les gens se regroupent pas mal enfin tournent autour si je puis dire de la rue commerçante du coin hein donc nous on a la rue Cler et du côté du quartier Invalides où moi j'étais avec mes parents c'est la rue de Sèvres qui est une rue très commerçante où il y a le Bon Marché au bout hein là qui va jusqu'à Sèvres-Babylone donc c'est vrai que les gens ben par exemple moi quand j'étais boulevard des Invalides j'allais jamais rue Cler 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+faire des courses voyez c'est vrai en plus bon peut-être que à l'époque c'était peut-être encore plus segmenté que maintenant mais c'est vrai que les gens ben ils vont au plus près c'est normal 
+</Turn>
+<Turn speaker="spk1" startTime="1676.297" endTime="1676.524">
+<Sync time="1676.297"/>
+bien sûr 
+</Turn>
+<Turn speaker="spk3" startTime="1676.524" endTime="1689.03447025">
+<Sync time="1676.524"/>
+ben là on va à côté parce que moi je vois par exemple quand tu fais tout à pied bon j'ai pas trop le choix parce qu'avec un caddie qui est quand même assez lourd qui fait quinze vingt kilos j'ai le G20 qui est début de la rue Saint-Do donc c'est vrai que j'ai pas plus loin la poste à côté la pharmacie à côté donc on a vraiment nos habitudes 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1689.03447025" endTime="1689.535">
+<Sync time="1689.03447025"/>
+
+<Sync time="1689.64"/>
+<Who nb="1"/>
+oui on a tous vraiment c'est clair 
+<Who nb="2"/>
+j'ai le fromager qui est 
+</Turn>
+<Turn speaker="spk3" startTime="1689.535" endTime="1699.811">
+<Sync time="1689.535"/>
+dans la rue Cler j'ai le boucher qui est dans la rue de Grenelle j'ai Picard rue de Grenelle donc en fait on fait vraiment ses courses et puis comme on est avec un caddie on peut pas non plus se trimbaler moi mes quinze vingt kilos 
+</Turn>
+<Turn speaker="spk2" startTime="1699.811" endTime="1700.533">
+<Sync time="1699.811"/>
+oui non ben c'est sûr 
+</Turn>
+<Turn speaker="spk3" startTime="1700.533" endTime="1706.720">
+<Sync time="1700.533"/>
+à chaque fois donc je reste quand même à quoi un quart d'heure à pied je vais pas plus loin d'un quart d'heure pour faire les courses donc c'est vrai que je reste 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1706.720" endTime="1707.685">
+<Sync time="1706.720"/>
+<Who nb="1"/>
+dans un circuit bien délimité 
+<Who nb="2"/>
+c'est vrai que pour faire 
+</Turn>
+<Turn speaker="spk2" startTime="1707.685" endTime="1714.020">
+<Sync time="1707.685"/>
+des courses d'alimentation je dirais enfin moi je vais pas traverser tout Paris pour aller surtout qu'on a beaucoup de choses à côté de chez nous voyez on a 
+</Turn>
+<Turn speaker="spk1" startTime="1714.020" endTime="1715.348">
+<Sync time="1714.020"/>
+donc vous allez aussi à côté plutôt 
+</Turn>
+<Turn speaker="spk2" startTime="1715.348" endTime="1720.203">
+<Sync time="1715.348"/>
+oui pour l'alimentaire enfin si c'est de ça dont vous vouliez parler je sais pas euh c'est vrai que ça 
+</Turn>
+<Turn speaker="spk1" startTime="1720.203" endTime="1721.031">
+<Sync time="1720.203"/>
+oui pour le quotidien 
+</Turn>
+<Turn speaker="spk2" startTime="1721.031" endTime="1724.819">
+<Sync time="1721.031"/>
+c'est vrai que ça oui pour le quotidien au plus proche moi là-dessus je 
+</Turn>
+<Turn speaker="spk3" startTime="1724.819" endTime="1726.594">
+<Sync time="1724.819"/>
+oui et puis même nous on moi je fais un peu travailler 
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1726.594" endTime="1728.280">
+<Sync time="1726.594"/>
+<Who nb="1"/>
+mais pour le reste euh 
+<Who nb="2"/>
+les commerçants du quartier aussi hein 
+</Turn>
+<Turn speaker="spk2" startTime="1728.280" endTime="1728.955">
+<Sync time="1728.280"/>
+oui c'est ça 
+</Turn>
+<Turn speaker="spk3" startTime="1728.955" endTime="1730.697">
+<Sync time="1728.955"/>
+tu vois le photographe à côté je fais travailler bon la presse elle est à côté 
+</Turn>
+<Turn speaker="spk2" startTime="1730.697" endTime="1730.915">
+<Sync time="1730.697"/>
+oui c'est ça 
+</Turn>
+<Turn speaker="spk3" startTime="1730.915" endTime="1738.931">
+<Sync time="1730.915"/>
+bon la pharmacie la dernière fois on a fait aussi travailler aussi le commerçant pour les télés bon on essaie quand même de 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1738.931" endTime="1739.035">
+<Sync time="1738.931"/>
+<Who nb="1"/>
+de faire participer 
+<Who nb="2"/>
+de faire travailler 
+</Turn>
+<Turn speaker="spk3" startTime="1739.035" endTime="1741.299">
+<Sync time="1739.035"/>
+un petit peu les artisans du quartier hein quand on peut 
+</Turn>
+<Turn speaker="spk2" startTime="1741.299" endTime="1752.816">
+<Sync time="1741.299"/>
+oui ben c'est sûr que c'est quand même plus pratique je veux dire en général on finit par les connaître plus ou moins après bon si on a un service à demander voyez quelque chose qui fonctionne plus je sais pas quoi bon 
+</Turn>
+<Turn speaker="spk1" startTime="1752.816" endTime="1753.606">
+<Sync time="1752.816"/>
+il y a un échange 
+</Turn>
+<Turn speaker="spk2" startTime="1753.606" endTime="1777.720">
+<Sync time="1753.606"/>
+ou si on a des enfants moi je vois ma fille quand elle va acheter le pain bon ben l'autre jour il lui manquait dix centimes bonjour ma belle c'est pas grave on te connaît bon hop tu reviendras enfin vous voyez c'est quand même aussi c'est sécurisant moi je trouve aussi pour euh enfin quand on a des enfants c'est vrai que bon on a toujours du mal je trouve à les laisser circuler tout seuls au début hein et ben quand on sait que ben les gens du quartier les connaissent un peu les commerçants les voient passer tout ça bon euh 
+</Turn>
+<Turn speaker="spk3" startTime="1777.720" endTime="1778.326">
+<Sync time="1777.720"/>
+ah ben comme euh oui 
+</Turn>
+<Turn speaker="spk1" startTime="1778.326" endTime="1778.543">
+<Sync time="1778.326"/>
+c'est rassurant 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1778.543" endTime="1779.109">
+<Sync time="1778.543"/>
+<Who nb="1"/>
+oui c'est rassurant 
+<Who nb="2"/>
+c'est rassurant 
+</Turn>
+</Section>
+<Section type="report" topic="to13" startTime="1779.109" endTime="1837.070">
+<Turn speaker="spk2" startTime="1779.109" endTime="1801.422">
+<Sync time="1779.109"/>
+et puis il y a des gardiennes dans les immeubles on a la chance encore souvent d'avoir des gardiennes d'immeubles moi je trouve ça formidable parce que c'est vraiment enfin au niveau sécurité relationnel aide à la personne justement on parle beaucoup de ça les personnes âgées moi je vois même ma maman qui est toute seule dans son appartement moi je suis rassurée de savoir qu'elle a une gardienne qui est vraiment euh disponible qui est attentive voilà qui vit dans l'immeuble avec elle 
+</Turn>
+<Turn speaker="spk3" startTime="1801.422" endTime="1802.750">
+<Sync time="1801.422"/>
+ben nous on n'a pas ça hein 
+</Turn>
+<Turn speaker="spk2" startTime="1802.750" endTime="1806.335">
+<Sync time="1802.750"/>
+et ouais non et moi je nous on a une gardienne qui est formidable dans notre immeuble j'en suis ravie 
+<Event desc="on frappe" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1806.335" endTime="1807.246">
+<Sync time="1806.335"/>
+<Who nb="1"/>
+je peux vous dire qu'on fait tout pour la garder hein parce que 
+<Who nb="2"/>
+parce que oui 
+</Turn>
+<Turn speaker="spk1" startTime="1807.246" endTime="1812.155">
+<Sync time="1807.246"/>
+vous tenez à votre gardienne 
+</Turn>
+<Turn speaker="spk2" startTime="1812.155" endTime="1812.873">
+<Sync time="1812.155"/>
+oui oui ça c'est sûr 
+</Turn>
+<Turn speaker="spk1" startTime="1812.873" endTime="1813.810">
+<Sync time="1812.873"/>
+vous vous n'avez pas de gardienne 
+</Turn>
+<Turn speaker="spk3" startTime="1813.810" endTime="1819.322">
+<Sync time="1813.810"/>
+non il y en avait une il y a longtemps et puis finalement ça devait revenir très cher à la copropriété donc euh 
+</Turn>
+<Turn speaker="spk2" startTime="1819.322" endTime="1820.067">
+<Sync time="1819.322"/>
+ben c'est sûr que ça a un coût 
+</Turn>
+<Turn speaker="spk3" startTime="1820.067" endTime="1833.056">
+<Sync time="1820.067"/>
+donc ils ont donc il n'y a plus de gardien donc c'est la gardienne d'à côté qui nous fait un peu le ménage et cetera remarque quelques fois on me considère comme la gardienne alors euh parce que il y a il y a jamais personne dans l'immeuble alors là 
+</Turn>
+<Turn speaker="spk1" startTime="1833.056" endTime="1837.070">
+<Sync time="1833.056"/>
+tu t'interromps deux petites minutes c'est pas facile 
+</Turn>
+</Section>
+</Episode>
+</Trans>

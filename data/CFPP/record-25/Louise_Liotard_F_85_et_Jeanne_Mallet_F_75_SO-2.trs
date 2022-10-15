@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Trans SYSTEM "https://cocoon.huma-num.fr/schemas/trans-14.dtd">
+<Trans scribe="Agnès Verlinde" audio_filename="Louise_Liotard_F_85_et_Jeanne_Mallet_F_75_SO-2-v2.wav" version="37" version_date="00-XXX-0000">
+  <Topics>
+    <Topic id="to1" desc="animaux"/>
+    <Topic id="to2" desc="les courses"/>
+    <Topic id="to3" desc="l'insécurité"/>
+    <Topic id="to4" desc="informations concernant la ville"/>
+    <Topic id="to5" desc="hospitalisation du mari de Jeanne"/>
+  </Topics>
+  <Speakers>
+    <Speaker id="spk1" name="Louise Liotard" check="no" dialect="native" accent="" scope="local"/>
+    <Speaker id="spk2" name="Jeanne Mallet" check="no" dialect="native" accent="" scope="local"/>
+    <Speaker id="spk3" name="Anne" check="no" dialect="native" accent="" scope="local"/>
+    <Speaker id="spk4" name="Mat Pires (ENQ)" check="no" dialect="native" accent="" scope="local"/>
+    <Speaker id="spk5" name="Farah" check="no" dialect="native" accent="" scope="local"/>
+    <Speaker id="spk6" name="inconnue" check="no" dialect="native" accent="" scope="local"/>
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="51.114">
+      <Turn startTime="0.0" endTime="0.804">
+        <Sync time="0.0"/>
+        <Event desc="brouhaha" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk1" startTime="0.804" endTime="1.608">
+        <Sync time="0.804"/>
+        <Event desc="brouhaha" type="noise" extent="instantaneous"/>
+        la cuisine
+      </Turn>
+      <Turn speaker="spk3 spk2" startTime="1.608" endTime="9.944">
+        <Sync time="1.608"/>
+        <Who nb="1"/>
+        la cuisine la couture
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        <Who nb="2"/>
+        il y a de la couture /puisque, parce que/ Noémie elle y allait euh Noémie un moment donné la femme de Georges oui mais elle a abandonné je crois
+      </Turn>
+      <Turn speaker="spk3 spk1" startTime="9.944" endTime="17.374">
+        <Sync time="9.944"/>
+        <Who nb="1"/>
+        ah oui ah la couture
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        oui oui oui
+        <Who nb="2"/>
+        moi j'ai une amie qui y va
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        vous la connaissez elle va à la cuisine elle
+      </Turn>
+      <Turn speaker="spk4" startTime="17.374" endTime="17.924">
+        <Sync time="17.374"/>
+        mm
+      </Turn>
+      <Turn speaker="spk3 spk5" startTime="17.924" endTime="20.425">
+        <Sync time="17.924"/>
+        <Who nb="1"/>
+        oui /
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        , parce que là/
+        <Who nb="2"/>
+        où ça à Pasteur ou à
+      </Turn>
+      <Turn speaker="spk1" startTime="20.425" endTime="25.549">
+        <Sync time="20.425"/>
+        à non euh en haut là rue Albert Dhalenne
+        <Event desc="brouhaha" type="noise" extent="instantaneous"/>
+        le foyer restaurant
+      </Turn>
+      <Turn speaker="spk5" startTime="25.549" endTime="26.332">
+        <Sync time="25.549"/>
+        ah
+      </Turn>
+      <Turn speaker="spk1" startTime="26.332" endTime="27.986">
+        <Sync time="26.332"/>
+        voilà juste en bas de chez moi d'ailleurs
+      </Turn>
+      <Turn speaker="spk5 spk1" startTime="27.986" endTime="30.339">
+        <Sync time="27.986"/>
+        <Who nb="1"/>
+        ah oui c'est vrai on m'avait dit qu'il y avait euh
+        <Who nb="2"/>
+        je pourrais y aller manger hein si je voulais
+      </Turn>
+      <Turn speaker="spk3 spk5" startTime="30.339" endTime="33.474">
+        <Sync time="30.339"/>
+        <Who nb="1"/>
+        si il y a cours de cuisine le mercredi oui oui oui le mercredi
+        <Who nb="2"/>
+        oui on m'avait dit qu'il y avait un cours de cuisine oui oui
+      </Turn>
+      <Turn speaker="spk2 spk5" startTime="33.474" endTime="35.763">
+        <Sync time="33.474"/>
+        <Who nb="1"/>
+        oui oui il y a des cours de cuisine
+        <Who nb="2"/>
+        elle était photographiée même sur le
+      </Turn>
+      <Turn speaker="spk1 spk3" startTime="35.763" endTime="43.384">
+        <Sync time="35.763"/>
+        <Who nb="1"/>
+        oui oui cours de cuisine cours de cui-
+        <Who nb="2"/>
+        journal ouais elle me dit je pensais pas que j'étais si grosse elle avait été photographiée de très près
+        <Event desc="rire" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk3" startTime="43.384" endTime="49.735">
+        <Sync time="43.384"/>
+        oui elle est oui je crois que je l'ai là ben oui c'est ce que je disais je j'ai pas
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        à la mairie il y en a plus de journaux
+      </Turn>
+      <Turn speaker="spk1" startTime="49.735" endTime="50.158">
+        <Sync time="49.735"/>
+        ah
+      </Turn>
+      <Turn speaker="spk3" startTime="50.158" endTime="51.114">
+        <Sync time="50.158"/>
+        non
+      </Turn>
+    </Section>
+    <Section type="report" topic="to1" startTime="51.114" endTime="169.107">
+      <Turn speaker="spk4" startTime="51.114" endTime="53.192">
+        <Sync time="51.114"/>
+        alors est-ce que vous avez des animaux chez vous
+      </Turn>
+      <Turn speaker="spk1" startTime="53.192" endTime="54.275">
+        <Sync time="53.192"/>
+        ah ben j'en ai eu oui
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="54.275" endTime="56.649">
+        <Sync time="54.275"/>
+        <Who nb="1"/>
+        ouais vous en avez eu d'accord
+        <Who nb="2"/>
+        oh on en a eu mais
+      </Turn>
+      <Turn speaker="spk1" startTime="56.649" endTime="58.177">
+        <Sync time="56.649"/>
+        ah oui j'ai eu tout ce qu'il y a
+      </Turn>
+      <Turn speaker="spk4" startTime="58.177" endTime="59.789">
+        <Sync time="58.177"/>
+        c'est vrai
+        <Event desc="rire" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk1" startTime="59.789" endTime="64.003">
+        <Sync time="59.789"/>
+        chien chat poisson tourterelle
+        <Event desc="brouhaha" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="64.003" endTime="66.779">
+        <Sync time="64.003"/>
+        <Who nb="1"/>
+        <Event desc="brouhaha" type="noise" extent="instantaneous"/>
+        et là là vous en avez plus vous en avez pas de
+        <Who nb="2"/>
+        nous c'est pareil hein
+      </Turn>
+      <Turn speaker="spk3 spk2" startTime="66.779" endTime="68.582">
+        <Sync time="66.779"/>
+        <Who nb="1"/>
+        vous avez vu /
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        , qu'on vous aidait/ euh dans le journal
+        <Who nb="2"/>
+        on (n') a pas
+        <Comment desc="suite de syllabes incompréhensibles"/>
+      </Turn>
+      <Turn speaker="spk4" startTime="68.582" endTime="68.882">
+        <Sync time="68.582"/>
+        ouais
+      </Turn>
+      <Turn speaker="spk3 spk1" startTime="68.882" endTime="70.261">
+        <Sync time="68.882"/>
+        <Who nb="1"/>
+        c'est le
+        <Who nb="2"/>
+        ah oui
+      </Turn>
+      <Turn speaker="spk3 spk2" startTime="70.261" endTime="73.671">
+        <Sync time="70.261"/>
+        <Who nb="1"/>
+        j'ai que celui-là alors je peux pas le m'en défaire
+        <Who nb="2"/>
+        ah oui ah oui ouais
+      </Turn>
+      <Turn speaker="spk6" startTime="73.671" endTime="74.627">
+        <Sync time="73.671"/>
+        <Comment desc="suite de syllabes incompréhensibles"/>
+      </Turn>
+      <Turn speaker="spk1 spk3" startTime="74.627" endTime="76.832">
+        <Sync time="74.627"/>
+        <Who nb="1"/>
+        ah c'est sur ma terrasse ça
+        <Who nb="2"/>
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        oui
+      </Turn>
+      <Turn speaker="spk4" startTime="76.832" endTime="79.46">
+        <Sync time="76.832"/>
+        et vous êtes sensibles à la présence des des animaux
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="79.46" endTime="83.696">
+        <Sync time="79.46"/>
+        <Who nb="1"/>
+        dans la ville vous aimez bien ouais ouais
+        <Event desc="rire" type="noise" extent="instantaneous"/>
+        <Who nb="2"/>
+        ah j'adorais les animaux mon Dieu oh oui
+      </Turn>
+      <Turn speaker="spk1" startTime="83.696" endTime="85.456">
+        <Sync time="83.696"/>
+        j'ai eu une tourterelle pendant vingt ans
+      </Turn>
+      <Turn speaker="spk4" startTime="85.456" endTime="87.237">
+        <Sync time="85.456"/>
+        ah ouais c'est
+      </Turn>
+      <Turn speaker="spk1" startTime="87.237" endTime="89.417">
+        <Sync time="87.237"/>
+        oh ça valait c'était
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        c'était curieux
+      </Turn>
+      <Turn speaker="spk4" startTime="89.417" endTime="90.014">
+        <Sync time="89.417"/>
+        mm
+      </Turn>
+      <Turn speaker="spk1" startTime="90.014" endTime="100.5">
+        <Sync time="90.014"/>
+        il y a de ces trucs incroyables j'en avais deux j'avais /le, la/ mâle et la femelle et puis euh j'avais deux cages alors en été je les sortais
+        <Event desc="brouhaha" type="noise" extent="instantaneous"/>
+        sur la ter-
+      </Turn>
+      <Turn speaker="spk3" startTime="100.5" endTime="101.245">
+        <Sync time="100.5"/>
+        ah elle a dû le voir
+      </Turn>
+      <Turn speaker="spk5 spk2" startTime="101.245" endTime="103.196">
+        <Sync time="101.245"/>
+        <Who nb="1"/>
+        oui oui oui je l'ai vu oui
+        <Who nb="2"/>
+        oui j'avais vu oui
+      </Turn>
+      <Turn speaker="spk1" startTime="103.196" endTime="104.427">
+        <Sync time="103.196"/>
+        une elle a ouvert la porte
+      </Turn>
+      <Turn speaker="spk1 spk5" startTime="104.427" endTime="105.87">
+        <Sync time="104.427"/>
+        <Who nb="1"/>
+        et elle est partie
+        <Who nb="2"/>
+        oui parce que moi je le reçois toutes les semaines
+      </Turn>
+      <Turn speaker="spk3 spk2" startTime="105.87" endTime="106.636">
+        <Sync time="105.87"/>
+        <Who nb="1"/>
+        oui elle a dû le voir
+        <Who nb="2"/>
+        ben oui
+      </Turn>
+      <Turn speaker="spk3 spk4" startTime="106.636" endTime="108.989">
+        <Sync time="106.636"/>
+        <Who nb="1"/>
+        mais là j'en ai pas d'autre parce que j'ai
+        <Who nb="2"/>
+        ah ouais ah mince
+      </Turn>
+      <Turn speaker="spk4 spk1" startTime="108.989" endTime="113.246">
+        <Sync time="108.989"/>
+        <Who nb="1"/>
+        comme ça mm
+        <Who nb="2"/>
+        il était dix heures du matin puis vers cinq heures du soir elle est revenue
+      </Turn>
+      <Turn speaker="spk4" startTime="113.246" endTime="114.562">
+        <Sync time="113.246"/>
+        mm ah
+        <Event desc="rire" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk1" startTime="114.562" endTime="123.769">
+        <Sync time="114.562"/>
+        et puis l'autre elle l'appelait elle disait des mamours là oui alors elle s'est rapprochée de la cage
+        <Event desc="rire" type="noise" extent="instantaneous"/>
+        je la mets dans la cage elle a reçu une de ces peignées
+      </Turn>
+      <Turn speaker="spk4 spk1" startTime="123.769" endTime="127.835">
+        <Sync time="123.769"/>
+        <Who nb="1"/>
+        ah ouais
+        <Event desc="rire" type="noise" extent="instantaneous"/>
+        <Who nb="2"/>
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        l'autre avec les deux ailes elle
+        <Comment desc="suite de syllabes incompréhensibles"/>
+      </Turn>
+      <Turn speaker="spk2 spk4" startTime="127.835" endTime="129.807">
+        <Sync time="127.835"/>
+        <Who nb="1"/>
+        oh la la
+        <Who nb="2"/>
+        ah c'est impressionnant
+      </Turn>
+      <Turn speaker="spk4 spk1" startTime="129.807" endTime="134.762">
+        <Sync time="129.807"/>
+        <Who nb="1"/>
+        je savais pas qu'ils pouvaient faire ça ouais ouais eh ouais
+        <Who nb="2"/>
+        et au bout d'un moment bon elle a dit bon ben
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        ça va j'ai eu ma dose hein
+      </Turn>
+      <Turn speaker="spk5" startTime="134.762" endTime="135.528">
+        <Sync time="134.762"/>
+        elle est repartie
+      </Turn>
+      <Turn speaker="spk4 spk1" startTime="135.528" endTime="137.97">
+        <Sync time="135.528"/>
+        <Who nb="1"/>
+        non
+        <Who nb="2"/>
+        non non elle est restée parce qu'elle a tapé dessus
+      </Turn>
+      <Turn speaker="spk4 spk5" startTime="137.97" endTime="138.947">
+        <Sync time="137.97"/>
+        <Who nb="1"/>
+        elle a eu peur
+        <Who nb="2"/>
+        ah ben oui voilà
+      </Turn>
+      <Turn speaker="spk3 spk4" startTime="138.947" endTime="140.263">
+        <Sync time="138.947"/>
+        <Who nb="1"/>
+        ah ben oui bien sûr
+        <Who nb="2"/>
+        elle a eu peur de
+      </Turn>
+      <Turn speaker="spk4 spk1" startTime="140.263" endTime="151.078">
+        <Sync time="140.263"/>
+        <Who nb="1"/>
+        de perdre l'autre
+        <Who nb="2"/>
+        et une autre fois on buvait le champagne et et je s- elle sortait elle était sur la table elle est venue boire du champagne dans mon verre
+        <Event desc="rire" type="noise" extent="instantaneous"/>
+        elle a pas vidé le verre hein elle était là
+      </Turn>
+      <Turn speaker="spk5" startTime="151.078" endTime="153.494">
+        <Sync time="151.078"/>
+        oh oui moi j'avais une petite chienne qui buvait un enfin
+      </Turn>
+      <Turn speaker="spk5 spk1" startTime="153.494" endTime="155.825">
+        <Sync time="153.494"/>
+        <Who nb="1"/>
+        petite(s) goutte(s) de champagne comme ça
+        <Who nb="2"/>
+        oh la la
+      </Turn>
+      <Turn speaker="spk4 spk1" startTime="155.825" endTime="161.605">
+        <Sync time="155.825"/>
+        <Who nb="1"/>
+        et ça lui a fait quoi vous avez vu des ça lui ça lui a fait quelque chose
+        <Who nb="2"/>
+        elle a plus recommencé hein mon Dieu
+        <Event desc="brouhaha" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk2" startTime="161.605" endTime="162.307">
+        <Sync time="161.605"/>
+        oh ben oui
+      </Turn>
+      <Turn speaker="spk4" startTime="162.307" endTime="162.582">
+        <Sync time="162.307"/>
+        ouais
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="162.582" endTime="168.172">
+        <Sync time="162.582"/>
+        <Who nb="1"/>
+        certainement
+        <Who nb="2"/>
+        deux goulées là elle était saoûle
+        <Event desc="rire" type="noise" extent="instantaneous"/>
+        elle a plus recommencé
+      </Turn>
+      <Turn speaker="spk2" startTime="168.172" endTime="169.107">
+        <Sync time="168.172"/>
+        oh la la la la
+      </Turn>
+    </Section>
+    <Section type="report" topic="to2" startTime="169.107" endTime="195.1">
+      <Turn speaker="spk4" startTime="169.107" endTime="176.072">
+        <Sync time="169.107"/>
+        alors hum pour vos courses hum vous allez toujours au même endroit ou vous avez différents endroits où vous
+        <Comment desc="suite de syllabes incompréhensibles"/>
+      </Turn>
+      <Turn speaker="spk1" startTime="176.072" endTime="179.355">
+        <Sync time="176.072"/>
+        ben maintenant on (n') a pas beaucoup de de choix hein
+      </Turn>
+      <Turn speaker="spk4" startTime="179.355" endTime="180.033">
+        <Sync time="179.355"/>
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="180.033" endTime="184.29">
+        <Sync time="180.033"/>
+        je vais souvent là au coin ben c'est pas loin de chez moi ou à Monoprix bien sûr
+      </Turn>
+      <Turn speaker="spk4" startTime="184.29" endTime="185.564">
+        <Sync time="184.29"/>
+        mm d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="185.564" endTime="188.551">
+        <Sync time="185.564"/>
+        on (n') a pas le choix en courses hein il y a pas beaucoup de commerçants
+      </Turn>
+      <Turn speaker="spk1" startTime="188.551" endTime="191.157">
+        <Sync time="188.551"/>
+        alors on (n') a plus de charcutier on (n')a plus de tripier
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="191.157" endTime="192.261">
+        <Sync time="191.157"/>
+        <Who nb="1"/>
+        mm
+        <Who nb="2"/>
+        on (n') a plus de bou- de boucher
+      </Turn>
+      <Turn speaker="spk5" startTime="192.261" endTime="195.1">
+        <Sync time="192.261"/>
+        si je crois qu'il en reste un de boucher dans dans tout Saint-Ouen
+      </Turn>
+    </Section>
+    <Section type="report" topic="to3" startTime="195.1" endTime="372.782">
+      <Turn speaker="spk2 spk1" startTime="195.1" endTime="197.897">
+        <Sync time="195.1"/>
+        <Who nb="1"/>
+        ben celui qui a été agressé
+        <Who nb="2"/>
+        celui qui a été qui a été agressé
+      </Turn>
+      <Turn speaker="spk5 spk1" startTime="197.897" endTime="200.038">
+        <Sync time="197.897"/>
+        <Who nb="1"/>
+        il paraît qu'oui il a été agressé oui j'ai appris ça hier
+        <Who nb="2"/>
+        <Comment desc="suite de syllabes incompréhensibles"/>
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="200.038" endTime="202.602">
+        <Sync time="200.038"/>
+        <Who nb="1"/>
+        ben il il est toujours à l'hôpital
+        <Who nb="2"/>
+        oh ben là là il a reçu
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="202.602" endTime="204.87">
+        <Sync time="202.602"/>
+        <Who nb="1"/>
+        dans la rue Gabriel Péri c'est ça ouais mm
+        <Who nb="2"/>
+        je pense que il doit être toujours à l'hôpital
+      </Turn>
+      <Turn speaker="spk3 spk2" startTime="204.87" endTime="207.35">
+        <Sync time="204.87"/>
+        <Who nb="1"/>
+        <Event desc="brouhaha" type="noise" extent="instantaneous"/>
+        oui oui oui
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        bien
+        <Who nb="2"/>
+        parce que paraît-il qu'il est
+      </Turn>
+      <Turn speaker="spk3 spk4" startTime="207.35" endTime="207.862">
+        <Sync time="207.35"/>
+        <Who nb="1"/>
+        il est bien
+        <Who nb="2"/>
+        ah ouais
+      </Turn>
+      <Turn speaker="spk3 spk2" startTime="207.862" endTime="209.601">
+        <Sync time="207.862"/>
+        <Who nb="1"/>
+        bien bien amoché hein oui oui
+        <Who nb="2"/>
+        il est joliment
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="209.601" endTime="211.002">
+        <Sync time="209.601"/>
+        <Who nb="1"/>
+        ça alors
+        <Who nb="2"/>
+        il est vraiment cassé hein
+      </Turn>
+      <Turn speaker="spk3 spk2" startTime="211.002" endTime="212.466">
+        <Sync time="211.002"/>
+        <Who nb="1"/>
+        oui il est bien abîmé
+        <Who nb="2"/>
+        on m'a dit euh
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="212.466" endTime="220.996">
+        <Sync time="212.466"/>
+        <Who nb="1"/>
+        enfin on m'a dit parce que moi je le connaiss- ah mais
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        je comprends
+        <Event desc="rire" type="noise" extent="instantaneous"/>
+        je comprends que c'est dangereux Saint-Ouen
+        <Who nb="2"/>
+        ben vous savez Saint-Ouen c'est une ville qui est dangereuse j'ai une voisine que je connais depuis des
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        j'avais quatorze ans quand /je l'ai, j'ai/ connue
+      </Turn>
+      <Turn speaker="spk4" startTime="220.996" endTime="221.377">
+        <Sync time="220.996"/>
+        mm
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="221.377" endTime="224.449">
+        <Sync time="221.377"/>
+        <Who nb="1"/>
+        une ville chaude chaude
+        <Who nb="2"/>
+        elle avait été tuée de cinquante-deux coups de couteaux
+      </Turn>
+      <Turn speaker="spk2 spk4" startTime="224.449" endTime="229.324">
+        <Sync time="224.449"/>
+        <Who nb="1"/>
+        oui oui oui c'est dangereux je l'entendais là
+        <Who nb="2"/>
+        ah bon
+        <Event desc="brouhaha" type="noise" extent="instantaneous"/>
+        et pourquoi vous
+      </Turn>
+      <Turn speaker="spk4 spk1" startTime="229.324" endTime="233.708">
+        <Sync time="229.324"/>
+        <Who nb="1"/>
+        qu'est-ce que
+        <Who nb="2"/>
+        par un sale type qui a qui euh l'a enjambé la fenêtre
+      </Turn>
+      <Turn speaker="spk4" startTime="233.708" endTime="234.03">
+        <Sync time="233.708"/>
+        mm
+      </Turn>
+      <Turn speaker="spk1" startTime="234.03" endTime="235.134">
+        <Sync time="234.03"/>
+        qui l'a volée
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="235.134" endTime="236.535">
+        <Sync time="235.134"/>
+        <Who nb="1"/>
+        ah juste pour euh pour lui piquer
+        <Who nb="2"/>
+        <Comment desc="suite de syllabes incompréhensibles"/>
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="236.535" endTime="242.907">
+        <Sync time="236.535"/>
+        <Who nb="1"/>
+        alors euh sa nièce venait s'occuper d'elle puisqu'elle avait quatre-vingt-seize ans hein
+        <Who nb="2"/>
+        pour ça on nous avait passé un papier de fermer même même la journée on est enfermé chez soi on est comme des
+      </Turn>
+      <Turn speaker="spk1" startTime="242.907" endTime="244.054">
+        <Sync time="242.907"/>
+        alors elle l'a
+      </Turn>
+      <Turn speaker="spk5" startTime="244.054" endTime="246.512">
+        <Sync time="244.054"/>
+        <Event desc="brouhaha" type="noise" extent="instantaneous"/>
+        oui on est en on est en prison dans sa maison
+      </Turn>
+      <Turn speaker="spk2" startTime="246.512" endTime="247.384">
+        <Sync time="246.512"/>
+        <Event desc="brouhaha" type="noise" extent="instantaneous"/>
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        en prison
+      </Turn>
+      <Turn speaker="spk1" startTime="247.384" endTime="249.504">
+        <Sync time="247.384"/>
+        elle descend pour le s'occuper de la tante
+      </Turn>
+      <Turn speaker="spk4" startTime="249.504" endTime="250.122">
+        <Sync time="249.504"/>
+        mm
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="250.122" endTime="253.152">
+        <Sync time="250.122"/>
+        <Who nb="1"/>
+        on est en prison
+        <Who nb="2"/>
+        elle voit la porte entrebaillée
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        elle sortait plus hein
+      </Turn>
+      <Turn speaker="spk4" startTime="253.152" endTime="254.066">
+        <Sync time="253.152"/>
+        mm ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="254.066" endTime="259.613">
+        <Sync time="254.066"/>
+        alors elle va chercher les voisins puis ils rentrent ils la voient pas mais par contre l'armoire avait été vidée
+      </Turn>
+      <Turn speaker="spk4 spk1" startTime="259.613" endTime="261.771">
+        <Sync time="259.613"/>
+        <Who nb="1"/>
+        mm mm
+        <Who nb="2"/>
+        alors elle a été chercher
+      </Turn>
+      <Turn speaker="spk1" startTime="261.771" endTime="267.657">
+        <Sync time="261.771"/>
+        son oncle qui habite dans les puces rue Jules Vallès là lui il voit un bras qui dépassait
+      </Turn>
+      <Turn speaker="spk6 spk2" startTime="267.657" endTime="268.613">
+        <Sync time="267.657"/>
+        <Who nb="1"/>
+        eh ben
+        <Who nb="2"/>
+        ah la la
+      </Turn>
+      <Turn speaker="spk1" startTime="268.613" endTime="270.373">
+        <Sync time="268.613"/>
+        elle était dans un état incroyable
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="270.373" endTime="273.805">
+        <Sync time="270.373"/>
+        <Who nb="1"/>
+        ah la la mm mm
+        <Who nb="2"/>
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        vous m'en parlez cinquante-deux coups de couteau
+      </Turn>
+      <Turn speaker="spk4 spk1" startTime="273.805" endTime="276.2">
+        <Sync time="273.805"/>
+        <Who nb="1"/>
+        enfin bon c'est vraiment euh
+        <Who nb="2"/>
+        incroyable hein
+      </Turn>
+      <Turn speaker="spk2" startTime="276.2" endTime="278.341">
+        <Sync time="276.2"/>
+        ah non ben voyez bien le boucher
+      </Turn>
+      <Turn speaker="spk2 spk3" startTime="278.341" endTime="281.984">
+        <Sync time="278.341"/>
+        <Who nb="1"/>
+        à trois ils se sont mis pour euh sauter sur à trois
+        <Who nb="2"/>
+        ah oui
+        <Comment desc="suite de syllabes incompréhensibles"/>
+      </Turn>
+      <Turn speaker="spk5 spk4" startTime="281.984" endTime="283.156">
+        <Sync time="281.984"/>
+        <Who nb="1"/>
+        est-ce que qu'on a vu qui c'était
+        <Who nb="2"/>
+        et là c'était pareil pour le
+      </Turn>
+      <Turn speaker="spk2 spk5" startTime="283.156" endTime="286.029">
+        <Sync time="283.156"/>
+        <Who nb="1"/>
+        complètement cassée moi par ç-
+        <Who nb="2"/>
+        est-ce qu'on a su qui c'était
+      </Turn>
+      <Turn speaker="spk2" startTime="286.029" endTime="287.366">
+        <Sync time="286.029"/>
+        ben je ne sais pas j'ai
+      </Turn>
+      <Turn speaker="spk1" startTime="287.366" endTime="288.407">
+        <Sync time="287.366"/>
+        là ils l'ont arrêté le
+      </Turn>
+      <Turn speaker="spk4" startTime="288.407" endTime="291.352">
+        <Sync time="288.407"/>
+        mais c'était un vol c'était pour euh cambrioler sa maison
+      </Turn>
+      <Turn speaker="spk2" startTime="291.352" endTime="293.683">
+        <Sync time="291.352"/>
+        ben c'était à son appartement ben il mon- il il
+      </Turn>
+      <Turn speaker="spk3 spk2" startTime="293.683" endTime="296.014">
+        <Sync time="293.683"/>
+        <Who nb="1"/>
+        il rentrait chez lui il rentrait
+        <Who nb="2"/>
+        il rentrait il rentrait
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="296.014" endTime="296.843">
+        <Sync time="296.014"/>
+        <Who nb="1"/>
+        ah oui
+        <Who nb="2"/>
+        il rentrait
+      </Turn>
+      <Turn speaker="spk3" startTime="296.843" endTime="297.778">
+        <Sync time="296.843"/>
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="297.778" endTime="300.786">
+        <Sync time="297.778"/>
+        donc il peut-être qu'il avait sa caisse avec lui peut-être je sais pas j-
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="300.786" endTime="302.673">
+        <Sync time="300.786"/>
+        <Who nb="1"/>
+        mm
+        <Who nb="2"/>
+        je n'en ai pas su plus
+      </Turn>
+      <Turn speaker="spk2" startTime="302.673" endTime="304.493">
+        <Sync time="302.673"/>
+        c'est ma petite boulangère qui me l'a dit là
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="304.493" endTime="305.174">
+        <Sync time="304.493"/>
+        <Who nb="1"/>
+        oh la la
+        <Who nb="2"/>
+        sur la place là
+      </Turn>
+      <Turn speaker="spk3 spk2" startTime="305.174" endTime="307.865">
+        <Sync time="305.174"/>
+        <Who nb="1"/>
+        oui oui oui oui c'est vrai c'est vrai
+        <Who nb="2"/>
+        qui me l'a expliqué ben elle
+      </Turn>
+      <Turn speaker="spk2" startTime="307.865" endTime="321.13">
+        <Sync time="307.865"/>
+        ben elle me dit vous vous pourriez témoigner parce que ben /j'ai dit, je dis/ comment témoigner je peux pas témoigner j'ai pas vu euh vous me le faites lire elle dit oui mais vous avez été agressée ben j'ai dit oui et pour euh pour la ville pour euh la peur et oui d'accord je peux dire
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="321.13" endTime="324.244">
+        <Sync time="321.13"/>
+        <Who nb="1"/>
+        mm ouais
+        <Who nb="2"/>
+        mais qu'est-ce que vous voulez que je dise qu'est-ce ça fera quoi
+      </Turn>
+      <Turn speaker="spk4 spk5" startTime="324.244" endTime="326.284">
+        <Sync time="324.244"/>
+        <Who nb="1"/>
+        <Event desc="brouhaha" type="noise" extent="instantaneous"/>
+        ouais
+        <Who nb="2"/>
+        ben ça fera changer les choses
+      </Turn>
+      <Turn speaker="spk2" startTime="326.284" endTime="327.579">
+        <Sync time="326.284"/>
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        moi trois semaines
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="327.579" endTime="328.281">
+        <Sync time="327.579"/>
+        <Who nb="1"/>
+        ben c'est
+        <Who nb="2"/>
+        euh
+      </Turn>
+      <Turn speaker="spk2" startTime="328.281" endTime="338.779">
+        <Sync time="328.281"/>
+        trois mois avant j'ai été agressée juste avant la mort de Paul euh et Dieu sait que ça n'a pas arrangé les choses évidemment parce que j-
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        d'ailleurs si j'ai mal à ma jambe c'est c'est les restes de ça hein
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="338.779" endTime="343.607">
+        <Sync time="338.779"/>
+        <Who nb="1"/>
+        la seule qui a eu le truc c'est Sonia
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        multiresponsable
+        <Who nb="2"/>
+        espérons que ça et mon doigt j'ai mon doigt esquinté
+      </Turn>
+      <Turn speaker="spk4" startTime="343.607" endTime="344.056">
+        <Sync time="343.607"/>
+        ah oui
+      </Turn>
+      <Turn speaker="spk1 spk3" startTime="344.056" endTime="345.668">
+        <Sync time="344.056"/>
+        <Who nb="1"/>
+        qui a eu la
+        <Who nb="2"/>
+        ah ben c'est avec sa canne
+        <Event desc="brouhaha" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk2" startTime="345.668" endTime="351.681">
+        <Sync time="345.668"/>
+        il me fait très mal hein je je tiens pas mal les choses je peux pas ouvrir parce que mon mon doigt est comme mort
+      </Turn>
+      <Turn speaker="spk1 spk4" startTime="351.681" endTime="352.51">
+        <Sync time="351.681"/>
+        <Who nb="1"/>
+        eh ben dis donc
+        <Who nb="2"/>
+        mm
+      </Turn>
+      <Turn speaker="spk3 spk4" startTime="352.51" endTime="355.307">
+        <Sync time="352.51"/>
+        <Who nb="1"/>
+        c'est avec sa canne
+        <Who nb="2"/>
+        <Comment desc="suite de syllabes incompréhensibles"/>
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="355.307" endTime="361.002">
+        <Sync time="355.307"/>
+        <Who nb="1"/>
+        alors euh
+        <Who nb="2"/>
+        j'ai vu le médecin et mes huit points de suture dans la tête quand même hein
+        <Event desc="rire" type="noise" extent="instantaneous"/>
+        ah oui quand même hein
+        <Event desc="rire" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk1 spk4" startTime="361.002" endTime="365.174">
+        <Sync time="361.002"/>
+        <Who nb="1"/>
+        eh ben voilà
+        <Who nb="2"/>
+        et madame a l'oeil au beurre noir euh
+        <Event desc="rire" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk5 spk2" startTime="365.174" endTime="369.008">
+        <Sync time="365.174"/>
+        <Who nb="1"/>
+        <Event desc="brouhaha" type="noise" extent="instantaneous"/>
+        comme ça moi je vais chez elle comme ça hein
+        <Who nb="2"/>
+        tandis que moi c'est l'agression parce que
+        <Comment desc="suite de syllabes incompréhensibles"/>
+      </Turn>
+      <Turn speaker="spk3" startTime="369.008" endTime="369.858">
+        <Sync time="369.008"/>
+        elle est tombée chez elle
+      </Turn>
+      <Turn speaker="spk2" startTime="369.858" endTime="372.782">
+        <Sync time="369.858"/>
+        moi moi on m'a
+      </Turn>
+    </Section>
+    <Section type="report" topic="to4" startTime="372.782" endTime="410.902">
+      <Turn speaker="spk4" startTime="372.782" endTime="378.943">
+        <Sync time="372.782"/>
+        alors dernière question donc euh est-ce que vous vous intéressez aux informations euh concernant la ville
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="378.943" endTime="379.645">
+        <Sync time="378.943"/>
+        <Who nb="1"/>
+        vous avez dit que
+        <Who nb="2"/>
+        non
+      </Turn>
+      <Turn speaker="spk4 spk1" startTime="379.645" endTime="383.521">
+        <Sync time="379.645"/>
+        <Who nb="1"/>
+        vous lisiez le le journal tout ça
+        <Who nb="2"/>
+        ah ben oui on lit les les les bou- les livres
+        <Comment desc="suite de syllabes incompréhensibles"/>
+      </Turn>
+      <Turn speaker="spk3 spk1" startTime="383.521" endTime="388.793">
+        <Sync time="383.521"/>
+        <Who nb="1"/>
+        les journaux on lit les journaux
+        <Who nb="2"/>
+        qu'on nous passe là les journaux qu'on nous passe là oui aujourd'hui
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        c'est hier
+      </Turn>
+      <Turn speaker="spk4 spk6" startTime="388.793" endTime="390.892">
+        <Sync time="388.793"/>
+        <Who nb="1"/>
+        donc c'est les c'est
+        <Who nb="2"/>
+        <Comment desc="suite de syllabes incompréhensibles"/>
+      </Turn>
+      <Turn speaker="spk2" startTime="390.892" endTime="392.271">
+        <Sync time="390.892"/>
+        oui
+      </Turn>
+      <Turn speaker="spk4 spk1" startTime="392.271" endTime="394.031">
+        <Sync time="392.271"/>
+        <Who nb="1"/>
+        dans les les journaux de la ville
+        <Who nb="2"/>
+        Seine-Saint-Denis Seine-Saint-Denis
+      </Turn>
+      <Turn speaker="spk1 spk3" startTime="394.031" endTime="396.109">
+        <Sync time="394.031"/>
+        <Who nb="1"/>
+        et Saint-Ouen ma ville
+        <Who nb="2"/>
+        oui Seine-Saint-Denis c'est en train de passer là
+      </Turn>
+      <Turn speaker="spk6" startTime="396.109" endTime="398.187">
+        <Sync time="396.109"/>
+        oui Seine-Saint-Denis donc on regarde pour
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="398.187" endTime="401.746">
+        <Sync time="398.187"/>
+        <Who nb="1"/>
+        alors on oui quand même on se tient au courant quand même euh
+        <Who nb="2"/>
+        oui voilà
+      </Turn>
+      <Turn speaker="spk4" startTime="401.746" endTime="402.723">
+        <Sync time="401.746"/>
+        il y a d'autres
+      </Turn>
+      <Turn speaker="spk2" startTime="402.723" endTime="404.251">
+        <Sync time="402.723"/>
+        d'ailleurs je l'emporte à l'hôpital et
+      </Turn>
+      <Turn speaker="spk3 spk2" startTime="404.251" endTime="409.523">
+        <Sync time="404.251"/>
+        <Who nb="1"/>
+        oui ben oui bien sûr hein
+        <Who nb="2"/>
+        je l- oui ben oui hein oui oui
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        et après même je le laisse aux malades
+      </Turn>
+      <Turn speaker="spk3" startTime="409.523" endTime="410.902">
+        <Sync time="409.523"/>
+        oui oh oui ça fait de la lecture hein
+      </Turn>
+    </Section>
+    <Section type="report" topic="to5" startTime="410.902" endTime="538.431">
+      <Turn speaker="spk2 spk1" startTime="410.902" endTime="413.339">
+        <Sync time="410.902"/>
+        <Who nb="1"/>
+        ça leur faisait de la lecture
+        <Who nb="2"/>
+        vous êtes ça vous donne un emploi à l'hôpital
+      </Turn>
+      <Turn speaker="spk2 spk3" startTime="413.339" endTime="417.486">
+        <Sync time="413.339"/>
+        <Who nb="1"/>
+        non /mais, moi/ j'avais mon mari à l'hôpital
+        <Who nb="2"/>
+        mais non elle avait son
+        <Comment desc="suite de syllabes incompréhensibles"/>
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="417.486" endTime="420.071">
+        <Sync time="417.486"/>
+        <Who nb="1"/>
+        il vient de décéder il vient de décéder
+        <Who nb="2"/>
+        il a été hospitalisé longtemps
+      </Turn>
+      <Turn speaker="spk2" startTime="420.071" endTime="421.366">
+        <Sync time="420.071"/>
+        neuf ans
+      </Turn>
+      <Turn speaker="spk1" startTime="421.366" endTime="422.174">
+        <Sync time="421.366"/>
+        neuf ans
+      </Turn>
+      <Turn speaker="spk2" startTime="422.174" endTime="429.583">
+        <Sync time="422.174"/>
+        neuf ans il avait pas besoin d'être hospitalisé c'est pour ça j'en veux beaucoup à la maire parce que à madame Fost
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="429.583" endTime="432.634">
+        <Sync time="429.583"/>
+        <Who nb="1"/>
+        si elle avait fait le si elle avait respecté
+        <Who nb="2"/>
+        oh vous auriez
+        <Comment desc="suite de syllabes incompréhensibles"/>
+      </Turn>
+      <Turn speaker="spk2" startTime="432.634" endTime="436.108">
+        <Sync time="432.634"/>
+        si elle avait ben oui ben moi je ne pouvais pas dans mon logement euh
+      </Turn>
+      <Turn speaker="spk1 spk3" startTime="436.108" endTime="437.128">
+        <Sync time="436.108"/>
+        <Who nb="1"/>
+        /il y avait, aviez/ pas la place
+        <Who nb="2"/>
+        ah oui
+      </Turn>
+      <Turn speaker="spk5 spk2" startTime="437.128" endTime="440.369">
+        <Sync time="437.128"/>
+        <Who nb="1"/>
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        un logement adapté oui
+        <Who nb="2"/>
+        eh ben voilà il faut un logement adapté
+      </Turn>
+      <Turn speaker="spk2" startTime="440.369" endTime="446.043">
+        <Sync time="440.369"/>
+        et moi je je et j'avais pas eh ben tout ce qu'on m'a proposé c'est des logements qui étaient
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        pires que chez moi
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="446.043" endTime="448.248">
+        <Sync time="446.043"/>
+        <Who nb="1"/>
+        d'accord il y avait un ascenseur
+        <Who nb="2"/>
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        de
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="448.248" endTime="456.313">
+        <Sync time="448.248"/>
+        <Who nb="1"/>
+        qu'est-ce qu'il avait
+        <Who nb="2"/>
+        ben c'est-à-dire que à l'hôpital euh à Bichat ils se sont trompés de diagnosti- j'étais pas là je me suis pas trouvée là et puis voilà
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="456.313" endTime="459.872">
+        <Sync time="456.313"/>
+        <Who nb="1"/>
+        parce que moi aussi il a été dix ans et demi paralysé mon mari
+        <Who nb="2"/>
+        qu'est-ce qu'il a dit j'en sais rien
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="459.872" endTime="460.701">
+        <Sync time="459.872"/>
+        <Who nb="1"/>
+        ah oui
+        <Who nb="2"/>
+        il était
+      </Turn>
+      <Turn speaker="spk2 spk5" startTime="460.701" endTime="465.296">
+        <Sync time="460.701"/>
+        <Who nb="1"/>
+        ils l'ont paralysé alors
+        <Who nb="2"/>
+        mais qu'est-ce que ça avait qu'est-ce que ça va voir qu'est-ce que ça a à voir avec madame Paulette Fost
+      </Turn>
+      <Turn speaker="spk2 spk3" startTime="465.296" endTime="468.072">
+        <Sync time="465.296"/>
+        <Who nb="1"/>
+        eh ben parce que madame Fost elle m'a pas donné l'appartement
+        <Who nb="2"/>
+        parce qu'elle /
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        , logeait/ les gens
+      </Turn>
+      <Turn speaker="spk2" startTime="468.072" endTime="475.968">
+        <Sync time="468.072"/>
+        que la d- la docteur faisait les certificats euh en précisant bien euh les portes au pour un fauteuil roulant au cas où
+      </Turn>
+      <Turn speaker="spk4" startTime="475.968" endTime="476.522">
+        <Sync time="475.968"/>
+        mm
+      </Turn>
+      <Turn speaker="spk2" startTime="476.522" endTime="480.715">
+        <Sync time="476.522"/>
+        bon parce que il a pas été en fauteuil roulant tout le temps hein
+        <Event desc="brouhaha" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="480.715" endTime="482.56">
+        <Sync time="480.715"/>
+        <Who nb="1"/>
+        ben moi je l'ai obligé
+        <Who nb="2"/>
+        après après
+      </Turn>
+      <Turn speaker="spk1" startTime="482.56" endTime="486.013">
+        <Sync time="482.56"/>
+        tout le temps à monter l'escalier c'est comme ça que j'ai fait mettre deux rampes
+      </Turn>
+      <Turn speaker="spk3 spk2" startTime="486.013" endTime="493.401">
+        <Sync time="486.013"/>
+        <Who nb="1"/>
+        mais c'est bien ça
+        <Event desc="brouhaha" type="noise" extent="instantaneous"/>
+        <Who nb="2"/>
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        mauvais diagnostic euh donc un mauvais traitement
+        <Event desc="brouhaha" type="noise" extent="instantaneous"/>
+        il s'est retrouvé en rhumatologie alors que c'était en cardiolo-
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="493.401" endTime="494.971">
+        <Sync time="493.401"/>
+        <Who nb="1"/>
+        oh la la
+        <Event desc="rire" type="noise" extent="instantaneous"/>
+        <Who nb="2"/>
+        que c'était en neurologie
+      </Turn>
+      <Turn speaker="spk2 spk6" startTime="494.971" endTime="496.393">
+        <Sync time="494.971"/>
+        <Who nb="1"/>
+        qu'il fallait se retrouver
+        <Who nb="2"/>
+        <Event desc="chuchotement" type="noise" extent="instantaneous"/>
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        je file
+      </Turn>
+      <Turn speaker="spk2" startTime="496.393" endTime="498.83">
+        <Sync time="496.393"/>
+        il y avait pas de neurologie à à Bichat
+      </Turn>
+      <Turn speaker="spk6 spk4" startTime="498.83" endTime="499.427">
+        <Sync time="498.83"/>
+        <Who nb="1"/>
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        salut
+        <Who nb="2"/>
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="499.427" endTime="501.589">
+        <Sync time="499.427"/>
+        fallait le transporter à
+      </Turn>
+      <Turn speaker="spk4" startTime="501.589" endTime="502.122">
+        <Sync time="501.589"/>
+        d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="502.122" endTime="508.875">
+        <Sync time="502.122"/>
+        <Event desc="brouhaha" type="noise" extent="instantaneous"/>
+        à soit à Beaujon ou à comment où il était suivi à oh Lariboisière
+      </Turn>
+      <Turn speaker="spk4" startTime="508.875" endTime="509.429">
+        <Sync time="508.875"/>
+        d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="509.429" endTime="516.161">
+        <Sync time="509.429"/>
+        il était suivi par le professeur
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        donc euh il y a rien eu de tout ça tout ça parce que j'étais pas là ce jour-là enfin j'était là
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="516.161" endTime="519.508">
+        <Sync time="516.161"/>
+        <Who nb="1"/>
+        ah ouais
+        <Who nb="2"/>
+        mais j'étais pas présente à l'hôpital ça se serait pas passé comme ça
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="519.508" endTime="523.659">
+        <Sync time="519.508"/>
+        <Who nb="1"/>
+        mm bien
+        <Who nb="2"/>
+        et ils l'ont gardé parce que la retraite était intéressante
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="523.659" endTime="528.868">
+        <Sync time="523.659"/>
+        <Who nb="1"/>
+        mm
+        <Event desc="rire" type="noise" extent="instantaneous"/>
+        ouais ouais comme toujours
+        <Who nb="2"/>
+        <Comment desc="suite de syllabes incompréhensibles"/>
+        pour une question de pognon voilà toujours /une question, les questions/ de pognon
+      </Turn>
+      <Turn speaker="spk4" startTime="528.868" endTime="533.611">
+        <Sync time="528.868"/>
+        bien bon c'est j'ai terminé le donc le questionnaire donc euh merci beaucoup pour vos
+      </Turn>
+      <Turn speaker="spk4 spk2" startTime="533.611" endTime="538.431">
+        <Sync time="533.611"/>
+        <Who nb="1"/>
+        témoignages pour vos
+        <Event desc="rire" type="noise" extent="instantaneous"/>
+        vos mémoires et tout ça
+        <Who nb="2"/>
+        ben je vous en prie euh
+        <Comment desc="suite de syllabes incompréhensibles"/>
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>

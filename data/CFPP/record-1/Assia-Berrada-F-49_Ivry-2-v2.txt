@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Trans SYSTEM "https://cocoon.huma-num.fr/schemas/trans-14.dtd">
+<Trans scribe="Pierre" audio_filename="Assia-Berrada-F-49_Ivry-2-v2" version="7" version_date="170809">
+<Speakers>
+<Speaker id="spk1" name="Florence Lefeuvre (ENQ)" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="speaker2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="Assia Berrada" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="92.648">
+<Turn startTime="0" endTime="4.41" speaker="spk1">
+<Sync time="0"/>
+voilà bon ben écoutez 
+<Event desc="mm mm" type="noise" extent="instantaneous"/>
+ je sais plus ce que je voulais vous dire euh 
+<Event desc="mm mm" type="noise" extent="instantaneous"/>
+ enfin
+</Turn>
+<Turn speaker="spk3 spk1" startTime="4.41" endTime="6.425">
+<Sync time="4.41"/>
+<Who nb="1"/>
+excusez moi pour le téléphone ouais
+<Who nb="2"/>
+j'ai vu 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ oui oui ça fait rien
+</Turn>
+<Turn speaker="spk1" startTime="6.425" endTime="10.975">
+<Sync time="6.425"/>
+donc ça c'était votre déplacement type dans la journée 
+<Event desc="mm mm" type="noise" extent="instantaneous"/>
+ 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ ah oui vous l- le déjeuner voilà
+</Turn>
+<Turn speaker="spk3 spk1" startTime="10.975" endTime="12.573">
+<Sync time="10.975"/>
+<Who nb="1"/>
+ah oui ben oui on a une heure
+<Who nb="2"/>
+le déjeuner
+</Turn>
+<Turn speaker="spk3" startTime="12.573" endTime="13.903">
+<Sync time="12.573"/>
+à 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ pour euh
+</Turn>
+<Turn speaker="spk3 spk1" startTime="13.903" endTime="15.122">
+<Sync time="13.903"/>
+<Who nb="1"/>
+la pause oui
+<Who nb="2"/>
+pour déjeuner 
+<Event desc="?" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="15.122" endTime="18.937">
+<Sync time="15.122"/>
+bon voilà 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ on peut sortir on peut y aller au restaurant
+</Turn>
+<Turn speaker="spk3 spk1" startTime="18.937" endTime="21.604">
+<Sync time="18.937"/>
+<Who nb="1"/>
+on peut manger 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ à la mai- 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ moi j'apporte 
+<Who nb="2"/>
+et vous 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ vous apportez quelque chose 
+<Event desc="?" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="21.604" endTime="29.127">
+<Sync time="21.604"/>
+avec moi de temps en temps et à manger ou sinon je fais à manger à la là-bas où je travaille 
+<Event desc="mm" type="noise" extent="instantaneous"/>
+ 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ j'ai une petite 
+plaque j'ai un frigo j'ai un micro-ondes
+</Turn>
+<Turn speaker="spk3 spk1" startTime="29.127" endTime="30.896">
+<Sync time="29.127"/>
+<Who nb="1"/>
+et euh voilà oui je
+<Who nb="2"/>
+ah oui vous faites à manger en fait
+</Turn>
+<Turn speaker="spk3" startTime="30.896" endTime="36.477">
+<Sync time="30.896"/>
+peux je peux faire quelque chose léger quoi 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ voilà sinon je je peux apporter avec moi aussi
+</Turn>
+<Turn speaker="spk3 spk1" startTime="36.477" endTime="37.939">
+<Sync time="36.477"/>
+<Who nb="1"/>
+voilà 
+<Event desc="mm mm" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="mm mm" type="noise" extent="instantaneous"/>
+ un casse-croûte
+</Turn>
+<Turn speaker="spk3" startTime="37.939" endTime="39.049">
+<Sync time="37.939"/>
+voilà 
+<Event desc="mm mm" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="39.049" endTime="40.409">
+<Sync time="39.049"/>
+d'accord donc ça dépend
+</Turn>
+<Turn speaker="spk3 spk1" startTime="40.409" endTime="45.511">
+<Sync time="40.409"/>
+<Who nb="1"/>
+voilà 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ ah non non y a pas de cantine non non 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ y a pas de cantine 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ voilà
+<Who nb="2"/>
+il y a pas de cantine ou comme ça 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ non 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ enfin vous pouvez euh quand même faire comme ça
+</Turn>
+<Turn speaker="spk1" startTime="45.511" endTime="46.905">
+<Sync time="45.511"/>
+bon ben merci beaucoup
+</Turn>
+<Turn speaker="spk3" startTime="46.905" endTime="47.306">
+<Sync time="46.905"/>
+de rien
+</Turn>
+<Turn speaker="spk3 spk1" startTime="47.306" endTime="48.504">
+<Sync time="47.306"/>
+<Who nb="1"/>
+ça y est 
+<Event desc="?" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+est-ce que y a v-
+</Turn>
+<Turn speaker="spk1" startTime="48.504" endTime="52.766">
+<Sync time="48.504"/>
+y a autre chose euh que vous voyez à 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ à dire sur votre quartier ou
+</Turn>
+<Turn speaker="spk3 spk1" startTime="52.766" endTime="54.440">
+<Sync time="52.766"/>
+<Who nb="1"/>
+euh non y a rien à dire
+<Who nb="2"/>
+ou euh
+</Turn>
+<Turn speaker="spk3" startTime="54.440" endTime="65.105">
+<Sync time="54.440"/>
+euh comme je viens de vous dire que 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ j'ai de la chance d'avoir euh cet appartement dans cet endroit 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ euh la vérité je suis très très bien 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ voilà
+</Turn>
+<Turn speaker="spk1" startTime="65.105" endTime="68.279">
+<Sync time="65.105"/>
+d'accord y a c'est un appartement qui fait trois pièces y a
+</Turn>
+<Turn speaker="spk3" startTime="68.279" endTime="70.584">
+<Sync time="68.279"/>
+euh soixante-sept mètres carrés quand même hein
+</Turn>
+<Turn speaker="spk3 spk1" startTime="70.584" endTime="71.679">
+<Sync time="70.584"/>
+<Who nb="1"/>
+hein 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ oui
+<Who nb="2"/>
+ah oui c'est grand ça
+</Turn>
+<Turn speaker="spk3" startTime="71.679" endTime="73.091">
+<Sync time="71.679"/>
+c'est un grand séjour
+</Turn>
+<Turn speaker="spk3 spk1" startTime="73.091" endTime="75.018">
+<Sync time="73.091"/>
+<Who nb="1"/>
+plus grand que ça
+<Who nb="2"/>
+oui oui oui oui
+</Turn>
+<Turn speaker="spk3" startTime="75.018" endTime="82.337">
+<Sync time="75.018"/>
+et deux pièces plus euh la salle de bains les toilettes c'est normal et la cuisine 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ et je suis au plein soleil 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ la lumière toute la journée
+</Turn>
+<Turn speaker="spk3 spk1" startTime="82.337" endTime="85.185">
+<Sync time="82.337"/>
+<Who nb="1"/>
+voilà je suis très très bien 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ y a rien à dire
+<Who nb="2"/>
+d'accord 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ ben c'est super
+</Turn>
+<Turn speaker="spk3" startTime="85.185" endTime="85.879">
+<Sync time="85.185"/>
+voilà
+</Turn>
+<Turn speaker="spk1" startTime="85.879" endTime="87.256">
+<Sync time="85.879"/>
+bon 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ eh ben très bien
+</Turn>
+<Turn speaker="spk3 spk1" startTime="87.256" endTime="88.675">
+<Sync time="87.256"/>
+<Who nb="1"/>
+voilà 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ on a fini alors 
+<Event desc="?" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+on va on va
+</Turn>
+<Turn speaker="spk1" startTime="88.675" endTime="90.566">
+<Sync time="88.675"/>
+arrêter là sur cette note positive
+</Turn>
+<Turn speaker="spk3" startTime="90.566" endTime="92.648">
+<Sync time="90.566"/>
+
+<Event desc="rire en fond" type="noise" extent="previous"/>
+ d'accord allez arrêtez
+</Turn>
+</Section>
+</Episode>
+</Trans>

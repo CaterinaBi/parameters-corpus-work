@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OAI-PMH xmlns='http://www.openarchives.org/OAI/2.0/' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd'>
+<responseDate>2022-10-14T21:26:10Z</responseDate>
+<request identifier='oai:crdo.vjf.cnrs.fr:cocoon-0fbddce8-1f9e-3c92-9347-8e8cc41c2791' metadataPrefix='crdo_dcq' verb='GetRecord' >http://cocoon.huma-num.fr/crdo_servlet/oai-pmh</request>
+<GetRecord>
+<record>
+    <header>
+        <identifier>oai:crdo.vjf.cnrs.fr:cocoon-0fbddce8-1f9e-3c92-9347-8e8cc41c2791</identifier>
+        <datestamp>2020-11-28</datestamp>
+        <setSpec>Linguistique</setSpec>
+        <setSpec>set-8bc96a4e-9899-30e4-99be-c72d216eb38b</setSpec>
+        <setSpec>set-fb6071ef-fb7f-4f0d-a071-effb7fef0dd6:set-fd48c512-26d0-3bd3-b02b-4ae995285d05</setSpec>
+    </header>
+    <metadata>
+        <crdo_dcq:dcq xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:crdo_dcq="http://crdo.risc.cnrs.fr/schemas/dcq/" xsi:schemaLocation="http://crdo.risc.cnrs.fr/schemas/dcq/ https://cocoon.huma-num.fr/schemas/dcq.xsd">
+            <dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-0fbddce8-1f9e-3c92-9347-8e8cc41c2791</dc:identifier>
+            <dc:identifier xsi:type="dcterms:URI">https://doi.org/10.34847/cocoon.0fbddce8-1f9e-3c92-9347-8e8cc41c2791</dc:identifier>
+            <dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-344792</dc:identifier>
+            <dc:title xml:lang="fr">Entretien de Blanche Duchemin, de Jean-Claude Duchemin, et de Reine Cérêt</dc:title>
+            <dc:description xml:lang="fr">Enregistrement issu du Corpus de Français Parlé Parisien des années 2000 (CFPP2000)</dc:description>
+            <dc:description xml:lang="fr">Quartier concerné : 11-12-13-14 (11e); Transcription : Sonia Branca;</dc:description>
+            <dc:publisher>Langage et langues : description, théorisation, transmission</dc:publisher>
+            <dcterms:created xsi:type="dcterms:W3CDTF">2008-11-01</dcterms:created>
+            <dc:coverage xml:lang="fr">Quartier concerné : 11e</dc:coverage>
+            <dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/data/cfpp2000/Blanche_Duchemin_Jean_Pierre_Duchemin_Reine_Ceret.mp3</dc:identifier>
+            <dc:format xsi:type="dcterms:IMT">audio/x-wav</dc:format>
+            <dc:type xsi:type="dcterms:DCMIType">Sound</dc:type>
+            <dcterms:extent>PT102M00S</dcterms:extent>
+            <dcterms:accessRights>Freely accessible</dcterms:accessRights>
+            <dcterms:isPartOf xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-8bc96a4e-9899-30e4-99be-c72d216eb38b</dcterms:isPartOf>
+            <dcterms:isRequiredBy xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-21881413-38b2-3a74-90b5-f80d2369f475</dcterms:isRequiredBy>
+            <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-sa/3.0/</dcterms:license>
+            <dcterms:issued xsi:type="dcterms:W3CDTF">2013-04-24T19:29:06+02:00</dcterms:issued>
+            <dcterms:isFormatOf xsi:type="dcterms:URI">http://purl.org/net/crdo/data/cocoon-0fbddce8-1f9e-3c92-9347-8e8cc41c2791.version1</dcterms:isFormatOf>
+            <dcterms:available xsi:type="dcterms:W3CDTF">2013-04-24</dcterms:available>
+            <dcterms:isPartOf xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-fd48c512-26d0-3bd3-b02b-4ae995285d05</dcterms:isPartOf>
+            <dcterms:spatial xml:lang="fr">France, Île-de-France, Paris, Paris, 11ème arrondissement</dcterms:spatial>
+            <dcterms:spatial xsi:type="dcterms:ISO3166">FR</dcterms:spatial>
+            <dcterms:spatial xsi:type="dcterms:Point">east=2.3795;north=48.8574</dcterms:spatial>
+            <dc:type xml:lang="fr">Dialogue</dc:type>
+            <dc:type xml:lang="fr">Entretiens</dc:type>
+            <dc:type xml:lang="fr">Récits personnels</dc:type>
+            <dc:type xml:lang="fr">Discussion</dc:type>
+            <dc:subject xml:lang="fr">Paris (France) -- Arrondissement (11e)</dc:subject>
+            <dc:subject xml:lang="fr">Logement</dc:subject>
+            <dc:subject xml:lang="fr">Petits commerces</dc:subject>
+            <dc:subject xml:lang="fr">Immigrés</dc:subject>
+            <dc:subject xml:lang="fr">Quartiers (urbanisme)</dc:subject>
+            <dc:subject xml:lang="fr">Cafés</dc:subject>
+            <dc:subject xml:lang="fr">Restaurants</dc:subject>
+            <dc:subject xml:lang="fr">Halloween</dc:subject>
+            <dc:subject xml:lang="fr">Fêtes</dc:subject>
+            <dc:subject xml:lang="fr">Voisinage (relations humaines)</dc:subject>
+            <dc:subject xml:lang="fr">Magasins d'alimentation</dc:subject>
+            <dc:subject xml:lang="fr">Transports urbains</dc:subject>
+            <dc:subject xml:lang="fr">Pistes cyclables</dc:subject>
+            <dc:subject xml:lang="fr">Zones piétonnières</dc:subject>
+            <dc:subject xml:lang="fr">Animaux</dc:subject>
+            <dc:subject xml:lang="fr">Squares</dc:subject>
+            <dc:subject xml:lang="fr">Enseignants</dc:subject>
+            <dc:subject xml:lang="fr">Loisirs</dc:subject>
+            <dc:subject xml:lang="fr">Information</dc:subject>
+            <dc:subject xml:lang="fr">Perspective temporelle</dc:subject>
+            <dc:subject xml:lang="fr">Multiculturalisme</dc:subject>
+            <dc:subject xml:lang="fr">Crises économiques</dc:subject>
+            <dc:subject xml:lang="fr">Sans-abri</dc:subject>
+            <dc:identifier xml:lang="fr">Cote producteur: 11-03</dc:identifier>
+            <dc:identifier xml:lang="fr">Ancienne cote: crdo-CFPP2000_3_SOUND</dc:identifier>
+            <dc:language xsi:type="dcterms:ISO639-3">fra</dc:language>
+            <dc:language xml:lang="fr">Français</dc:language>
+            <dc:subject xsi:type="dcterms:ISO639-3">fra</dc:subject>
+            <dc:subject>Français</dc:subject>
+            <dc:subject>phonology</dc:subject>
+            <dc:subject>semantics</dc:subject>
+            <dc:subject>sociolinguistics</dc:subject>
+            <dc:subject>syntax</dc:subject>
+            <dc:subject>text_and_corpus_linguistics</dc:subject>
+            <dc:subject>typology</dc:subject>
+            <dc:type>formulaic</dc:type>
+            <dc:type>dialogue</dc:type>
+            <dc:type>narrative</dc:type>
+            <dc:type>report</dc:type>
+            <dc:type>procedural</dc:type>
+            <dc:type>unintelligible_speech</dc:type>
+            <dc:type>primary_text</dc:type>
+            <dc:creator>Branca-Rosoff, Sonia</dc:creator>
+            <dc:contributor>Branca-Rosoff, Sonia (interviewer)</dc:contributor>
+            <dc:contributor>Duchemin, Blanche (speaker)</dc:contributor>
+            <dc:contributor>Duchemin, Jean-Claude (speaker)</dc:contributor>
+            <dc:contributor>Cérêt, Reine (speaker)</dc:contributor>
+            <dc:contributor>Branca-Rosoff, Sonia (depositor)</dc:contributor>
+        </crdo_dcq:dcq>
+    </metadata>
+</record>
+</GetRecord>
+</OAI-PMH>
