@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  1 NOV 2022 10:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  1 NOV 2022 10:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -637,40 +637,32 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
-
-
-LaTeX Warning: Citation `Figueredo:2009dg' on page 1 undefined on input line 36.
-
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 47.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <9> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 51.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work-1/handout/main.tex:47: Misplaced alignment tab character &.
+l.47 ...apanese, Aldridge 2009, but also Roberts &
+                                                   Roussou 2003, Dadan 2019,...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-No file main.bbl.
-
-LaTeX Warning: Citation `Hao:gidmaps:2014' on page 1 undefined on input line 65.
-
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 67.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `pcr' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
- [1
+[1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+No file main.bbl.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work-1/handout/main.tex:86: LaTeX Error: File `stream' not found.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work-1/handout/main.tex:72: LaTeX Error: File `stream' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.86 \includegraphics[width=\linewidth]{stream}
+l.72 \includegraphics[width=\linewidth]{stream}
                                                
 I could not locate the file with any of these extensions:
 .pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
@@ -678,15 +670,15 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: Reference `fig:stream' on page 2 undefined on input line 105.
+LaTeX Warning: Reference `fig:stream' on page 2 undefined on input line 91.
 
 
-LaTeX Warning: Reference `tab:example' on page 2 undefined on input line 105.
+LaTeX Warning: Reference `tab:example' on page 2 undefined on input line 91.
 
 
 AED: lastpage setting LastPage
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 107.
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 93.
 
 [2] (./main.aux)
 
@@ -705,18 +697,18 @@ Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23754 strings out of 478268
- 455663 string characters out of 5846347
- 793517 words of memory out of 5000000
- 41444 multiletter control sequences out of 15000+600000
- 540774 words of font info for 224 fonts, out of 8000000 for 9000
+ 23706 strings out of 478268
+ 454917 string characters out of 5846347
+ 797517 words of memory out of 5000000
+ 41402 multiletter control sequences out of 15000+600000
+ 531967 words of font info for 224 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,11n,91p,1075b,472s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (2 pages, 77806 bytes).
+ 83i,11n,91p,1623b,426s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on main.pdf (2 pages, 61043 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 45 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 500000)
- 99841 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 87041 words of extra memory for PDF output out of 89155 (max. 10000000)
 
