@@ -1,6 +1,8 @@
 \documentclass[fleqn,10pt]{wlscirep}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage{enumerate}
+
 \title{Parametric settings of functional projections in diachrony: Romance clefts and wh-interrogatives}
 
 \author[1,*]{Caterina Bonan}
@@ -33,28 +35,158 @@ This paper is an extract from a study that utilises data from ten Romance corpor
 
 \section*{Introduction}
 
-According to Rizzi’s (2017; see also Samo 2022) study of parameters, functional projections can be understood as either requiring overt movement (IM$=$1) or not (IM$=$0). This, along with other parameters such as the Spell Out of functional heads, allows a fine understanding of the way languages function, and evolve. In this study, we utilise Rizzi’s parameters to determine whether the existing understandings of cleft structure and interrogative wh-movement in Romance are tenable as is or need refining. To do so, we investigate the parametric settings of the projections involved in these structures, and their evolution over time.
+According to Rizzi’s (2017; see also Samo 2022) study of parameters, functional projections can be understood as either requiring overt movement (IM$=$1) or not (IM$=$0). 
+This, along with other parameters such as the Spell Out of functional heads, allows a fine understanding of the way languages function, and evolve. 
+In this study, we utilise Rizzi’s parameters to determine whether the existing understandings of cleft structure and interrogative wh-movement in Romance are tenable as is or need refining. 
+To do so, we investigate the parametric settings of the projections involved in these structures, and their evolution over time.
+
+\subsection*{Rizzi's (2017) parameters}
+
+Rizzi (2017: 165) reformulates the notion of Parameter, i.e., a formal mechanism that determines a finite set of syntactic variability among languages in binary terms, as “an instruction for the triggering of a syntactic operation, expressed as a morphosyntactic feature associated to a functional head”. Rizzi assumes that Move is a complex operation, in the sense of Chomsky (2001), which involves either a head or a phrase: it encompasses the establishment of a probe-goal search followed by (internal) merge of the goal. For the author, a functional head that acts as a trigger of movement may have two distinct pairs of features; these are responsible, respectively, for phrasal movement and head movement as defined in (1) and (2):
+
+(1)		PHRASAL MOVEMENT (Rizzi 2017: 171 (20))
+a.	A search feature at the phrasal level.
+b.	The corresponding internal merge feature at the phrasal level (IM), what is traditionally called an EPP feature.
+
+(2)		HEAD MOVEMENT (Rizzi 2017: 171 (21)) 
+a.	A search feature at the lex level (Searchlex Feature)
+b.	The corresponding internal merge feature, again at the lex level (IMlex Feature)
+
+Syntactic operations are simple, highly learnable and restricted to an extremely reduced set for reasons of learnability: when a functional element enters the syntax and becomes a functional head in the relevant configuration, it triggers one syntactic operation on the structure which is built. The available operations are those in (3):
+
+(3)		SYNTACTIC OPERATIONS
+			1.		Merge
+			2.		Move
+a.	Search:	Probe-goal relation at the phrasal level
+b.	IM:	Internal merge of phrases; or:
+a.	Searchlex	Probe-goal relation at the head level
+b.	IMlex	Internal merge of heads
+			3.		Spellout
+
+Spell-out parameters are those that deal with “variation in the obligatory, optional or impossible pronunciation of certain heads and of their immediate dependents” (Rizzi 2017: 175). One such parameter, perhaps the most famous one, is the null subject parameter, which governs the possibility of licensing a phonetically null subject pronoun.
+
+\subsection*{Explaining language variability}
+
+The cartography of syntactic structures, a sub-branch of the nativist approach, deals with
+ drawing maps of syntactic configurations that are as precise as possible (on this, see Cinque & Rizzi 2010, Rizzi & Cinque 2016). Cartographers assume that the functional spine of human language is universal and comprises of numerous rigidly ordered functional projections. It is nonetheless widely acknowledged that languages vary to the extent in which they activate the functional heads of the spine, and that they realise these projections using different strategies. 
+For instance, the left-peripheral projection which encodes [focus] is not realised or exploited in the same way by all languages. Samo (2019) elaborates an understanding of the morphosyntax of FocusP in light of Rizzi’s (2017) parameters: the head of Focus triggers movement of an XP that bears a relevant focus feature and, while in languages such as Gungbe this head is phonetically realised (Aboh 2004), as in (4), its Italian counterpart is silent (Rizzi 1997 and related), as in (5):
+
+(4)  	Gungbe (adapted from Aboh 2007: 85(9c))
+			[FocusP  	KÒFÍi   [Focus° 	wè 			[	ùn   		yró		___i		]]]!
+  							Kofi         			foc        	1sg   	call
+			‘I called KOFI (as opposed to, for example, Enoch)’
+
+(5)  	Italian (adapted from Samo 2019: 146 (8))
+			[FocusP 		IL LIBROi    [Focus° 	Ø 		[	Gianni 		ha 		letto 	___ i	]]]!
+								the book						foc			Gianni 		has 	read 	___
+			‘Gianni read THE BOOK (as opposed to, for example, the article)’	
+
+Another strategy used by languages to activate the head of Focus is to move an already merged head. Accordingly, a candidate for a movement of this type is the finite verbal head of V2 languages, as illustrated by the German example in (6):
+
+(6)		German (adapted from Samo 2019: 146 (8))
+			[SpecFoc 	DIESES 	FRESKO 	[Foc° 	malte				[	Giotto ]]] 
+								this 			fresco					painted.3sg		Giotto 	
+			‘Giotto painted THIS FRESCO (as opposed to, for example, the one over there)’
+
+The variability of syntactic strategies adopted by different languages thus stems from different combinations of the syntactic operations of Merge, Move and Spell Out: Gungbe Merges FocusP and Spells Out Focus°; Italian Merges FocusP but does not Spell Out Focus°; German requires both head movement and phrasal movement. The parametrisation of the observed phenomena can be viewed as in TABLE II:
+
+\begin{table}[ht]
+    \centering
+    \begin{tabular}{|l|l|l|l|l|l|l|}
+    \hline
+     & Merge & Spell Out & Search & IM & Searchlex & IMlex \\
+    \hline
+    Italian & 1 & 0 & 1 & 1 & 0 & 0 \\
+    \hline
+    Gungbe & 1 & 1 & 1 & 1 & 0 & 0 \\
+    \hline
+    German & 1 & 0 & 1 & 1 & 1 & 1 \\
+    \hline
+    \end{tabular}
+    \caption{\label{tab:samp}Language variability in activating FocusP (Samo 2019: 147 (10)).}
+    \end{table}
+
+In this framework, the factorial combinations of the Boolean operators result in fine cross-linguistic analyses of typological variations. Samo (2019) argued that in V2 languages ‘criterial’ Spec-head configurations can be of three types: 
+
+\begin{enumerate}[i]
+    \item the criterial head is pronounced; 
+    \item the functional head is silent; 
+    \item an element is attracted into the functional head from within TP. 
+\end{enumerate}
+
 
 \section*{Conceptual challenges}
 
-Belletti’s (2015) cartography of clefts derives these structures utilising, depending on the nature of the structure, either Rizzi’s (1997) FocusP or Belletti’s (2004) Foc. In both cases, the involved projections require overt movement, i.e. IM=1.
-FocusP has traditionally been considered responsible for the attraction of either wh-elements or contrastive foci. However, while the former is systematically attracted into SpecFocusP in Standard Italian, which suggests a setting as IM=1, the latter can surface either fronted or in situ (Bianchi 2013), rather suggesting an IM=1/0 setting. Clefts are present in the language but require certain context conditions to be met to be licensed (Larrivée XXXX). Languages like European French, on the other hand, have both shifted and in situ wh-elements (IM=1/0) but no prosodic foci, and productive clefts. The existence of Foc was originally posited to account for the existence of VS structures in Standard Italian (Belletti 2004) but many pieces of research have suggested that Italian low foci are always unmoved (Cardinaletti 2001, Samek-Lodovici 2015, Bonan 2021), thus suggesting an IM=0 setting for the language. In French, the position is not exploited in any known structure. These facts, coupled with numerous other empiric considerations, question the validity of the classification of the FPs exploited in clefts as FocusP and Foc. The functional projections investigated in this study are thus, minimally, Rizzi’s (1997), Belletti’s (2004) Foc, and the higher FPs exploited in inversed and interrogative clefts. We nonetheless also test the legitimacy of Rizzi’s (2017) splitting of FocusP into two projections surrounding IntP, as well as Cable’s (2010) understanding of wh-fronting as QP-fronting.
+Belletti’s (2015) cartography of clefts derives these structures utilising, depending on the nature of the structure, either Rizzi’s (1997) FocusP or Belletti’s (2004) Foc. 
+In both cases, the involved projections require overt movement, i.e. IM=1.
+
+EXAMPLE HERE
+
+FocusP has traditionally been considered responsible for the attraction of either wh-elements or contrastive foci. 
+However, while the former are systematically attracted into SpecFocusP in Standard Italian, which suggests a setting as IM=1, the latter can surface either fronted or in situ (Bianchi 2013), rather suggesting an IM=1/0 setting. 
+
+EXAMPLES
+
+Clefts are present in the language but require certain context conditions to be met to be licensed (Larrivée 2022). 
+
+Languages like European French, on the other hand, have both shifted and in situ wh-elements (IM=1/0) but no prosodic foci, and productive clefts. 
+
+EXAMPLES
+
+The existence of Foc was originally posited to account for the existence of VS structures in Standard Italian (Belletti 2004) but many pieces of research have suggested that Italian low foci are always unmoved (Cardinaletti 2001, Samek-Lodovici 2015, Bonan 2021), thus suggesting an IM=0 setting for the language. 
+
+EXAMPLES
+
+In French, the position is not exploited in any known structure. 
+
+These facts, coupled with numerous other empiric considerations, question the validity of the classification of the FPs exploited in clefts as FocusP and Foc. 
+
+The functional projections investigated in this study are thus, minimally, Rizzi’s (1997), Belletti’s (2004) Foc, and the higher FPs exploited in inversed and interrogative clefts.
+
+DIAGRAM HERE
 
 \section*{Working hypotheses}
 The working hypotheses behind the present study are as follows:
 
 \begin{itemize}
-\item The parametrisation of functional projections evolves in the direction of no movement (IM=0 in Rizzi’s 2017 terms, see works on the diachrony of Chinese interrogatives, Aldridge 2010, or Japanese, Aldridge 2009, but also Roberts & Roussou 2003, Dadan 2019, a.o.);
+\item The parametrisation of functional projections evolves in the direction of no movement (IM=0 in Rizzi’s 2017 terms, see works on the diachrony of Chinese interrogatives, Aldridge 2010, or Japanese, Aldridge 2009, but also Roberts & Roussou 2003, Dadan 2019, a.o.).
+
 \item Diachronically, one functional projection can display different settings for the same parameter at different stages. Synchronically, this ought to be disallowed;
 \item When what is commonly considered as one single projection displays different parametrisations across structures (e.g., IM=1 in clefts vs IM=0 in interrogatives), the existence of two separate projections ought to be posited instead.
 \end{itemize}
 
 \section*{Methodology}
 
-Our hypotheses have been tested utilising corpus linguistics techniques. As a preliminary assessment of the theory, we have limited the scope of the present investigation to the study of three standard Romance languages: Italian, French and European Portuguese. The corpora chosen for this study are: Archivio Datini, Corpus Epistolare Ottocentesco Digitale, Archivio del parlato italiano, and Banca dati dell’italiano parlato for Italian; Base de français medieval, Groupe d’Observation et de Recherche sur les Documents Epistolaires du Seizième siècle, ESLO 1-2, and 88milSMS for French; Tycho Brahe Parsed Corpus of Historical Portuguese, Reference Corpus of Contemporary Portuguese, and CORP-ORAL: Spontaneous Speech Corpus for European Portuguese for European Portuguese.
-The data, which we classify utilising a parametrisation à la Rizzi (2017), will shed light on the diachronic evolution of the functional projections under consideration, and especially Rizzi’s (1997) FocusP and Belletti’s (2004) Foc. We shall also discuss the consequences of our innovative classification for the received cartography of clefts and the role of FocusP in the theory of interrogatives. 
+Our hypotheses are being tested utilising corpus linguistics techniques. 
+As a preliminary assessment of the theory, we have limited the scope of the present investigation to the study of three standard Romance languages: Italian, French and European Portuguese. 
+
+The corpora chosen for this study are: 
+
+\begin{itemize}
+\item Archivio Datini;
+\item Corpus Epistolare Ottocentesco Digitale;
+\item Archivio del parlato italiano;
+\item Banca dati dell’italiano parlato;
+\item Base de français medieval;
+\item Groupe d’Observation et de Recherche sur les Documents Epistolaires du Seizième siècle;
+\item ESLO 1-2;
+\item 88milSMS; 
+\item Tycho Brahe Parsed Corpus of Historical Portuguese;
+\item Reference Corpus of Contemporary Portuguese;
+\item CORP-ORAL: Spontaneous Speech Corpus.
+\end{itemize}
+
+The data, which we classify utilising a parametrisation à la Rizzi (2017), are starting to shed light on the diachronic evolution of the functional projections under consideration, and especially Rizzi’s (1997) FocusP and Belletti’s (2004) Foc. We shall also discuss the consequences of our innovative classification for the received cartography of clefts and the role of FocusP in the theory of interrogatives. 
+
+\section*{The case of French}
+\begin{itemize}
+    \item interrogative strategies;
+    \item ex situ-in situ alternation;
+    \item regular and inversed clefts (with examples of inversed declaratives from portuguese and trevisan).
+    \end{itemize}
 
 \section*{Preliminary results for French}
+
 
 
 \section*{Conclusions}

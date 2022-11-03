@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  1 NOV 2022 10:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  3 NOV 2022 10:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work-1/handout/main.tex
-(/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work-1/handout/main.tex
+**/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex
+(/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (./wlscirep.cls
 Document Class: wlscirep 08/08/2020, v1.4
@@ -461,27 +461,30 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+ptm on input line 112.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-)) (./main.aux)
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks30
+) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
  (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count312
@@ -489,21 +492,15 @@ LaTeX Font Info:    ... okay on input line 22.
 \scratchbox=\box56
 \nofMPsegments=\count313
 \nofMParguments=\count314
-\everyMPshowfont=\toks30
+\everyMPshowfont=\toks31
 \MPscratchCnt=\count315
 \MPscratchDim=\dimen195
 \MPnumerator=\count316
 \makeMPintoPDFobject=\count317
-\everyMPtoPDFconversion=\toks31
+\everyMPtoPDFconversion=\toks32
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (/usr/local/texlive/2022/texmf-dist/tex/latex/grfext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
@@ -544,7 +541,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 22.
+Package hyperref Info: Link coloring ON on input line 24.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -554,34 +551,34 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count318
 )
-LaTeX Info: Redefining \ref on input line 22.
-LaTeX Info: Redefining \pageref on input line 22.
-LaTeX Info: Redefining \nameref on input line 22.
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 22.
-LaTeX Info: Redefining \microtypecontext on input line 22.
-Package microtype Info: Applying patch `item' on input line 22.
-Package microtype Info: Applying patch `toc' on input line 22.
-Package microtype Info: Applying patch `eqnum' on input line 22.
-Package microtype Info: Applying patch `footnote' on input line 22.
+(lastpage)             ! on input line 24.
+LaTeX Info: Redefining \microtypecontext on input line 24.
+Package microtype Info: Applying patch `item' on input line 24.
+Package microtype Info: Applying patch `toc' on input line 24.
+Package microtype Info: Applying patch `eqnum' on input line 24.
+Package microtype Info: Applying patch `footnote' on input line 24.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 22.
+LaTeX Info: Redefining \showhyphens on input line 24.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 30.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 32.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
@@ -589,7 +586,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 30.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 32.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
@@ -597,7 +594,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 30.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 32.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
@@ -605,15 +602,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ztmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 30.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 32.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 30.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 32.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 30.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 32.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-msa.cfg
@@ -621,29 +618,36 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 30.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 32.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 47.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work-1/handout/main.tex:47: Misplaced alignment tab character &.
-l.47 ...apanese, Aldridge 2009, but also Roberts &
-                                                   Roussou 2003, Dadan 2019,...
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:71: Misplaced alignment tab character &.
+l.71 ...precise as possible (on this, see Cinque &
+                                                   Rizzi 2010, Rizzi & Cinqu...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:71: Misplaced alignment tab character &.
+l.71 ...(on this, see Cinque & Rizzi 2010, Rizzi &
+                                                   Cinque 2016). Cartographe...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -654,33 +658,380 @@ might try typing `S' now just to see what is salvageable.
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 75.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:75: Missing $ inserted.
+<inserted text> 
+                $
+l.75 ...�FÍi   [Focus° 	wè 			[	ùn   		yró		_
+                                                  __i		]]]!
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:75: Missing { inserted.
+<to be read again> 
+                   _
+l.75 ...FÍi   [Focus° 	wè 			[	ùn   		yró		__
+                                                  _i		]]]!
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:75: Missing { inserted.
+<to be read again> 
+                   _
+l.75 ...Íi   [Focus° 	wè 			[	ùn   		yró		___
+                                                  i		]]]!
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+LaTeX Warning: Command \textquoteleft invalid in math mode on input line 77.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 77.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:78: Missing $ inserted.
+<inserted text> 
+                $
+l.78 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:78: Missing } inserted.
+<inserted text> 
+                }
+l.78 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:78: Missing } inserted.
+<inserted text> 
+                }
+l.78 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (6.03548pt too wide) in paragraph at lines 74--78
+[]\T1/ptm/m/n/10 (-20) (4) Gungbe (adapted from Aboh 2007: 85(9c)) [Fo-cusP K�F�i [Fo-cus\TS1/ptm/m/n/10 (-20) � \T1/ptm/m/n/10 (-20) w� [ �n yr� $[]$ 
+ []
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:80: Missing $ inserted.
+<inserted text> 
+                $
+l.80 ...   [Focus° 	Ø 		[	Gianni 		ha 		letto 	_
+                                                  __ i	]]]!
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:80: Missing { inserted.
+<to be read again> 
+                   _
+l.80 ...  [Focus° 	Ø 		[	Gianni 		ha 		letto 	__
+                                                  _ i	]]]!
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:80: Missing { inserted.
+<to be read again> 
+                   _
+l.80 ... [Focus° 	Ø 		[	Gianni 		ha 		letto 	___
+                                                   i	]]]!
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:81: Missing { inserted.
+<to be read again> 
+                   _
+l.81 ...the book						foc			Gianni 		has 	read 	__
+                                                  _
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:81: Missing { inserted.
+<to be read again> 
+                   _
+l.81 ...he book						foc			Gianni 		has 	read 	___
+                                                  
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:82: Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.82 			‘
+           Gianni read THE BOOK (as opposed to, for example, the article)’	
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+LaTeX Warning: Command \textquoteleft invalid in math mode on input line 82.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 82.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:83: Missing $ inserted.
+<inserted text> 
+                $
+l.83 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:83: Missing } inserted.
+<inserted text> 
+                }
+l.83 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:83: Missing } inserted.
+<inserted text> 
+                }
+l.83 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:83: Missing } inserted.
+<inserted text> 
+                }
+l.83 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:83: Missing } inserted.
+<inserted text> 
+                }
+l.83 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:83: Missing } inserted.
+<inserted text> 
+                }
+l.83 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (108.46875pt too wide) in paragraph at lines 79--83
+[]\T1/ptm/m/n/10 (-20) (5) Ital-ian (adapted from Samo 2019: 146 (8)) [Fo-cusP IL LI-BROi [Fo-cus\TS1/ptm/m/n/10 (-20) � \T1/ptm/m/n/10 (-20) � [ Gi-anni ha letto $[]$ 
+ []
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:115: Undefined control sequence.
+\enit@endenumerate ->\enit@after 
+                                 \endlist \ifx \enit@series \relax \else \if...
+l.115 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:115: Undefined control sequence.
+\enit@endenumerate ...\else \ifnum \enit@resuming 
+                                                  =\@ne \enit@setresumekeys ...
+l.115 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:115: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.115 \end{enumerate}
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:115: Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.115 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:115: Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.115 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:115: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.115 \end{enumerate}
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:115: Undefined control sequence.
+<argument> enit@resume@series@\enit@series 
+                                           
+l.115 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:115: Undefined control sequence.
+\enit@endenumerate ...t \fi \ifnum \enit@resuming 
+                                                  =\thr@@ \enit@setresumekey...
+l.115 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:115: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.115 \end{enumerate}
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:115: Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.115 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:115: Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.115 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:115: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.115 \end{enumerate}
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:152: Misplaced alignment tab character &.
+l.152 ...panese, Aldridge 2009, but also Roberts &
+                                                   Roussou 2003, Dadan 2019,...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 153.
+
+[2]
 No file main.bbl.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work-1/handout/main.tex:72: LaTeX Error: File `stream' not found.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:204: LaTeX Error: File `stream' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.72 \includegraphics[width=\linewidth]{stream}
-                                               
+l.204 \includegraphics[width=\linewidth]{stream}
+                                                
 I could not locate the file with any of these extensions:
 .pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: Reference `fig:stream' on page 2 undefined on input line 91.
+LaTeX Warning: Reference `fig:stream' on page 3 undefined on input line 223.
 
 
-LaTeX Warning: Reference `tab:example' on page 2 undefined on input line 91.
+LaTeX Warning: Reference `tab:example' on page 3 undefined on input line 223.
 
 
 AED: lastpage setting LastPage
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 93.
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 225.
 
-[2] (./main.aux)
+[3]
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 225.
+
+[4] (./main.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -697,18 +1048,18 @@ Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23706 strings out of 478268
- 454917 string characters out of 5846347
- 797517 words of memory out of 5000000
- 41402 multiletter control sequences out of 15000+600000
- 531967 words of font info for 224 fonts, out of 8000000 for 9000
+ 23725 strings out of 478268
+ 454861 string characters out of 5846347
+ 797222 words of memory out of 5000000
+ 41401 multiletter control sequences out of 15000+600000
+ 536353 words of font info for 238 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,11n,91p,1623b,426s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (2 pages, 61043 bytes).
+ 83i,11n,91p,1073b,503s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (4 pages, 97049 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
+ 74 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
  87041 words of extra memory for PDF output out of 89155 (max. 10000000)
 
