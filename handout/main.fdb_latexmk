@@ -6,8 +6,8 @@
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1667470474 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex" "main.pdf" "main" 1667470474
-  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex" 1667470472 12362 eb5a81c5390b01da406298066a5b1bd1 ""
+["pdflatex"] 1667640482 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex" "main.pdf" "main" 1667640482
+  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex" 1667640479 13038 141acf12dfbbfa6bae2dfde239599897 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -32,6 +32,7 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/zptmcm7y.tfm" 1136768653 1520 ad7b3c1a480a03b3e41b5fbb13d938f2 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1246382020 908 2921f8a10601f252058503cc6570e581 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
@@ -99,6 +100,8 @@
   "/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1579991033 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1601931149 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1612734021 17086 7ed8cbc4d361ec87392817e0dd4f65ec ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/gb4e/cgloss4e.sty" 1262222956 6095 45288f50872b170544bf4feb61584b97 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/gb4e/gb4e.sty" 1278199693 14002 bc6669e401eb3733974d57dc33712d54 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty" 1578002852 41601 9cf6c5257b1bc7af01a58859749dd37a ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1459978653 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1465944070 1224 978390e9c2234eab29404bc21b268d1e ""
@@ -157,10 +160,10 @@
   "jabbrv-ltwa-all.ldf" 1667467736 49106 b16f6a6b5ad3d4d1b6470ae6d7b13193 ""
   "jabbrv-ltwa-en.ldf" 1667467736 268656 eecf96eceaf960e3e748eee920427c1d ""
   "jabbrv.sty" 1667467736 15480 2106da179daf9d5a102407956ba23e0c ""
-  "main.aux" 1667470474 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.aux" 1667640482 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
   "main.out" 0 -1 0 "pdflatex"
-  "main.tex" 1667470472 12362 eb5a81c5390b01da406298066a5b1bd1 ""
+  "main.tex" 1667640479 13038 141acf12dfbbfa6bae2dfde239599897 ""
   "stream" 0 -1 0 ""
   "wlscirep.cls" 1667467736 5824 2bca8e85f20d8d313a7747a78c480ad7 ""
   (generated)
