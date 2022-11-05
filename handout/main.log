@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  5 NOV 2022 09:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  5 NOV 2022 09:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -667,202 +667,14 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.47603> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 95.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <4.44003> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 95.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 101.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 121.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:101: Argument of _ has an extra }.
-<inserted text> 
-                \par 
-l.101 ...[FocusÂ° 	Ã˜ 		[	Gianni 		ha 		letto 	___
-                                                   i	]]]!
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:101: Paragraph ended before _ was complete.
-<to be read again> 
-                   \par 
-l.101 ...[FocusÂ° 	Ã˜ 		[	Gianni 		ha 		letto 	___
-                                                   i	]]]!
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:101: Missing $ inserted.
-<inserted text> 
-                $
-l.101 ...[FocusÂ° 	Ã˜ 		[	Gianni 		ha 		letto 	___
-                                                   i	]]]!
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:101: Missing } inserted.
-<inserted text> 
-                }
-l.101 ...[FocusÂ° 	Ã˜ 		[	Gianni 		ha 		letto 	___
-                                                   i	]]]!
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:101: Too many }'s.
-<recently read> }
-                 
-l.101 ...[FocusÂ° 	Ã˜ 		[	Gianni 		ha 		letto 	___
-                                                   i	]]]!
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:102: Argument of _ has an extra }.
-<inserted text> 
-                \par 
-l.102 ...e book						foc			Gianni 		has 	read 	___
-                                                  
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:102: Paragraph ended before _ was complete.
-<to be read again> 
-                   \par 
-l.102 ...e book						foc			Gianni 		has 	read 	___
-                                                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:102: Missing $ inserted.
-<inserted text> 
-                $
-l.102 ...e book						foc			Gianni 		has 	read 	___
-                                                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:102: Missing } inserted.
-<inserted text> 
-                }
-l.102 ...e book						foc			Gianni 		has 	read 	___
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:102: Too many }'s.
-<recently read> }
-                 
-l.102 ...e book						foc			Gianni 		has 	read 	___
-                                                  
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:103: Argument of \UTFviii@three@octets@combine has an extra }.
-<inserted text> 
-                \par 
-l.103 			â€
-           ˜Gianni read THE BOOK (as opposed to, for example, the article)â€™	
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:103: Paragraph ended before \UTFviii@three@octets@combine was complete.
-<to be read again> 
-                   \par 
-l.103 			â€
-           ˜Gianni read THE BOOK (as opposed to, for example, the article)â€™	
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:103: Missing $ inserted.
-<inserted text> 
-                $
-l.103 			â€
-           ˜Gianni read THE BOOK (as opposed to, for example, the article)â€™	
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:103: Missing } inserted.
-<inserted text> 
-                }
-l.103 			â€
-           ˜Gianni read THE BOOK (as opposed to, for example, the article)â€™	
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:103: Too many }'s.
-<recently read> }
-                 
-l.103 			â€
-           ˜Gianni read THE BOOK (as opposed to, for example, the article)â€™	
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:103: LaTeX Error: Invalid UTF-8 byte "80.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.103 			â€
-           ˜Gianni read THE BOOK (as opposed to, for example, the article)â€™	
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:103: LaTeX Error: Invalid UTF-8 byte "98.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.103 			â€˜
-            Gianni read THE BOOK (as opposed to, for example, the article)â€™	
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 103.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:104: Missing $ inserted.
-<inserted text> 
-                $
-l.104 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:136: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:150: Undefined control sequence.
 \enit@endenumerate ->\enit@after 
                                  \endlist \ifx \enit@series \relax \else \if...
-l.136 \end{enumerate}
+l.150 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -870,10 +682,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:136: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:150: Undefined control sequence.
 \enit@endenumerate ...\else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.136 \end{enumerate}
+l.150 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -881,19 +693,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:136: Missing number, treated as zero.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:150: Missing number, treated as zero.
 <to be read again> 
                    =
-l.136 \end{enumerate}
+l.150 \end{enumerate}
                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:136: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:150: Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.136 \end{enumerate}
+l.150 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -901,10 +713,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:136: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:150: Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.136 \end{enumerate}
+l.150 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -912,19 +724,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:136: Missing number, treated as zero.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:150: Missing number, treated as zero.
 <to be read again> 
                    =
-l.136 \end{enumerate}
+l.150 \end{enumerate}
                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:136: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:150: Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.136 \end{enumerate}
+l.150 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -932,10 +744,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:136: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:150: Undefined control sequence.
 \enit@endenumerate ...t \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.136 \end{enumerate}
+l.150 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -943,19 +755,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:136: Missing number, treated as zero.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:150: Missing number, treated as zero.
 <to be read again> 
                    =
-l.136 \end{enumerate}
+l.150 \end{enumerate}
                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:136: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:150: Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.136 \end{enumerate}
+l.150 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -963,10 +775,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:136: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:150: Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.136 \end{enumerate}
+l.150 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -974,21 +786,21 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:136: Missing number, treated as zero.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:150: Missing number, treated as zero.
 <to be read again> 
                    =
-l.136 \end{enumerate}
+l.150 \end{enumerate}
                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 153.
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 158.
 
 [2]
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:173: Misplaced alignment tab character &.
-l.173 ...panese, Aldridge 2009, but also Roberts &
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:187: Misplaced alignment tab character &.
+l.187 ...panese, Aldridge 2009, but also Roberts &
                                                    Roussou 2003, Dadan 2019,...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -998,18 +810,18 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 201.
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 215.
 
 [3]
 No file main.bbl.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:225: LaTeX Error: File `stream' not found.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:239: LaTeX Error: File `stream' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.225 \includegraphics[width=\linewidth]{stream}
+l.239 \includegraphics[width=\linewidth]{stream}
                                                 
 I could not locate the file with any of these extensions:
 .pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
@@ -1017,15 +829,15 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: Reference `fig:stream' on page 4 undefined on input line 244.
+LaTeX Warning: Reference `fig:stream' on page 4 undefined on input line 258.
 
 
-LaTeX Warning: Reference `tab:example' on page 4 undefined on input line 244.
+LaTeX Warning: Reference `tab:example' on page 4 undefined on input line 258.
 
 
 AED: lastpage setting LastPage
 
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 246.
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 260.
 
 [4] (./main.aux)
 
@@ -1044,18 +856,18 @@ Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23996 strings out of 478268
- 458005 string characters out of 5846347
- 800890 words of memory out of 5000000
- 41640 multiletter control sequences out of 15000+600000
- 542143 words of font info for 260 fonts, out of 8000000 for 9000
+ 23991 strings out of 478268
+ 457975 string characters out of 5846347
+ 803890 words of memory out of 5000000
+ 41642 multiletter control sequences out of 15000+600000
+ 538055 words of font info for 251 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,12n,91p,1073b,415s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (4 pages, 97569 bytes).
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on main.pdf (4 pages, 70100 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
- 26 named destinations out of 1000 (max. 500000)
+ 79 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
+ 28 named destinations out of 1000 (max. 500000)
  92161 words of extra memory for PDF output out of 106986 (max. 10000000)
 
