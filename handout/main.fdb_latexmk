@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex main"] 1667648462 "main.aux" "main.bbl" "main" 1667648475
+["bibtex main"] 1667648462 "main.aux" "main.bbl" "main" 1667654373
   "./naturemag-doi.bst" 1667467736 35289 1566ecddc3bd24807dfb7d67ebb87728 ""
-  "main.aux" 1667648475 1662 aa8092166358c8e7dc4b32effbe5235a "pdflatex"
+  "main.aux" 1667654373 1662 aa8092166358c8e7dc4b32effbe5235a "pdflatex"
   "sample.bib" 1667467736 604 dd7681d9cb62086108bc9b881e2ad28d ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1667648474 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex" "main.pdf" "main" 1667648475
-  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex" 1667648473 14147 be67b02ed00633376bb1cf59d8e4e567 ""
+["pdflatex"] 1667654372 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex" "main.pdf" "main" 1667654373
+  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex" 1667654371 14123 8d69705cdbdd8a35977444ed600f045b ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -153,10 +153,10 @@
   "jabbrv-ltwa-all.ldf" 1667467736 49106 b16f6a6b5ad3d4d1b6470ae6d7b13193 ""
   "jabbrv-ltwa-en.ldf" 1667467736 268656 eecf96eceaf960e3e748eee920427c1d ""
   "jabbrv.sty" 1667467736 15480 2106da179daf9d5a102407956ba23e0c ""
-  "main.aux" 1667648475 1662 aa8092166358c8e7dc4b32effbe5235a "pdflatex"
+  "main.aux" 1667654373 1662 aa8092166358c8e7dc4b32effbe5235a "pdflatex"
   "main.bbl" 1667648462 356 4d54bf58dc3f0d95bcc304b791e72a5c "bibtex main"
-  "main.out" 1667648475 91 edbc4546c62bdf05208e92837c9c067e "pdflatex"
-  "main.tex" 1667648473 14147 be67b02ed00633376bb1cf59d8e4e567 ""
+  "main.out" 1667654373 91 edbc4546c62bdf05208e92837c9c067e "pdflatex"
+  "main.tex" 1667654371 14123 8d69705cdbdd8a35977444ed600f045b ""
   "wlscirep.cls" 1667467736 5824 2bca8e85f20d8d313a7747a78c480ad7 ""
   (generated)
   "main.aux"
