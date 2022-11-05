@@ -1,0 +1,1 @@
+This folder contains the code for a scraper that extracts data from the website: https://www.theatre-classique.fr/pages/programmes/PageEdition.php
