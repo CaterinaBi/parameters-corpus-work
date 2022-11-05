@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  5 NOV 2022 09:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  5 NOV 2022 10:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -796,11 +796,11 @@ A number should have been here; I inserted `0'.
 look up `weird error' in the index to The TeXbook.)
 
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 158.
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 160.
 
 [2]
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:187: Misplaced alignment tab character &.
-l.187 ...panese, Aldridge 2009, but also Roberts &
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:231: Misplaced alignment tab character &.
+l.231 ...panese, Aldridge 2009, but also Roberts &
                                                    Roussou 2003, Dadan 2019,...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -810,18 +810,18 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 215.
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 240.
 
 [3]
 No file main.bbl.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:239: LaTeX Error: File `stream' not found.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:282: LaTeX Error: File `stream' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.239 \includegraphics[width=\linewidth]{stream}
+l.282 \includegraphics[width=\linewidth]{stream}
                                                 
 I could not locate the file with any of these extensions:
 .pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
@@ -829,15 +829,15 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: Reference `fig:stream' on page 4 undefined on input line 258.
+LaTeX Warning: Reference `fig:stream' on page 4 undefined on input line 301.
 
 
-LaTeX Warning: Reference `tab:example' on page 4 undefined on input line 258.
+LaTeX Warning: Reference `tab:example' on page 4 undefined on input line 301.
 
 
 AED: lastpage setting LastPage
 
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 260.
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 303.
 
 [4] (./main.aux)
 
@@ -856,18 +856,18 @@ Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23991 strings out of 478268
- 457975 string characters out of 5846347
+ 24007 strings out of 478268
+ 458108 string characters out of 5846347
  803890 words of memory out of 5000000
- 41642 multiletter control sequences out of 15000+600000
- 538055 words of font info for 251 fonts, out of 8000000 for 9000
+ 41643 multiletter control sequences out of 15000+600000
+ 538315 words of font info for 255 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,12n,91p,1073b,415s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,12n,91p,1073b,482s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (4 pages, 70100 bytes).
+Output written on main.pdf (4 pages, 71206 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
- 28 named destinations out of 1000 (max. 500000)
+ 92 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
+ 37 named destinations out of 1000 (max. 500000)
  92161 words of extra memory for PDF output out of 106986 (max. 10000000)
 
