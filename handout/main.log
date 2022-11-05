@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  5 NOV 2022 10:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  5 NOV 2022 11:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -464,62 +464,69 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks30
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count312
+\float@exts=\toks31
+\float@box=\box56
+\@float@everytoks=\toks32
+\@floatcapt=\box57
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/gb4e/gb4e.sty (/usr/local/texlive/2022/texmf-dist/tex/latex/gb4e/cgloss4e.sty
-\lineone=\box56
-\linetwo=\box57
-\linethree=\box58
-\wordone=\box59
-\wordtwo=\box60
-\wordthree=\box61
-\gline=\box62
+\lineone=\box58
+\linetwo=\box59
+\linethree=\box60
+\wordone=\box61
+\wordtwo=\box62
+\wordthree=\box63
+\gline=\box64
 \glossglue=\skip73
 )
-\c@fnx=\count312
-\@xnumdepth=\count313
-\c@xnumi=\count314
-\c@xnumii=\count315
-\c@xnumiii=\count316
-\c@xnumiv=\count317
-\c@exx=\count318
-\c@rxnumi=\count319
-\c@rxnumii=\count320
-\c@rxnumiii=\count321
-\c@rxnumiv=\count322
+\c@fnx=\count313
+\@xnumdepth=\count314
+\c@xnumi=\count315
+\c@xnumii=\count316
+\c@xnumiii=\count317
+\c@xnumiv=\count318
+\c@exx=\count319
+\c@rxnumi=\count320
+\c@rxnumii=\count321
+\c@rxnumiii=\count322
+\c@rxnumiv=\count323
 \lcommentsep=\skip74
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
  (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count323
+\scratchcounter=\count324
 \scratchdimen=\dimen194
-\scratchbox=\box63
-\nofMPsegments=\count324
-\nofMParguments=\count325
-\everyMPshowfont=\toks31
-\MPscratchCnt=\count326
+\scratchbox=\box65
+\nofMPsegments=\count325
+\nofMParguments=\count326
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count327
 \MPscratchDim=\dimen195
-\MPnumerator=\count327
-\makeMPintoPDFobject=\count328
-\everyMPtoPDFconversion=\toks32
+\MPnumerator=\count328
+\makeMPintoPDFobject=\count329
+\everyMPtoPDFconversion=\toks34
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -561,9 +568,10 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 26.
+Package hyperref Info: Link coloring ON on input line 27.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -571,24 +579,24 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count329
+\c@section@level=\count330
 )
-LaTeX Info: Redefining \ref on input line 26.
-LaTeX Info: Redefining \pageref on input line 26.
-LaTeX Info: Redefining \nameref on input line 26.
+LaTeX Info: Redefining \ref on input line 27.
+LaTeX Info: Redefining \pageref on input line 27.
+LaTeX Info: Redefining \nameref on input line 27.
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 26.
-LaTeX Info: Redefining \microtypecontext on input line 26.
-Package microtype Info: Applying patch `item' on input line 26.
-Package microtype Info: Applying patch `toc' on input line 26.
-Package microtype Info: Applying patch `eqnum' on input line 26.
+(lastpage)             ! on input line 27.
+LaTeX Info: Redefining \microtypecontext on input line 27.
+Package microtype Info: Applying patch `item' on input line 27.
+Package microtype Info: Applying patch `toc' on input line 27.
+Package microtype Info: Applying patch `eqnum' on input line 27.
 
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 26.
+Package microtype Warning: Unable to apply patch `footnote' on input line 27.
 
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -596,14 +604,14 @@ Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 26.
+LaTeX Info: Redefining \showhyphens on input line 27.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 34.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 35.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
@@ -611,7 +619,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 34.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 35.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
@@ -619,7 +627,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 34.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 35.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
@@ -627,15 +635,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ztmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 34.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 35.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 34.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 35.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 34.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 35.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-msa.cfg
@@ -643,169 +651,54 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 34.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 35.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--44
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 44.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 46.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [1
+)
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+[1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Calculating math sizes for size <7.4> on input line 99.
+LaTeX Font Info:    Calculating math sizes for size <7.4> on input line 127.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.47603> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 99.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 127.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <4.44003> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 99.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:154: Undefined control sequence.
-\enit@endenumerate ->\enit@after 
-                                 \endlist \ifx \enit@series \relax \else \if...
-l.154 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:154: Undefined control sequence.
-\enit@endenumerate ...\else \ifnum \enit@resuming 
-                                                  =\@ne \enit@setresumekeys ...
-l.154 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:154: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.154 \end{enumerate}
-                     
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:154: Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.154 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:154: Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.154 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:154: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.154 \end{enumerate}
-                     
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:154: Undefined control sequence.
-<argument> enit@resume@series@\enit@series 
-                                           
-l.154 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:154: Undefined control sequence.
-\enit@endenumerate ...t \fi \ifnum \enit@resuming 
-                                                  =\thr@@ \enit@setresumekey...
-l.154 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:154: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.154 \end{enumerate}
-                     
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:154: Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.154 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:154: Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.154 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:154: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.154 \end{enumerate}
-                     
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 127.
 
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 163.
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 181.
 
 [2]
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:235: Misplaced alignment tab character &.
-l.235 ...panese, Aldridge 2009, but also Roberts &
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 259.
+
+[3]
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:259: Misplaced alignment tab character &.
+l.259 ...panese, Aldridge 2009, but also Roberts &
                                                    Roussou 2003, Dadan 2019,...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -814,19 +707,15 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 244.
-
-[3]
 No file main.bbl.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:286: LaTeX Error: File `stream' not found.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex:310: LaTeX Error: File `stream' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.286 \includegraphics[width=\linewidth]{stream}
+l.310 \includegraphics[width=\linewidth]{stream}
                                                 
 I could not locate the file with any of these extensions:
 .pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
@@ -834,17 +723,21 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: Reference `fig:stream' on page 4 undefined on input line 305.
+LaTeX Warning: Reference `fig:stream' on page 4 undefined on input line 329.
 
 
-LaTeX Warning: Reference `tab:example' on page 4 undefined on input line 305.
+LaTeX Warning: Reference `tab:example' on page 4 undefined on input line 329.
 
 
 AED: lastpage setting LastPage
 
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 307.
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 331.
 
-[4] (./main.aux)
+[4]
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 331.
+
+[5] (./main.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -861,18 +754,18 @@ Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 24008 strings out of 478268
- 458117 string characters out of 5846347
- 804890 words of memory out of 5000000
- 41643 multiletter control sequences out of 15000+600000
- 538378 words of font info for 256 fonts, out of 8000000 for 9000
+ 24054 strings out of 478268
+ 459033 string characters out of 5846347
+ 805238 words of memory out of 5000000
+ 41702 multiletter control sequences out of 15000+600000
+ 538165 words of font info for 245 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,12n,91p,1073b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,12n,91p,1073b,675s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (4 pages, 71623 bytes).
+Output written on main.pdf (5 pages, 73669 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 95 PDF objects out of 1000 (max. 8388607)
+ 77 compressed objects within 1 object stream
  37 named destinations out of 1000 (max. 500000)
  92161 words of extra memory for PDF output out of 106986 (max. 10000000)
 

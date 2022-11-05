@@ -6,8 +6,8 @@
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1667644424 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex" "main.pdf" "main" 1667644424
-  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex" 1667644421 14518 c47c452cb33c839e41a5d6a214c70219 ""
+["pdflatex"] 1667647503 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex" "main.pdf" "main" 1667647503
+  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/main.tex" 1667647500 14393 fd79b91f379efd56f5776c49c0773649 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -92,6 +92,7 @@
   "/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1579991033 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1601931149 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1612734021 17086 7ed8cbc4d361ec87392817e0dd4f65ec ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/float/float.sty" 1137110151 6749 16d2656a1984957e674b149555f1ea1d ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/gb4e/cgloss4e.sty" 1262222956 6095 45288f50872b170544bf4feb61584b97 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/gb4e/gb4e.sty" 1278199693 14002 bc6669e401eb3733974d57dc33712d54 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty" 1578002852 41601 9cf6c5257b1bc7af01a58859749dd37a ""
@@ -152,10 +153,10 @@
   "jabbrv-ltwa-all.ldf" 1667467736 49106 b16f6a6b5ad3d4d1b6470ae6d7b13193 ""
   "jabbrv-ltwa-en.ldf" 1667467736 268656 eecf96eceaf960e3e748eee920427c1d ""
   "jabbrv.sty" 1667467736 15480 2106da179daf9d5a102407956ba23e0c ""
-  "main.aux" 1667644424 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.aux" 1667647503 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
   "main.out" 0 -1 0 "pdflatex"
-  "main.tex" 1667644421 14518 c47c452cb33c839e41a5d6a214c70219 ""
+  "main.tex" 1667647500 14393 fd79b91f379efd56f5776c49c0773649 ""
   "stream" 0 -1 0 ""
   "wlscirep.cls" 1667467736 5824 2bca8e85f20d8d313a7747a78c480ad7 ""
   (generated)

@@ -2,6 +2,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{enumerate}
+\usepackage{float} % keeps tables in the exact position they occupy in the code
 \usepackage{gb4e} % leave last
 
 \title{Parametric settings of functional projections in diachrony: Romance clefts and wh-interrogatives}
@@ -38,24 +39,32 @@ The data are assessed through the lens of Rizzi's (2017) parameters. Here, we pr
 \section*{Introduction}
 
 Rizzi’s (2017; see also Samo 2022) study of parameters: functional projections either require overt movement (IM$=$1) or they don't (IM$=$0). 
-This, along with parameters as Spell Out, allows a fine understanding of the way languages function, and evolve.\\ 
-\\In this work:
+This, along with parameters as Spell Out, allows a fine understanding of the way languages function, and evolve.\\
+
+\noindent In this work:
 \begin{itemize}
 \item \vspace*{-2mm} we utilise Rizzi’s parameters to evaluate the existing understandings of cleft structure and interrogative wh-movement in Romance; 
 \item \vspace*{-2mm} we investigate the parametric settings of the projections involved in these structures, and their evolution over time.
 \end{itemize}
 
-\subsection*{Rizzi's (2017) parameters}
+\section*{1. Rizzi's (2017) parameters}
 
 Rizzi (2017: 165): Parameter: “an instruction for the triggering of a syntactic operation, expressed as a morphosyntactic feature associated to a functional head”.\\ 
-\textbf{Move}: complex operation, in the sense of Chomsky (2001), which involves either a head or a phrase: it encompasses the establishment of a probe-goal search followed by (internal) merge of the goal. 
-For the author, a functional head that acts as a trigger of movement may have two distinct pairs of features; these are responsible, respectively, for phrasal movement and head movement as defined in (1) and (2):
+
+\noindent\textbf{Move}: 
+\begin{itemize}
+    \item \vspace*{-2mm} complex operation (à la Chomsky 2001);
+    \item \vspace*{-2mm} involves either a head or a phrase;
+    \item \vspace*{-2mm} encompasses the establishment of a probe-goal search followed by (internal) merge of the goal. 
+\end{itemize}
+
+For Rizzi, a functional head that acts as a trigger of movement may have distinct pairs of features responsible for (1) and (2):
 
 \begin{exe}
     \ex PHRASAL MOVEMENT (Rizzi 2017: 171 (20))
         \begin{xlist}
             \ex A search feature at the phrasal level.
-            \ex The corresponding internal merge feature at the phrasal level (IM), what is traditionally called an EPP feature.
+            \ex The corresponding internal merge feature at the phrasal level (IM) ('EPP feature').
         \end{xlist}
 \end{exe}
 
@@ -67,8 +76,15 @@ For the author, a functional head that acts as a trigger of movement may have tw
         \end{xlist}
 \end{exe}
 
-Syntactic operations are simple, highly learnable and restricted to an extremely reduced set for reasons of learnability: when a functional element enters the syntax and becomes a functional head in the relevant configuration, it triggers one syntactic operation on the structure which is built. The available operations are those in (3):
-	
+\noindent\textbf{Syntactic operations}: 
+\begin{itemize}
+    \item \vspace*{-2mm} simple;
+    \item \vspace*{-2mm} highly learnable;
+    \item \vspace*{-2mm} restricted to an extremely reduced set for reasons of learnability.
+\end{itemize}	
+
+\noindent When a functional element enters the syntax and becomes a functional head in the relevant configuration, it triggers one syntactic operation on the structure which is built. The available operations are those in (3):
+
 \begin{exe}
     \ex SYNTACTIC OPERATIONS
         \begin{xlist}
@@ -84,52 +100,66 @@ Syntactic operations are simple, highly learnable and restricted to an extremely
         \end{xlist}
     \end{exe}
 
-Spell-out parameters are those that deal with “variation in the obligatory, optional or impossible pronunciation of certain heads and of their immediate dependents” (Rizzi 2017: 175). 
-One such parameter, perhaps the most famous one, is the null subject parameter, which governs the possibility of licensing a phonetically null subject pronoun.
-
-\subsection*{Explaining language variability}
-
-The cartography of syntactic structures, a sub-branch of the nativist approach, deals with
- drawing maps of syntactic configurations that are as precise as possible (on this, see Cinque \& Rizzi 2010, Rizzi \& Cinque 2016). Cartographers assume that the functional spine of human language is universal and comprises of numerous rigidly ordered functional projections. It is nonetheless widely acknowledged that languages vary to the extent in which they activate the functional heads of the spine, and that they realise these projections using different strategies. 
-For instance, the left-peripheral projection which encodes [focus] is not realised or exploited in the same way by all languages. Samo (2019) elaborates an understanding of the morphosyntax of FocusP in light of Rizzi’s (2017) parameters: the head of Focus triggers movement of an XP that bears a relevant focus feature and, while in languages such as Gungbe this head is phonetically realised (Aboh 2004), as in (4), its Italian counterpart is silent (Rizzi 1997 and related), as in (5):
-
-\begin{exe}
-    \ex Gungbe (adapted from Aboh 2007: 85(9c))
-        \gll [\textsubscript{FocusP}  	KÒFÍ\textsubscript{i}   [\textsubscript{Focus^0} 	wè 			[	ùn   		yró		\_\_\_\textsubscript{i}		]]]!\\
-        {} Kofi        {} 			foc    {}    	1sg   	call {} {}\\
-        \vspace{-3mm}
-        \glt ‘I called KOFI (as opposed to, for example, Enoch)’
-\end{exe}
-
-\begin{exe}
-    \ex Italian (adapted from Samo 2019: 146 (8))
-        \gll [\textsubscript{FocusP} 	IL LIBRO\textsubscript{i}	    [\textsubscript{Focus^0} 	$\emptyset$ 		[	Gianni 		ha 		letto 	\_\_\_\textsubscript{i}	]]]!\\
-        {} the book				{}		foc		{}	Gianni 		has 	read 	\_\_\_\\
-        \vspace{-3mm}
-        \glt ‘Gianni read THE BOOK (as opposed to, for example, the article)’	
-\end{exe}
-
-Another strategy used by languages to activate the head of Focus is to move an already merged head. Accordingly, a candidate for a movement of this type is the finite verbal head of V2 languages, as illustrated by the German example in (6):
-
-\begin{exe}
-    \ex	German (adapted from Samo 2019: 146 (8))
-		\gll [\textsubscript{SpecFoc} 	DIESES 	FRESKO 	[\textsubscript{Focus^0} 	malte				[	Giotto ]]]\\
-		{} this 			fresco			{}		painted.3sg	{}	Giotto \\
-        \vspace*{-3mm}
-		\glt ‘Giotto painted THIS FRESCO (as opposed to, for example, the one over there)’
-\end{exe}
-
-The variability of syntactic strategies adopted by different languages thus stems from different combinations of the syntactic operations of Merge, Move and Spell Out: 
-
+\noindent\textbf{Spell-out} ('null subject parameter' etc.): 
 \begin{itemize}
-\item Gungbe Merges FocusP and Spells Out Focus°; 
-\item \vspace*{-2mm} Italian Merges FocusP but does not Spell Out Focus°; 
-\item \vspace*{-2mm} German requires both head movement and phrasal movement. 
+    \item \vspace*{-2mm} deal with “variation in the obligatory, optional or impossible pronunciation of certain heads and of their immediate dependents” (Rizzi 2017: 175). 
 \end{itemize}
 
-The parametrisation of the observed phenomena can be viewed as in TABLE I:
+\section*{2. Explaining language variability}
 
-\begin{table}[ht]
+Cartography of syntactic structures (on this, see Cinque \& Rizzi 2010, Rizzi \& Cinque 2016):
+\begin{itemize}
+    \item \vspace*{-2mm} the functional spine of human language is universal;
+    \item \vspace*{-2mm} the functional spine comprises of numerous rigidly ordered functional projections;
+    \item \vspace*{-2mm} \textbf{nonetheless}, languages vary to the extent in which they:
+        \begin{enumerate}[i.]
+            \item \vspace*{-2mm} activate the functional heads of the spine;
+            \item \vspace*{-2mm} realise these projections using different strategies. 
+        \end{enumerate}
+\end{itemize}
+
+\noindent FocusP (HLP) is not realised/exploited in the same way by all languages. Samo (2019): Focus^0 triggers movement of an XP that bears a relevant focus feature and:
+\begin{itemize}
+    \item \vspace*{-2mm} in languages such as Gungbe this head is phonetically realised (Aboh 2004), as in (4);
+        \begin{exe}
+            \ex Gungbe (adapted from Aboh 2007: 85(9c))
+                \gll [\textsubscript{FocusP}  	KÒFÍ\textsubscript{i}   [\textsubscript{Focus^0} 	wè 			[	ùn   		yró		\_\_\_\textsubscript{i}		]]]!\\
+                {} Kofi        {} 			foc    {}    	1sg   	call {} {}\\
+                \vspace{-3mm}
+                \glt ‘I called KOFI (as opposed to, for example, Enoch)’
+        \end{exe}
+
+    \item \vspace*{-2mm} in languages like Italian, the head is silent (Rizzi 1997 and related), as in (5);
+        \begin{exe}
+            \ex Italian (adapted from Samo 2019: 146 (8))
+                \gll [\textsubscript{FocusP} 	IL LIBRO\textsubscript{i}	    [\textsubscript{Focus^0} 	$\emptyset$ 		[	Gianni 		ha 		letto 	\_\_\_\textsubscript{i}	]]]!\\
+                {} the book				{}		foc		{}	Gianni 		has 	read 	\_\_\_\\
+                \vspace{-3mm}
+                \glt ‘Gianni read THE BOOK (as opposed to, for example, the article)’	
+        \end{exe}
+
+    \item \vspace*{-2mm} in V2 languages, the head is activated by moving an already merged head, as in the German example in (6):
+        \begin{exe}
+            \ex	German (adapted from Samo 2019: 146 (8))
+                \gll [\textsubscript{SpecFoc} 	DIESES 	FRESKO 	[\textsubscript{Focus^0} 	malte				[	Giotto ]]]\\
+                {} this 			fresco			{}		painted.3sg	{}	Giotto \\
+                \vspace*{-3mm}
+                \glt ‘Giotto painted THIS FRESCO (as opposed to, for example, the one over there)’
+        \end{exe}
+
+\end{itemize}
+
+\noindent The variability of syntactic strategies adopted by different languages thus stems from different combinations of the syntactic operations of Merge, Move and Spell Out: 
+
+\begin{itemize}
+\item Gungbe merges FocusP and spells out Focus°; 
+\item \vspace*{-2mm} Italian merges FocusP but \textbf{does not} spell out Focus^0; 
+\item \vspace*{-2mm} German requires \textbf{both} head movement and phrasal movement. 
+\end{itemize}
+
+\noindent The parametrisation of the observed phenomena can be viewed as in TABLE I:
+
+\begin{table}[H]
     \centering
     \begin{tabular}{|l|l|l|l|l|l|l|}
     \hline
@@ -145,13 +175,7 @@ The parametrisation of the observed phenomena can be viewed as in TABLE I:
     \caption{\label{tab:samp}Language variability in activating FocusP (Samo 2019: 147 (10)).}
     \end{table}
 
-In this framework, the factorial combinations of the Boolean operators result in fine cross-linguistic analyses of typological variations. Samo (2019) argued that in V2 languages ‘criterial’ Spec-head configurations can be of three types: 
-
-\begin{enumerate}[i]
-    \item the criterial head is pronounced; 
-    \item \vspace*{-2mm} the functional head is silent; 
-    \item \vspace*{-2mm} an element is attracted into the functional head from within TP. 
-\end{enumerate}
+\noindent The factorial combinations of the boolean operators result in fine cross-linguistic analyses of typological variations.
 
 
 \section*{Conceptual challenges}
