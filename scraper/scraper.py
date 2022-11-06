@@ -25,19 +25,22 @@ class Scraper:
 
         self.id_number = 0
 
+        self.dictionaries_list = [] # all dictionaries, will be split into centuries later
+        # self.text_links = []
+
+        self.list_1500 = []
+        self.list_1600 = []
+        self.list_1700 = []
+        self.list_1800 = []
+        self.list_1900 = []
+
         print('\n---Program initialised.')
 
     def create_dictionary(self):
         '''A method that acts like a crawler and creates a dictionary of text metrics and links'''
         value = int
 
-        list_1500 = []
-        list_1600 = []
-        list_1700 = []
-        list_1800 = []
-        list_1900 = []
-
-        for number in range(1,501):
+        for number in range(1,21): # change to range 1,501 when scraping all texts
 
             dictionary = {}
 
@@ -76,47 +79,64 @@ class Scraper:
                 text = row.find_element(By.CSS_SELECTOR, value=text_row)
                 link = text.get_attribute('href')
                 dictionary['Link'] = link
+                # self.text_links.append(link) # appends link to links list
+                self.dictionaries_list.append(dictionary) # only appends dictionary if link is present
+                print('Dictionary appended')
             except:
                 dictionary['Link'] = 'unavailable'
+                print('Dictionary not appended')
+                print(dictionary)
+                print('\n')
+                continue # only appends dictionary if link is present
 
-            match1500 = r'^(15)([0-9]{2})$'
-            match1600 = r'^(16)([0-9]{2})$'
-            match1700 = r'^(17)([0-9]{2})$'
-            match1800 = r'^(18)([0-9]{2})$'
-            match1900 = r'^(19)([0-9]{2})$'
-
-            if re.match(match1500, str(date)):
-                print('String goes in 1500 dictionary')
-                list_1500.append(dictionary)
-                print(list_1500)
-            elif re.match(match1600, str(date)):
-                print('String goes in 1600 dictionary')
-                list_1600.append(dictionary)
-                print(list_1600)
-            elif re.match(match1700, str(date)):
-                print('String goes in 1700 dictionary')
-                list_1700.append(dictionary)
-                print(list_1700)
-            elif re.match(match1800, str(date)):
-                print('String goes in 1800 dictionary')
-                list_1800.append(dictionary)
-                print(list_1800)
-            elif re.match(match1900, str(date)):
-                print('String goes in 1900 dictionary')
-                list_1900.append(dictionary)
-                print(list_1900)
-
-            # print(dictionary)
+            print(dictionary)
+            print('\n')
             time.sleep(2)
-    
+
+    def extract_text_from_links(self):
+        "Method that extracts text from links and appends text to dedicated dictionary key"
+        for dictionary in self.dictionaries_list:
+            link = dictionary['Link']
+            
+            self.driver.get(link)
+            text = self.driver.find_element(By.CSS_SELECTOR, value="body>pre").text
+            print(text)
+            time.sleep(2)
+
+    def extract_questions_from_text(self):
+        pass
+
+    def create_year_lists(self):
+        '''A method that creates lists of dictionaries based on year'''
+        match1500 = r'^(15)([0-9]{2})$'
+        match1600 = r'^(16)([0-9]{2})$'
+        match1700 = r'^(17)([0-9]{2})$'
+        match1800 = r'^(18)([0-9]{2})$'
+        match1900 = r'^(19)([0-9]{2})$'
+
+        if re.match(match1500, str(date)):
+            print('String goes in 1500 dictionary')
+            list_1500.append(dictionary)
+            print(list_1500)
+        elif re.match(match1600, str(date)):
+            print('String goes in 1600 dictionary')
+            list_1600.append(dictionary)
+            print(list_1600)
+        elif re.match(match1700, str(date)):
+            print('String goes in 1700 dictionary')
+            list_1700.append(dictionary)
+            print(list_1700)
+        elif re.match(match1800, str(date)):
+            print('String goes in 1800 dictionary')
+            list_1800.append(dictionary)
+            print(list_1800)
+        elif re.match(match1900, str(date)):
+            print('String goes in 1900 dictionary')
+            list_1900.append(dictionary)
+            print(list_1900)
+
         print(len(list_1500))
         print(len(list_1600))
         print(len(list_1700))
         print(len(list_1800))
         print(len(list_1900))
-
-    def create_global_list(self):
-        '''A method that creates a list of links to the properties to scrape'''
-        self.whole_query_links.extend(self.all_text_links_list)
-        
-        return self.whole_query_links
