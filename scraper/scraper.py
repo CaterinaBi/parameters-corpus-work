@@ -9,6 +9,9 @@ import time
 from time import sleep
 from datetime import date, datetime
 
+import nltk
+from nltk.tokenize import sent_tokenize
+
 import json
 import os
 import requests
@@ -40,7 +43,7 @@ class Scraper:
         '''A method that acts like a crawler and creates a dictionary of text metrics and links'''
         value = int
 
-        for number in range(1,21): # change to range 1,501 when scraping all texts
+        for number in range(1,3): # change to range 1,501 when scraping all texts
 
             dictionary = {}
 
@@ -99,13 +102,42 @@ class Scraper:
             link = dictionary['Link']
             
             self.driver.get(link)
-            text = self.driver.find_element(By.CSS_SELECTOR, value="body>pre").text
+            text = self.driver.find_element(By.CSS_SELECTOR, value="body>pre").text # string
+
+            # text cleaning
+            text_list = list(text)
+            for character in range(len(text_list)):
+                if text_list[character] == '.':
+                    text_list[character] = '. '
+                elif text_list[character] == '!':
+                    text_list[character] = '.! '
+                elif text_list[character] == '?':
+                    text_list[character] = '? '
+
+            text = "".join(text_list)
+
             dictionary['Text'] = text
-            print(dictionary)
+            # print(text)
             time.sleep(2)
 
+        # print(self.dictionaries_list)
+
     def extract_questions_from_text(self):
-        pass
+        """A method that extracts only interrogatives from scraped texts"""
+
+        for dictionary in self.dictionaries_list:
+            interrogatives = []
+            text = dictionary['Text']
+            sentences = sent_tokenize(text) # list
+
+            for sentence in sentences:
+                if '?' in sentence:
+                    interrogatives.append(sentence)
+                    # append to dict here
+                else:
+                    continue
+
+            print(interrogatives)
 
     def create_year_lists(self):
         '''A method that creates lists of dictionaries based on year'''
