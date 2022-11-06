@@ -100,7 +100,8 @@ class Scraper:
             
             self.driver.get(link)
             text = self.driver.find_element(By.CSS_SELECTOR, value="body>pre").text
-            print(text)
+            dictionary['Text'] = text
+            print(dictionary)
             time.sleep(2)
 
     def extract_questions_from_text(self):
