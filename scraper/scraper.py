@@ -43,7 +43,7 @@ class Scraper:
         '''A method that acts like a crawler and creates a dictionary of text metrics and links'''
         value = int
 
-        for number in range(1,3): # change to range 1,501 when scraping all texts
+        for number in range(1,5): # change to range 1,501 when scraping all texts
 
             dictionary = {}
 
@@ -133,11 +133,11 @@ class Scraper:
             for sentence in sentences:
                 if '?' in sentence:
                     interrogatives.append(sentence)
-                    # append to dict here
                 else:
                     continue
 
-            print(interrogatives)
+            dictionary['Interrogatives'] = interrogatives
+            # print(dictionary)
 
     def create_year_lists(self):
         '''A method that creates lists of dictionaries based on year'''
@@ -147,29 +147,31 @@ class Scraper:
         match1800 = r'^(18)([0-9]{2})$'
         match1900 = r'^(19)([0-9]{2})$'
 
-        if re.match(match1500, str(date)):
-            print('String goes in 1500 dictionary')
-            list_1500.append(dictionary)
-            print(list_1500)
-        elif re.match(match1600, str(date)):
-            print('String goes in 1600 dictionary')
-            list_1600.append(dictionary)
-            print(list_1600)
-        elif re.match(match1700, str(date)):
-            print('String goes in 1700 dictionary')
-            list_1700.append(dictionary)
-            print(list_1700)
-        elif re.match(match1800, str(date)):
-            print('String goes in 1800 dictionary')
-            list_1800.append(dictionary)
-            print(list_1800)
-        elif re.match(match1900, str(date)):
-            print('String goes in 1900 dictionary')
-            list_1900.append(dictionary)
-            print(list_1900)
+        for dictionary in self.dictionaries_list:
+            date = dictionary['Date']
+            if re.match(match1500, str(date)):
+                print('String goes in 1500 dictionary')
+                self.list_1500.append(dictionary)
+                # print(self.list_1500)
+            elif re.match(match1600, str(date)):
+                print('String goes in 1600 dictionary')
+                self.list_1600.append(dictionary)
+                # print(self.list_1600)
+            elif re.match(match1700, str(date)):
+                print('String goes in 1700 dictionary')
+                self.list_1700.append(dictionary)
+                # print(self.list_1700)
+            elif re.match(match1800, str(date)):
+                print('String goes in 1800 dictionary')
+                self.list_1800.append(dictionary)
+                # print(self.list_1800)
+            elif re.match(match1900, str(date)):
+                print('String goes in 1900 dictionary')
+                self.list_1900.append(dictionary)
+                # print(self.list_1900)
 
-        print(len(list_1500))
-        print(len(list_1600))
-        print(len(list_1700))
-        print(len(list_1800))
-        print(len(list_1900))
+        print(len(self.list_1500))
+        print(len(self.list_1600))
+        print(len(self.list_1700))
+        print(len(self.list_1800))
+        print(len(self.list_1900))
