@@ -51,13 +51,13 @@ class Scraper:
         self.match1800 = r'^(18)([0-9]{2})$'
         self.match1900 = r'^(19)([0-9]{2})$'
 
-        print('\n---Program initialised.')
+        print('\n---Program initialised.\n')
 
     def create_dictionary(self):
         '''A method that acts like a crawler and creates a dictionary of text metrics and links'''
         value = int
 
-        for number in range(1,5): # change to range 1,501 when scraping all texts
+        for number in range(1,501): # change to range 1,501 when scraping all texts
 
             dictionary = {}
 
@@ -76,6 +76,7 @@ class Scraper:
             self.id_number += 1 
             text_id = f'text_{self.id_number}'
             dictionary['ID'] = text_id
+            print(f'---Scraping text #{self.id_number}.\n')
 
             # contents to scrape
             author = row.find_element(By.CSS_SELECTOR, value=author_row).text
@@ -98,21 +99,20 @@ class Scraper:
                 dictionary['Link'] = link
                 # self.text_links.append(link) # appends link to links list
                 self.dictionaries_list.append(dictionary) # only appends dictionary if link is present
-                print('Dictionary appended')
+                print('Dictionary appended\n')
             except:
                 dictionary['Link'] = 'unavailable'
-                print('Dictionary not appended')
-                print(dictionary)
+                print('Link unavailable, dictionary not appended\n')
+                # print(dictionary)
                 print('\n')
                 continue # only appends dictionary if link is present
 
-            print(dictionary)
-            print('\n')
+            print("--All dictionaries correctly created.\n")
             time.sleep(2)
 
     def extract_text_from_links(self):
         "Method that extracts text from links and appends text to dedicated dictionary key"
-        for dictionary in self.dictionaries_list:
+        for i, dictionary in enumerate(self.dictionaries_list):
             link = dictionary['Link']
             
             self.driver.get(link)
@@ -131,7 +131,7 @@ class Scraper:
             text = "".join(text_list)
 
             dictionary['Text'] = text
-            # print(text)
+            print(f'---Text #{i} extracted.\n')
             time.sleep(2)
 
         # print(self.dictionaries_list)
@@ -139,7 +139,7 @@ class Scraper:
     def extract_questions_from_text(self):
         """A method that extracts only interrogatives from scraped texts"""
 
-        for dictionary in self.dictionaries_list:
+        for i, dictionary in enumerate(self.dictionaries_list):
             interrogatives = []
             text = dictionary['Text']
             sentences = sent_tokenize(text) # list
@@ -151,7 +151,7 @@ class Scraper:
                     continue
 
             dictionary['Interrogatives'] = interrogatives
-            # print(dictionary)
+            print(f'---All interrogatives extracted from text #{i}.\n')
 
     def create_year_lists(self):
         '''A method that creates lists of dictionaries based on year'''
@@ -179,6 +179,7 @@ class Scraper:
                 self.list_1900.append(dictionary)
                 # print(self.list_1900)
 
+        print('---Data organised in century lists.\n')
         print(len(self.list_1500))
         print(len(self.list_1600))
         print(len(self.list_1700))
@@ -199,22 +200,27 @@ class Scraper:
         folder_path = os.path.join(destination_folder, file_name1)
         with open(folder_path, 'w', encoding='utf-8') as output:
             json.dump(self.list_1500, output, ensure_ascii=False, indent=4)
+            print('---Json file created.')
 
         folder_path = os.path.join(destination_folder, file_name2)
         with open(folder_path, 'w', encoding='utf-8') as output:
             json.dump(self.list_1600, output, ensure_ascii=False, indent=4)
+            print('---Json file created.')
 
         folder_path = os.path.join(destination_folder, file_name3)
         with open(folder_path, 'w', encoding='utf-8') as output:
             json.dump(self.list_1700, output, ensure_ascii=False, indent=4)
+            print('---Json file created.')
 
         folder_path = os.path.join(destination_folder, file_name4)
         with open(folder_path, 'w', encoding='utf-8') as output:
             json.dump(self.list_1800, output, ensure_ascii=False, indent=4)
+            print('---Json file created.')
 
         folder_path = os.path.join(destination_folder, file_name5)
         with open(folder_path, 'w', encoding='utf-8') as output:
             json.dump(self.list_1900, output, ensure_ascii=False, indent=4)
+            print('---Json file created.\n')
 
     def create_mono_question_dictionaries(self):
         """A method that creates dictionaries with one interrogative value
@@ -232,32 +238,33 @@ class Scraper:
                 dictionary_copy['Interrogatives'] = question
                 self.question_dictionaries.append(dictionary_copy)
 
-        # print(self.question_dictionaries)
+        print('---List of dictionaries to export in .xlsx format created.\n')
 
     def create_century_lists(self):
         for dictionary in self.question_dictionaries:
             date = dictionary['Date']
             if re.match(self.match1500, str(date)):
-                print('String goes in 1500 dictionary')
+                # print('String goes in 1500 dictionary')
                 self.list_1500_mono.append(dictionary)
                 # print(self.list_1500)
             elif re.match(self.match1600, str(date)):
-                print('String goes in 1600 dictionary')
+                # print('String goes in 1600 dictionary')
                 self.list_1600_mono.append(dictionary)
                 # print(self.list_1600)
             elif re.match(self.match1700, str(date)):
-                print('String goes in 1700 dictionary')
+                # print('String goes in 1700 dictionary')
                 self.list_1700_mono.append(dictionary)
                 # print(self.list_1700)
             elif re.match(self.match1800, str(date)):
-                print('String goes in 1800 dictionary')
+                # print('String goes in 1800 dictionary')
                 self.list_1800_mono.append(dictionary)
                 # print(self.list_1800)
             elif re.match(self.match1900, str(date)):
-                print('String goes in 1900 dictionary')
+                # print('String goes in 1900 dictionary')
                 self.list_1900_mono.append(dictionary)
                 # print(self.list_1900)
 
+        print('---Data for .xlsx re organised in century lists.\n')
         print(len(self.list_1500_mono))
         print(len(self.list_1600_mono))
         print(len(self.list_1700_mono))
@@ -274,15 +281,22 @@ class Scraper:
 
         df = pd.DataFrame.from_dict(self.list_1500_mono)
         df.to_excel(file_name1)
+        print('---Excel file created.\n')
 
         df = pd.DataFrame(data=self.list_1600_mono)
         df.to_excel(file_name2, index=False)
+        print('---Excel file created.\n')
 
         df = pd.DataFrame.from_dict(self.list_1700_mono)
         df.to_excel(file_name3)
+        print('---Excel file created.\n')
 
         df = pd.DataFrame.from_dict(self.list_1800_mono)
         df.to_excel(file_name4)
+        print('---Excel file created.\n')
 
         df = pd.DataFrame.from_dict(self.list_1900_mono)
         df.to_excel(file_name5)
+        print('---Excel file created.\n')
+
+        print('---Data collection correctly executed.')
