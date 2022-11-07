@@ -1,3 +1,4 @@
+from openpyxl.workbook import Workbook
 from pyrsistent import s
 import re
 from selenium import webdriver
@@ -14,6 +15,7 @@ from nltk.tokenize import sent_tokenize
 
 import json
 import os
+import pandas as pd
 import requests
 import uuid
 
@@ -36,6 +38,18 @@ class Scraper:
         self.list_1700 = []
         self.list_1800 = []
         self.list_1900 = []
+
+        self.list_1500_mono = []
+        self.list_1600_mono = []
+        self.list_1700_mono = []
+        self.list_1800_mono = []
+        self.list_1900_mono = []
+
+        self.match1500 = r'^(15)([0-9]{2})$'
+        self.match1600 = r'^(16)([0-9]{2})$'
+        self.match1700 = r'^(17)([0-9]{2})$'
+        self.match1800 = r'^(18)([0-9]{2})$'
+        self.match1900 = r'^(19)([0-9]{2})$'
 
         print('\n---Program initialised.')
 
@@ -141,31 +155,26 @@ class Scraper:
 
     def create_year_lists(self):
         '''A method that creates lists of dictionaries based on year'''
-        match1500 = r'^(15)([0-9]{2})$'
-        match1600 = r'^(16)([0-9]{2})$'
-        match1700 = r'^(17)([0-9]{2})$'
-        match1800 = r'^(18)([0-9]{2})$'
-        match1900 = r'^(19)([0-9]{2})$'
 
         for dictionary in self.dictionaries_list:
             date = dictionary['Date']
-            if re.match(match1500, str(date)):
+            if re.match(self.match1500, str(date)):
                 print('String goes in 1500 dictionary')
                 self.list_1500.append(dictionary)
                 # print(self.list_1500)
-            elif re.match(match1600, str(date)):
+            elif re.match(self.match1600, str(date)):
                 print('String goes in 1600 dictionary')
                 self.list_1600.append(dictionary)
                 # print(self.list_1600)
-            elif re.match(match1700, str(date)):
+            elif re.match(self.match1700, str(date)):
                 print('String goes in 1700 dictionary')
                 self.list_1700.append(dictionary)
                 # print(self.list_1700)
-            elif re.match(match1800, str(date)):
+            elif re.match(self.match1800, str(date)):
                 print('String goes in 1800 dictionary')
                 self.list_1800.append(dictionary)
                 # print(self.list_1800)
-            elif re.match(match1900, str(date)):
+            elif re.match(self.match1900, str(date)):
                 print('String goes in 1900 dictionary')
                 self.list_1900.append(dictionary)
                 # print(self.list_1900)
@@ -223,4 +232,57 @@ class Scraper:
                 dictionary_copy['Interrogatives'] = question
                 self.question_dictionaries.append(dictionary_copy)
 
-        print(self.question_dictionaries)
+        # print(self.question_dictionaries)
+
+    def create_century_lists(self):
+        for dictionary in self.question_dictionaries:
+            date = dictionary['Date']
+            if re.match(self.match1500, str(date)):
+                print('String goes in 1500 dictionary')
+                self.list_1500_mono.append(dictionary)
+                # print(self.list_1500)
+            elif re.match(self.match1600, str(date)):
+                print('String goes in 1600 dictionary')
+                self.list_1600_mono.append(dictionary)
+                # print(self.list_1600)
+            elif re.match(self.match1700, str(date)):
+                print('String goes in 1700 dictionary')
+                self.list_1700_mono.append(dictionary)
+                # print(self.list_1700)
+            elif re.match(self.match1800, str(date)):
+                print('String goes in 1800 dictionary')
+                self.list_1800_mono.append(dictionary)
+                # print(self.list_1800)
+            elif re.match(self.match1900, str(date)):
+                print('String goes in 1900 dictionary')
+                self.list_1900_mono.append(dictionary)
+                # print(self.list_1900)
+
+        print(len(self.list_1500_mono))
+        print(len(self.list_1600_mono))
+        print(len(self.list_1700_mono))
+        print(len(self.list_1800_mono))
+        print(len(self.list_1900_mono))
+
+    def export_data_to_excel(self):
+
+        file_name1 = 'data_1500.xlsx'
+        file_name2 = 'data_1600.xlsx'
+        file_name3 = 'data_1700.xlsx'
+        file_name4 = 'data_1800.xlsx'
+        file_name5 = 'data_1900.xlsx'
+
+        df = pd.DataFrame.from_dict(self.list_1500_mono)
+        df.to_excel(file_name1)
+
+        df = pd.DataFrame(data=self.list_1600_mono)
+        df.to_excel(file_name2, index=False)
+
+        df = pd.DataFrame.from_dict(self.list_1700_mono)
+        df.to_excel(file_name3)
+
+        df = pd.DataFrame.from_dict(self.list_1800_mono)
+        df.to_excel(file_name4)
+
+        df = pd.DataFrame.from_dict(self.list_1900_mono)
+        df.to_excel(file_name5)
