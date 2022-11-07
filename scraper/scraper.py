@@ -29,7 +29,7 @@ class Scraper:
         self.id_number = 0
 
         self.dictionaries_list = [] # all dictionaries, will be split into centuries later
-        # self.text_links = []
+        self.question_dictionaries = []
 
         self.list_1500 = []
         self.list_1600 = []
@@ -206,3 +206,21 @@ class Scraper:
         folder_path = os.path.join(destination_folder, file_name5)
         with open(folder_path, 'w', encoding='utf-8') as output:
             json.dump(self.list_1900, output, ensure_ascii=False, indent=4)
+
+    def create_mono_question_dictionaries(self):
+        """A method that creates dictionaries with one interrogative value
+        to be exported in .xlsx file later"""
+
+        for dictionary in self.dictionaries_list:
+            del dictionary['Link'] # not needed
+            del dictionary['Text'] # deletes text because we don't need it in the excel file
+            questions = dictionary['Interrogatives'] # list             
+
+            for question in questions:
+                dictionary_copy = dictionary.copy()
+                del dictionary_copy['Interrogatives']
+                # print(question)
+                dictionary_copy['Interrogatives'] = question
+                self.question_dictionaries.append(dictionary_copy)
+
+        print(self.question_dictionaries)
