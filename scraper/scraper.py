@@ -175,3 +175,34 @@ class Scraper:
         print(len(self.list_1700))
         print(len(self.list_1800))
         print(len(self.list_1900))
+
+    def save_data_to_json(self, destination_folder='raw_data/data'):
+        '''A method that converts the century lists into .json files and stores them into dedicated directory'''
+        if not os.path.exists(destination_folder):
+            os.makedirs(destination_folder)
+
+        file_name1 = 'data_1500.json'
+        file_name2 = 'data_1600.json'
+        file_name3 = 'data_1700.json'
+        file_name4 = 'data_1800.json'
+        file_name5 = 'data_1900.json'
+
+        folder_path = os.path.join(destination_folder, file_name1)
+        with open(folder_path, 'w', encoding='utf-8') as output:
+            json.dump(self.list_1500, output, ensure_ascii=False, indent=4)
+
+        folder_path = os.path.join(destination_folder, file_name2)
+        with open(folder_path, 'w', encoding='utf-8') as output:
+            json.dump(self.list_1600, output, ensure_ascii=False, indent=4)
+
+        folder_path = os.path.join(destination_folder, file_name3)
+        with open(folder_path, 'w', encoding='utf-8') as output:
+            json.dump(self.list_1700, output, ensure_ascii=False, indent=4)
+
+        folder_path = os.path.join(destination_folder, file_name4)
+        with open(folder_path, 'w', encoding='utf-8') as output:
+            json.dump(self.list_1800, output, ensure_ascii=False, indent=4)
+
+        folder_path = os.path.join(destination_folder, file_name5)
+        with open(folder_path, 'w', encoding='utf-8') as output:
+            json.dump(self.list_1900, output, ensure_ascii=False, indent=4)
