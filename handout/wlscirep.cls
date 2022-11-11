@@ -52,7 +52,7 @@
 % \RequirePackage[numbers]{natbib}
 \RequirePackage[superscript,biblabel,nomove]{cite}
 %% Nov 3, 2016: Support DOI
-\bibliographystyle{naturemag-doi}
+%\bibliographystyle{naturemag-doi}
               
 %
 % headers and footers
