@@ -1,10 +1,131 @@
-\begin{thebibliography}{}
-\urlstyle{rm}
-\expandafter\ifx\csname url\endcsname\relax
-  \def\url#1{\texttt{#1}}\fi
-\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
-\expandafter\ifx\csname doiprefix\endcsname\relax\def\doiprefix{DOI: }\fi
-\providecommand{\bibinfo}[2]{#2}
-\providecommand{\eprint}[2][]{\url{#2}}
+\begin{thebibliography}{20}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Rizzi(2017)]{rizzi2017}
+Luigi Rizzi.
+\newblock On the format and locus of parameters: the role of mophosyntactic
+  features.
+\newblock \emph{Linguistic Analysis}, 41\penalty0 (3):\penalty0 159--191, 2017.
+
+\bibitem[Samo(2022)]{samo2022}
+Giuseppe Samo.
+\newblock Criterial v2: Modp as a locus of microvariation in swiss romansh
+  varieties.
+\newblock \emph{Probus}, 2022.
+
+\bibitem[Chomsky(2001)]{chomsky2001}
+Noam Chomsky.
+\newblock Derivation by phase.
+\newblock In Michael Kenstowicz, editor, \emph{Ken Hale: A life in language},
+  pages 1--52. MIT Press, 2001.
+
+\bibitem[Cinque and Rizzi(2010)]{cinquerizzi2010}
+Guglielmo Cinque and Luigi Rizzi.
+\newblock The cartography of syntactic structures.
+\newblock In Bernd Heine and Heiko Narrog, editors, \emph{Oxford Handbook of
+  linguistic analysis}. Oxford University Press, Oxford, New York, 2010.
+
+\bibitem[Rizzi and Cinque(2016)]{rizzicinque2016}
+Luigi Rizzi and Guglielmo Cinque.
+\newblock Functional categories and syntactic theory.
+\newblock \emph{Annual Review of Linguistics}, 2:\penalty0 139--163, 2016.
+
+\bibitem[Samo(2019)]{samo2019cartography}
+Giuseppe Samo.
+\newblock Cartography and microparametric variation: Criterial v2 in swiss
+  romansh varieties.
+\newblock \emph{Revista Lingu{\'\i}ʃtica}, 15\penalty0 (3):\penalty0 141--160,
+  2019.
+
+\bibitem[Aboh(2004)]{aboh2004morphosyntax}
+Enoch~Olad{\'e} Aboh.
+\newblock \emph{The morphosyntax of complement-head sequences: Clause structure
+  and word order patterns in Kwa}.
+\newblock Oxford University Press on Demand, 2004.
+
+\bibitem[Rizzi(1997)]{rizzi1997fine}
+Luigi Rizzi.
+\newblock The fine structure of the left periphery.
+\newblock In Liliane Haegeman, editor, \emph{Elements of grammar}, pages
+  281--337. Kluwer Academic publisher, Dordrecht, 1997.
+
+\bibitem[Belletti(2015)]{belletti2015}
+Adriana Belletti.
+\newblock The focus map of clefts.
+\newblock In Ur~Shlonsky, editor, \emph{Beyond functional sequence}, pages
+  129--137. Oxford University Press, New York, 2015.
+
+\bibitem[Belletti(2004)]{belletti2004}
+Adriana Belletti.
+\newblock Aspects of the low ip area.
+\newblock In Luigi Rizzi, editor, \emph{The structure of CP and IP. The
+  cartography of syntactic structures}, volume~2, pages 16--51. Oxford
+  University Press Oxford, Oxford, New York, 2004.
+
+\bibitem[Bianchi(2013)]{bianchi2013}
+Valentina Bianchi.
+\newblock On ‘focus movement’ in italian.
+\newblock In L.~Ángel J. Martín-González V.~Camacho-Taboada, V.
+  Jiménez-Fernández and M.~Reyes-Tejedor, editors, \emph{Information
+  Structure and Agreement}, pages 193--216. John Benjamins, Amsterdam, New
+  York, 2013.
+
+\bibitem[Larrivée(2022)]{larrive2022}
+Pierre Larrivée.
+\newblock The curious case of rare focus movement in french.
+\newblock In Davide Garassino and D.Jacob, editors, \emph{When Data Challenges
+  Theory: Unexpected and paradoxical evidence in information structure}, page
+  183–202. John Benjamins, Amsterdam, New York, 2022.
+
+\bibitem[Cardinaletti(2001)]{cardinaletti2001}
+Anna Cardinaletti.
+\newblock A second thought on emarginazione: Destressing vs. right dislocation.
+\newblock In Guglielmo Cinque and Giampaolo Salvi, editors, \emph{Current
+  Studies in Italian Syntax}, page 117–135. John Benjamins, Amsterdam, New
+  York, 2001.
+
+\bibitem[Samek-Lodovici()]{sameklodovici15}
+Vieri Samek-Lodovici.
+\newblock \emph{The interaction of Focus, Givenness, and Prosody. A study of
+  Italian Clause Structure}.
+\newblock Oxford University Press, Oxford/New York.
+
+\bibitem[Bonan(2021)]{bonan21}
+Caterina Bonan.
+\newblock The periphery of vp in the theory of wh-in-situ.
+\newblock 6(1), 2021.
+
+\bibitem[Bonan(2022)]{bonan22}
+Caterina Bonan.
+\newblock 'pronounce φ': 'number' clitics in a non-redundant null-subject
+  system.
+\newblock 13, 2022.
+
+\bibitem[Aldridge(2010)]{aldridge2010clause}
+Edith Aldridge.
+\newblock Clause-internal wh-movement in archaic chinese.
+\newblock \emph{Journal of East Asian Linguistics}, 19\penalty0 (1):\penalty0
+  1--36, 2010.
+
+\bibitem[Aldridge(2009)]{aldridge2009old}
+Edith Aldridge.
+\newblock Old chinese determiner zhe.
+\newblock \emph{Historical syntax and linguistic theory}, 18:\penalty0
+  233--250, 2009.
+
+\bibitem[Roberts et~al.(2003)Roberts, Roberts, Roussou,
+  et~al.]{roberts2003syntactic}
+Roussou Roberts, Ian Roberts, Anna Roussou, et~al.
+\newblock \emph{Syntactic change: A minimalist approach to grammaticalization}.
+\newblock Number 100. Cambridge University Press, 2003.
+
+\bibitem[Dadan(2019)]{dadan2019}
+Marcin~R. Dadan.
+\newblock \emph{Head Labeling Preference and Language Change}.
+\newblock PhD thesis, 2019.
 
 \end{thebibliography}
