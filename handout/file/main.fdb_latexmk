@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex main"] 1668427568 "main.aux" "main.bbl" "main" 1668458825
+["bibtex main"] 1668461173 "main.aux" "main.bbl" "main" 1668461703
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/natbib/unsrtnat.bst" 1233624470 24550 a41a6405f4de768c43e871d9fbce2bc8 ""
   "linquiry2.bst" 0 -1 0 ""
-  "main.aux" 1668458825 3130 646a2be246579c68423925675ad86949 "pdflatex"
+  "main.aux" 1668461702 3130 646a2be246579c68423925675ad86949 "pdflatex"
   "sample.bib" 1668242673 5982 16dc12f758ea659b088f139b66d27b33 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1668458824 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" "main.pdf" "main" 1668458825
-  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" 1668458824 15927 8155663b4d138941bd5d3ca74acd62dc ""
+["pdflatex"] 1668461702 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" "main.pdf" "main" 1668461703
+  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" 1668461701 15841 083f92659921eaeddb771e50fed93561 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -167,10 +167,10 @@
   "jabbrv-ltwa-all.ldf" 1668240228 49106 b16f6a6b5ad3d4d1b6470ae6d7b13193 ""
   "jabbrv-ltwa-en.ldf" 1668240228 268656 eecf96eceaf960e3e748eee920427c1d ""
   "jabbrv.sty" 1668240228 15480 2106da179daf9d5a102407956ba23e0c ""
-  "main.aux" 1668458825 3130 646a2be246579c68423925675ad86949 "pdflatex"
+  "main.aux" 1668461702 3130 646a2be246579c68423925675ad86949 "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
   "main.out" 0 -1 0 "pdflatex"
-  "main.tex" 1668458824 15927 8155663b4d138941bd5d3ca74acd62dc ""
+  "main.tex" 1668461701 15841 083f92659921eaeddb771e50fed93561 ""
   "wlscirep.cls" 1668243347 5885 30db60cb584fe8d0f35e2d00c3fab366 ""
   (generated)
   "main.aux"
