@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex main"] 1668427568 "main.aux" "main.bbl" "main" 1668456877
+["bibtex main"] 1668427568 "main.aux" "main.bbl" "main" 1668457436
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/natbib/unsrtnat.bst" 1233624470 24550 a41a6405f4de768c43e871d9fbce2bc8 ""
   "linquiry2.bst" 0 -1 0 ""
-  "main.aux" 1668456877 3130 646a2be246579c68423925675ad86949 "pdflatex"
+  "main.aux" 1668457436 3130 646a2be246579c68423925675ad86949 "pdflatex"
   "sample.bib" 1668242673 5982 16dc12f758ea659b088f139b66d27b33 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1668456876 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" "main.pdf" "main" 1668456877
-  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" 1668456876 15887 25b21a61aada80d479d465fd510c3047 ""
+["pdflatex"] 1668457435 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" "main.pdf" "main" 1668457436
+  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" 1668457435 15922 a37ff814a63222378b8f533350ab0d74 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -33,8 +33,10 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1246382020 908 2921f8a10601f252058503cc6570e581 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm" 1229303445 688 37338d6ab346c2f1466b29e195316aa4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb" 1136849748 35941 f27169cc74234d5bd5e4cca5abafaabb ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb" 1136849748 44648 23115b2a545ebfe2c526c3ca99db8b95 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1136849748 44729 811d6c62865936705a31c797a1d5dada ""
@@ -165,10 +167,10 @@
   "jabbrv-ltwa-all.ldf" 1668240228 49106 b16f6a6b5ad3d4d1b6470ae6d7b13193 ""
   "jabbrv-ltwa-en.ldf" 1668240228 268656 eecf96eceaf960e3e748eee920427c1d ""
   "jabbrv.sty" 1668240228 15480 2106da179daf9d5a102407956ba23e0c ""
-  "main.aux" 1668456877 3130 646a2be246579c68423925675ad86949 "pdflatex"
+  "main.aux" 1668457436 3130 646a2be246579c68423925675ad86949 "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
   "main.out" 0 -1 0 "pdflatex"
-  "main.tex" 1668456876 15887 25b21a61aada80d479d465fd510c3047 ""
+  "main.tex" 1668457435 15922 a37ff814a63222378b8f533350ab0d74 ""
   "wlscirep.cls" 1668243347 5885 30db60cb584fe8d0f35e2d00c3fab366 ""
   (generated)
   "main.aux"
