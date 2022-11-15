@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  15 NOV 2022 12:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  15 NOV 2022 13:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -552,7 +552,11 @@ Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
 \c@rxnumiii=\count328
 \c@rxnumiv=\count329
 \lcommentsep=\skip76
-) (./main.aux)
+) (./main.aux
+
+LaTeX Warning: Label `tab:samp' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -643,6 +647,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 32.
 LaTeX Info: Redefining \pageref on input line 32.
 LaTeX Info: Redefining \nameref on input line 32.
+ (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
@@ -789,9 +794,6 @@ Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on in
 
 Package natbib Warning: Citation `aboh2004morphosyntax' on page 2 undefined on input line 128.
 
-
-LaTeX Warning: Reference `gungbe' on page 2 undefined on input line 128.
-
 LaTeX Font Info:    Calculating math sizes for size <7.4> on input line 133.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.47603> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 133.
@@ -811,9 +813,6 @@ Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on in
 
 
 Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 182.
-
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 188.
 
 [2]
 
@@ -867,9 +866,6 @@ Package natbib Warning: Citation `belletti2004' on page 3 undefined on input lin
 
 Package natbib Warning: Citation `belletti2004' on page 3 undefined on input line 256.
 
-
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 266.
-
 [3]
 
 Package natbib Warning: Citation `rizzi2017' on page 4 undefined on input line 266.
@@ -906,77 +902,53 @@ Package natbib Warning: Citation `belletti2004' on page 4 undefined on input lin
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 319.
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 337.
-
 [4]
-<images/exsitu.png, id=57, 455.301pt x 339.669pt>
+<images/exsitu.png, id=62, 455.301pt x 339.669pt>
 File: images/exsitu.png Graphic file (type png)
 <use images/exsitu.png>
 Package pdftex.def Info: images/exsitu.png  used on input line 341.
 (pdftex.def)             Requested size: 245.2399pt x 182.95724pt.
-<images/exsitu2.png, id=59, 398.9304pt x 298.4751pt>
+<images/exsitu2.png, id=64, 398.9304pt x 298.4751pt>
 File: images/exsitu2.png Graphic file (type png)
 <use images/exsitu2.png>
 Package pdftex.def Info: images/exsitu2.png  used on input line 345.
 (pdftex.def)             Requested size: 245.2399pt x 183.48595pt.
-<images/insitu.png, id=60, 455.301pt x 339.669pt>
+<images/insitu.png, id=65, 455.301pt x 339.669pt>
 File: images/insitu.png Graphic file (type png)
 <use images/insitu.png>
 Package pdftex.def Info: images/insitu.png  used on input line 355.
 (pdftex.def)             Requested size: 245.2399pt x 182.95724pt.
-<images/insitu2.png, id=61, 398.9304pt x 300.6432pt>
+<images/insitu2.png, id=66, 398.9304pt x 300.6432pt>
 File: images/insitu2.png Graphic file (type png)
 <use images/insitu2.png>
 Package pdftex.def Info: images/insitu2.png  used on input line 359.
 (pdftex.def)             Requested size: 245.2399pt x 184.81877pt.
-
-Underfull \vbox (badness 2556) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 372.
-
-[5 <./images/exsitu.png> <./images/exsitu2.png> <./images/insitu.png> <./images/insitu2.png>]
-No file main.bbl.
-
+ [5 <./images/exsitu.png> <./images/exsitu2.png> <./images/insitu.png> <./images/insitu2.png>] (./main.bbl) 
 AED: lastpage setting LastPage
-
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 379.
-
 [6]
 
 Package natbib Warning: There were undefined citations.
 
 (./main.aux)
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: There were multiply-defined labels.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25645 strings out of 478268
- 486667 string characters out of 5846347
- 830866 words of memory out of 5000000
- 43237 multiletter control sequences out of 15000+600000
+ 25655 strings out of 478268
+ 486763 string characters out of 5846347
+ 831530 words of memory out of 5000000
+ 43238 multiletter control sequences out of 15000+600000
  542685 words of font info for 266 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,12n,91p,1078b,675s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (6 pages, 183107 bytes).
+Output written on main.pdf (6 pages, 185020 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
- 87 compressed objects within 1 object stream
- 41 named destinations out of 1000 (max. 500000)
+ 126 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
+ 44 named destinations out of 1000 (max. 500000)
  96789 words of extra memory for PDF output out of 106986 (max. 10000000)
 
