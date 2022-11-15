@@ -1,14 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1668461173 "main.aux" "main.bbl" "main" 1668462346
-  "/usr/local/texlive/2022/texmf-dist/bibtex/bst/natbib/unsrtnat.bst" 1233624470 24550 a41a6405f4de768c43e871d9fbce2bc8 ""
-  "linquiry2.bst" 0 -1 0 ""
-  "main.aux" 1668462345 3130 646a2be246579c68423925675ad86949 "pdflatex"
+["bibtex main"] 1668516898 "main.aux" "main.bbl" "main" 1668516898
+  "main.aux" 1668516898 3601 5b9f2dab07af5d71c0485279aa59aa87 "pdflatex"
   "sample.bib" 1668242673 5982 16dc12f758ea659b088f139b66d27b33 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1668462345 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" "main.pdf" "main" 1668462346
-  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" 1668462344 15842 9f1e935bcdb81b0ed2df534c97f13697 ""
+["pdflatex"] 1668516897 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" "main.pdf" "main" 1668516897
+  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" 1668516896 16684 5014fc8412b13348ad8a9e7f22e41f19 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -96,6 +94,7 @@
   "/usr/local/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty" 1579038678 6078 f1cb470c9199e7110a27851508ed7a5c ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption.sty" 1647548653 54291 b8e5c600d4aa37b48a740dd2a6c26163 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty" 1647548653 71241 d2cd3a1c5acef9cb31f945b93c0bb6e3 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/caption/subcaption.sty" 1645391520 11546 6c5257d230d8c5626812b45bc2f31212 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/cite/cite.sty" 1425427964 26218 19edeff8cdc2bcb704e8051dc55eb5a7 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/collectbox/collectbox.sty" 1337644648 9116 495d44b5a3e7be0c46c5d1f053f457f0 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty" 1561238569 51697 f8f08183cd2080d9d18a41432d651dfb ""
@@ -164,14 +163,18 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1663182575 2826440 204b26d63dad46f86a4a135a7f12f40a ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
+  "images/exsitu.png" 1668514678 28575 f01697c2989691fe8de0261476163cb3 ""
+  "images/exsitu2.png" 1668516664 40174 1a33f1cf84a172402a268f5ba11d82bc ""
+  "images/insitu.png" 1668515328 27802 82820c2d99f66f62f363889fb8f780a0 ""
+  "images/insitu2.png" 1668516867 39714 f1d3a1316d3e99c47a861cd7db52fc5f ""
   "jabbrv-ltwa-all.ldf" 1668240228 49106 b16f6a6b5ad3d4d1b6470ae6d7b13193 ""
   "jabbrv-ltwa-en.ldf" 1668240228 268656 eecf96eceaf960e3e748eee920427c1d ""
   "jabbrv.sty" 1668240228 15480 2106da179daf9d5a102407956ba23e0c ""
-  "main.aux" 1668462345 3130 646a2be246579c68423925675ad86949 "pdflatex"
+  "main.aux" 1668516897 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
   "main.out" 0 -1 0 "pdflatex"
-  "main.tex" 1668462344 15842 9f1e935bcdb81b0ed2df534c97f13697 ""
-  "wlscirep.cls" 1668243347 5885 30db60cb584fe8d0f35e2d00c3fab366 ""
+  "main.tex" 1668516896 16684 5014fc8412b13348ad8a9e7f22e41f19 ""
+  "wlscirep.cls" 1668509188 5887 21b26e0b0481f49cdcbb9c1eaae2f0bf ""
   (generated)
   "main.aux"
   "main.log"

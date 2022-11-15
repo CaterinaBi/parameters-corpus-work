@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  14 NOV 2022 21:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  15 NOV 2022 12:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -526,7 +526,11 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \sift@deathcycles=\count316
 \@vwid@loff=\dimen262
 \@vwid@roff=\dimen263
-)) (/usr/local/texlive/2022/texmf-dist/tex/latex/gb4e/gb4e.sty (/usr/local/texlive/2022/texmf-dist/tex/latex/gb4e/cgloss4e.sty
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+\c@subfigure=\count317
+\c@subtable=\count318
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/gb4e/gb4e.sty (/usr/local/texlive/2022/texmf-dist/tex/latex/gb4e/cgloss4e.sty
 \lineone=\box60
 \linetwo=\box61
 \linethree=\box62
@@ -536,51 +540,51 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \gline=\box66
 \glossglue=\skip75
 )
-\c@fnx=\count317
-\@xnumdepth=\count318
-\c@xnumi=\count319
-\c@xnumii=\count320
-\c@xnumiii=\count321
-\c@xnumiv=\count322
-\c@exx=\count323
-\c@rxnumi=\count324
-\c@rxnumii=\count325
-\c@rxnumiii=\count326
-\c@rxnumiv=\count327
+\c@fnx=\count319
+\@xnumdepth=\count320
+\c@xnumi=\count321
+\c@xnumii=\count322
+\c@xnumiii=\count323
+\c@xnumiv=\count324
+\c@exx=\count325
+\c@rxnumi=\count326
+\c@rxnumii=\count327
+\c@rxnumiii=\count328
+\c@rxnumiv=\count329
 \lcommentsep=\skip76
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
  (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count328
+\scratchcounter=\count330
 \scratchdimen=\dimen264
 \scratchbox=\box67
-\nofMPsegments=\count329
-\nofMParguments=\count330
+\nofMPsegments=\count331
+\nofMParguments=\count332
 \everyMPshowfont=\toks35
-\MPscratchCnt=\count331
+\MPscratchCnt=\count333
 \MPscratchDim=\dimen265
-\MPnumerator=\count332
-\makeMPintoPDFobject=\count333
+\MPnumerator=\count334
+\makeMPintoPDFobject=\count335
 \everyMPtoPDFconversion=\toks36
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -626,7 +630,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 30.
+Package hyperref Info: Link coloring ON on input line 32.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -634,25 +638,24 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count334
+\c@section@level=\count336
 )
-LaTeX Info: Redefining \ref on input line 30.
-LaTeX Info: Redefining \pageref on input line 30.
-LaTeX Info: Redefining \nameref on input line 30.
- (./main.out) (./main.out)
+LaTeX Info: Redefining \ref on input line 32.
+LaTeX Info: Redefining \pageref on input line 32.
+LaTeX Info: Redefining \nameref on input line 32.
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 30.
-LaTeX Info: Redefining \microtypecontext on input line 30.
-Package microtype Info: Applying patch `item' on input line 30.
-Package microtype Info: Applying patch `toc' on input line 30.
-Package microtype Info: Applying patch `eqnum' on input line 30.
+(lastpage)             ! on input line 32.
+LaTeX Info: Redefining \microtypecontext on input line 32.
+Package microtype Info: Applying patch `item' on input line 32.
+Package microtype Info: Applying patch `toc' on input line 32.
+Package microtype Info: Applying patch `eqnum' on input line 32.
 
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 30.
+Package microtype Warning: Unable to apply patch `footnote' on input line 32.
 
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -660,14 +663,14 @@ Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 30.
+LaTeX Info: Redefining \showhyphens on input line 32.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 38.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 40.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
@@ -675,7 +678,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 38.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 40.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
@@ -683,7 +686,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 38.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 40.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
@@ -691,15 +694,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ztmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 38.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 40.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 38.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 40.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 38.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 40.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-msa.cfg
@@ -707,216 +710,273 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 38.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 40.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
 
 
-Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 38.
+Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 40.
 
 
-Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 44.
+Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 46.
 
 
-Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 44.
+Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 46.
 
 
-Package natbib Warning: Citation `samo2022' on page 1 undefined on input line 44.
+Package natbib Warning: Citation `samo2022' on page 1 undefined on input line 46.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--46
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 49.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 51.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 
-Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 53.
-
-
 Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 55.
 
 
-Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 55.
+Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 57.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 57.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
 
-Package natbib Warning: Citation `chomsky2001' on page 1 undefined on input line 59.
+Package natbib Warning: Citation `chomsky2001' on page 1 undefined on input line 61.
 
 
-Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 67.
+Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 69.
 
 
-Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 75.
+Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 77.
 
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-Package natbib Warning: Citation `rizzi2017' on page 2 undefined on input line 108.
+Package natbib Warning: Citation `rizzi2017' on page 2 undefined on input line 110.
 
 
-Package natbib Warning: Citation `cinquerizzi2010' on page 2 undefined on input line 113.
+Package natbib Warning: Citation `cinquerizzi2010' on page 2 undefined on input line 115.
 
 
-Package natbib Warning: Citation `rizzicinque2016' on page 2 undefined on input line 113.
+Package natbib Warning: Citation `rizzicinque2016' on page 2 undefined on input line 115.
 
 
-Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 124.
+Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 126.
 
 
-Package natbib Warning: Citation `aboh2004morphosyntax' on page 2 undefined on input line 126.
+Package natbib Warning: Citation `aboh2004morphosyntax' on page 2 undefined on input line 128.
 
-LaTeX Font Info:    Calculating math sizes for size <7.4> on input line 131.
+
+LaTeX Warning: Reference `gungbe' on page 2 undefined on input line 128.
+
+LaTeX Font Info:    Calculating math sizes for size <7.4> on input line 133.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.47603> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 131.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 133.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <4.44003> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 131.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 133.
 
-Package natbib Warning: Citation `rizzi1997fine' on page 2 undefined on input line 137.
-
-
-Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 139.
+Package natbib Warning: Citation `rizzi1997fine' on page 2 undefined on input line 139.
 
 
-Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 148.
+Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 141.
 
 
-Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 180.
+Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 150.
 
 
-Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 180.
+Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 182.
+
+
+Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 182.
+
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 188.
 
 [2]
 
-Package natbib Warning: Citation `belletti2015' on page 3 undefined on input line 188.
+Package natbib Warning: Citation `belletti2015' on page 3 undefined on input line 190.
 
 
-Package natbib Warning: Citation `belletti2015' on page 3 undefined on input line 188.
+Package natbib Warning: Citation `belletti2015' on page 3 undefined on input line 190.
 
 
-Package natbib Warning: Citation `rizzi1997fine' on page 3 undefined on input line 188.
+Package natbib Warning: Citation `rizzi1997fine' on page 3 undefined on input line 190.
 
 
-Package natbib Warning: Citation `rizzi1997fine' on page 3 undefined on input line 188.
+Package natbib Warning: Citation `rizzi1997fine' on page 3 undefined on input line 190.
 
 
-Package natbib Warning: Citation `belletti2004' on page 3 undefined on input line 188.
+Package natbib Warning: Citation `belletti2004' on page 3 undefined on input line 190.
 
 
-Package natbib Warning: Citation `belletti2004' on page 3 undefined on input line 188.
+Package natbib Warning: Citation `belletti2004' on page 3 undefined on input line 190.
 
 
-Package natbib Warning: Citation `bianchi2013' on page 3 undefined on input line 196.
+Package natbib Warning: Citation `bianchi2013' on page 3 undefined on input line 198.
 
 
-Package natbib Warning: Citation `larrive2022' on page 3 undefined on input line 206.
+Package natbib Warning: Citation `larrive2022' on page 3 undefined on input line 208.
 
 
-Package natbib Warning: Citation `belletti2004' on page 3 undefined on input line 220.
+Package natbib Warning: Citation `belletti2004' on page 3 undefined on input line 222.
 
 
-Package natbib Warning: Citation `cardinaletti2001' on page 3 undefined on input line 220.
+Package natbib Warning: Citation `cardinaletti2001' on page 3 undefined on input line 222.
 
 
-Package natbib Warning: Citation `sameklodovici15' on page 3 undefined on input line 220.
+Package natbib Warning: Citation `sameklodovici15' on page 3 undefined on input line 222.
 
 
-Package natbib Warning: Citation `bonan21' on page 3 undefined on input line 220.
+Package natbib Warning: Citation `bonan21' on page 3 undefined on input line 222.
 
 
-Package natbib Warning: Citation `bonan22' on page 3 undefined on input line 234.
+Package natbib Warning: Citation `bonan22' on page 3 undefined on input line 236.
 
 
-Package natbib Warning: Citation `rizzi1997fine' on page 3 undefined on input line 254.
+Package natbib Warning: Citation `rizzi1997fine' on page 3 undefined on input line 256.
 
 
-Package natbib Warning: Citation `rizzi1997fine' on page 3 undefined on input line 254.
+Package natbib Warning: Citation `rizzi1997fine' on page 3 undefined on input line 256.
 
 
-Package natbib Warning: Citation `belletti2004' on page 3 undefined on input line 254.
+Package natbib Warning: Citation `belletti2004' on page 3 undefined on input line 256.
 
 
-Package natbib Warning: Citation `belletti2004' on page 3 undefined on input line 254.
+Package natbib Warning: Citation `belletti2004' on page 3 undefined on input line 256.
+
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 266.
 
 [3]
 
-Package natbib Warning: Citation `rizzi2017' on page 4 undefined on input line 264.
+Package natbib Warning: Citation `rizzi2017' on page 4 undefined on input line 266.
 
 
-Package natbib Warning: Citation `rizzi2017' on page 4 undefined on input line 264.
+Package natbib Warning: Citation `rizzi2017' on page 4 undefined on input line 266.
 
 
-Package natbib Warning: Citation `aldridge2010clause' on page 4 undefined on input line 264.
+Package natbib Warning: Citation `aldridge2010clause' on page 4 undefined on input line 266.
 
 
-Package natbib Warning: Citation `aldridge2009old' on page 4 undefined on input line 264.
+Package natbib Warning: Citation `aldridge2009old' on page 4 undefined on input line 266.
 
 
-Package natbib Warning: Citation `roberts2003syntactic' on page 4 undefined on input line 264.
+Package natbib Warning: Citation `roberts2003syntactic' on page 4 undefined on input line 266.
 
 
-Package natbib Warning: Citation `dadan2019' on page 4 undefined on input line 264.
+Package natbib Warning: Citation `dadan2019' on page 4 undefined on input line 266.
 
 
-Package natbib Warning: Citation `rizzi1997fine' on page 4 undefined on input line 299.
+Package natbib Warning: Citation `rizzi1997fine' on page 4 undefined on input line 301.
 
 
-Package natbib Warning: Citation `rizzi1997fine' on page 4 undefined on input line 299.
+Package natbib Warning: Citation `rizzi1997fine' on page 4 undefined on input line 301.
 
 
-Package natbib Warning: Citation `rizzi1997fine' on page 4 undefined on input line 299.
+Package natbib Warning: Citation `rizzi1997fine' on page 4 undefined on input line 301.
 
 
-Package natbib Warning: Citation `belletti2004' on page 4 undefined on input line 299.
+Package natbib Warning: Citation `belletti2004' on page 4 undefined on input line 301.
 
 
-Package natbib Warning: Citation `belletti2004' on page 4 undefined on input line 299.
+Package natbib Warning: Citation `belletti2004' on page 4 undefined on input line 301.
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 317.
-[4] (./main.bbl) 
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 319.
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 337.
+
+[4]
+<images/exsitu.png, id=57, 455.301pt x 339.669pt>
+File: images/exsitu.png Graphic file (type png)
+<use images/exsitu.png>
+Package pdftex.def Info: images/exsitu.png  used on input line 341.
+(pdftex.def)             Requested size: 245.2399pt x 182.95724pt.
+<images/exsitu2.png, id=59, 398.9304pt x 298.4751pt>
+File: images/exsitu2.png Graphic file (type png)
+<use images/exsitu2.png>
+Package pdftex.def Info: images/exsitu2.png  used on input line 345.
+(pdftex.def)             Requested size: 245.2399pt x 183.48595pt.
+<images/insitu.png, id=60, 455.301pt x 339.669pt>
+File: images/insitu.png Graphic file (type png)
+<use images/insitu.png>
+Package pdftex.def Info: images/insitu.png  used on input line 355.
+(pdftex.def)             Requested size: 245.2399pt x 182.95724pt.
+<images/insitu2.png, id=61, 398.9304pt x 300.6432pt>
+File: images/insitu2.png Graphic file (type png)
+<use images/insitu2.png>
+Package pdftex.def Info: images/insitu2.png  used on input line 359.
+(pdftex.def)             Requested size: 245.2399pt x 184.81877pt.
+
+Underfull \vbox (badness 2556) has occurred while \output is active []
+
+
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 372.
+
+[5 <./images/exsitu.png> <./images/exsitu2.png> <./images/insitu.png> <./images/insitu2.png>]
+No file main.bbl.
+
 AED: lastpage setting LastPage
-[5]
+
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 379.
+
+[6]
 
 Package natbib Warning: There were undefined citations.
 
 (./main.aux)
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25500 strings out of 478268
- 483862 string characters out of 5846347
- 829745 words of memory out of 5000000
- 43097 multiletter control sequences out of 15000+600000
+ 25645 strings out of 478268
+ 486667 string characters out of 5846347
+ 830866 words of memory out of 5000000
+ 43237 multiletter control sequences out of 15000+600000
  542685 words of font info for 266 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,12n,91p,1078b,675s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (5 pages, 81789 bytes).
+Output written on main.pdf (6 pages, 183107 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
- 38 named destinations out of 1000 (max. 500000)
- 96769 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 116 PDF objects out of 1000 (max. 8388607)
+ 87 compressed objects within 1 object stream
+ 41 named destinations out of 1000 (max. 500000)
+ 96789 words of extra memory for PDF output out of 106986 (max. 10000000)
 

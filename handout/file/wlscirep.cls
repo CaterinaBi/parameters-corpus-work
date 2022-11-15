@@ -51,10 +51,10 @@
 
 % \RequirePackage[numbers]{natbib}
 \RequirePackage[superscript,biblabel,nomove]{cite}
-\bibliographystyle{linquiry2}
+%\bibliographystyle{linquiry2}
 %% Nov 3, 2016: Support DOI
 %\bibliographystyle{naturemag-doi}
-\bibliographystyle{unsrtnat}
+%\bibliographystyle{unsrtnat}
               
 %
 % headers and footers
