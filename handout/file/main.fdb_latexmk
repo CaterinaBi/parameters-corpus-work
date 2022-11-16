@@ -5,8 +5,8 @@
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1668604657 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" "main.pdf" "main" 1668604657
-  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" 1668604657 25096 aaee6445dd175b106f4c017ae9053c12 ""
+["pdflatex"] 1668610917 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" "main.pdf" "main" 1668610917
+  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" 1668610916 27495 71fc70e7581acec1046994c96d33a8c5 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -168,16 +168,17 @@
   "images/exsitu.png" 1668514678 28575 f01697c2989691fe8de0261476163cb3 ""
   "images/exsitu2.png" 1668516664 40174 1a33f1cf84a172402a268f5ba11d82bc ""
   "images/exsituinsitu.png" 1668587061 30474 43437a4889ad80063be3721aef2c0dd6 ""
+  "images/focus.png" 1668608776 461054 07888dc4be5bd9e30715107976f8511d ""
   "images/insitu.png" 1668515328 27802 82820c2d99f66f62f363889fb8f780a0 ""
   "images/insitu2.png" 1668516867 39714 f1d3a1316d3e99c47a861cd7db52fc5f ""
   "images/que.png" 1668600469 27773 c6d28aacd60ae0e26c2ee828392b2833 ""
   "jabbrv-ltwa-all.ldf" 1668240228 49106 b16f6a6b5ad3d4d1b6470ae6d7b13193 ""
   "jabbrv-ltwa-en.ldf" 1668240228 268656 eecf96eceaf960e3e748eee920427c1d ""
   "jabbrv.sty" 1668240228 15480 2106da179daf9d5a102407956ba23e0c ""
-  "main.aux" 1668604657 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.aux" 1668610917 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
   "main.out" 0 -1 0 "pdflatex"
-  "main.tex" 1668604657 25096 aaee6445dd175b106f4c017ae9053c12 ""
+  "main.tex" 1668610916 27495 71fc70e7581acec1046994c96d33a8c5 ""
   "wlscirep.cls" 1668509188 5887 21b26e0b0481f49cdcbb9c1eaae2f0bf ""
   (generated)
   "main.aux"
