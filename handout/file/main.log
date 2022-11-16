@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  16 NOV 2022 12:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  16 NOV 2022 13:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -552,11 +552,7 @@ Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
 \c@rxnumiii=\count328
 \c@rxnumiv=\count329
 \lcommentsep=\skip76
-) (./main.aux
-
-LaTeX Warning: Label `tab:samp' multiply defined.
-
-)
+) (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -647,7 +643,6 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 32.
 LaTeX Info: Redefining \pageref on input line 32.
 LaTeX Info: Redefining \nameref on input line 32.
- (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
@@ -794,6 +789,9 @@ Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on in
 
 Package natbib Warning: Citation `aboh2004morphosyntax' on page 2 undefined on input line 128.
 
+
+LaTeX Warning: Reference `gungbe' on page 2 undefined on input line 128.
+
 LaTeX Font Info:    Calculating math sizes for size <7.4> on input line 133.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.47603> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 133.
@@ -813,6 +811,9 @@ Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on in
 
 
 Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 182.
+
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 188.
 
 [2]
 
@@ -866,6 +867,9 @@ Package natbib Warning: Citation `belletti2004' on page 3 undefined on input lin
 
 Package natbib Warning: Citation `belletti2004' on page 3 undefined on input line 256.
 
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 266.
+
 [3]
 
 Package natbib Warning: Citation `rizzi2017' on page 4 undefined on input line 266.
@@ -902,34 +906,41 @@ Package natbib Warning: Citation `belletti2004' on page 4 undefined on input lin
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 319.
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 337.
+
 [4]
-<images/exsitu.png, id=62, 455.301pt x 339.669pt>
+<images/exsitu.png, id=57, 455.301pt x 339.669pt>
 File: images/exsitu.png Graphic file (type png)
 <use images/exsitu.png>
 Package pdftex.def Info: images/exsitu.png  used on input line 341.
 (pdftex.def)             Requested size: 245.2399pt x 182.95724pt.
-<images/exsitu2.png, id=64, 398.9304pt x 298.4751pt>
+<images/exsitu2.png, id=59, 398.9304pt x 298.4751pt>
 File: images/exsitu2.png Graphic file (type png)
 <use images/exsitu2.png>
 Package pdftex.def Info: images/exsitu2.png  used on input line 345.
 (pdftex.def)             Requested size: 245.2399pt x 183.48595pt.
-<images/insitu.png, id=65, 455.301pt x 339.669pt>
+<images/insitu.png, id=60, 455.301pt x 339.669pt>
 File: images/insitu.png Graphic file (type png)
 <use images/insitu.png>
 Package pdftex.def Info: images/insitu.png  used on input line 355.
 (pdftex.def)             Requested size: 245.2399pt x 182.95724pt.
-<images/insitu2.png, id=66, 398.9304pt x 300.6432pt>
+<images/insitu2.png, id=61, 398.9304pt x 300.6432pt>
 File: images/insitu2.png Graphic file (type png)
 <use images/insitu2.png>
 Package pdftex.def Info: images/insitu2.png  used on input line 359.
 (pdftex.def)             Requested size: 245.2399pt x 184.81877pt.
- [5 <./images/exsitu.png> <./images/exsitu2.png> <./images/insitu.png> <./images/insitu2.png>]
-<images/VS.png, id=80, 455.301pt x 339.669pt>
+
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 385.
+
+[5 <./images/exsitu.png> <./images/exsitu2.png> <./images/insitu.png> <./images/insitu2.png>]
+<images/VS.png, id=74, 455.301pt x 339.669pt>
 File: images/VS.png Graphic file (type png)
 <use images/VS.png>
 Package pdftex.def Info: images/VS.png  used on input line 426.
 (pdftex.def)             Requested size: 256.0748pt x 191.0426pt.
-<images/exsituinsitu.png, id=81, 392.4261pt x 298.4751pt>
+<images/exsituinsitu.png, id=75, 392.4261pt x 298.4751pt>
 File: images/exsituinsitu.png Graphic file (type png)
 <use images/exsituinsitu.png>
 Package pdftex.def Info: images/exsituinsitu.png  used on input line 433.
@@ -937,44 +948,194 @@ Package pdftex.def Info: images/exsituinsitu.png  used on input line 433.
 
 Underfull \vbox (badness 1496) has occurred while \output is active []
 
- [6 <./images/VS.png>]
-<images/estceque.png, id=93, 392.4261pt x 298.4751pt>
+
+
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 437.
+
+[6 <./images/VS.png>]
+<images/estceque.png, id=86, 392.4261pt x 298.4751pt>
 File: images/estceque.png Graphic file (type png)
 <use images/estceque.png>
-Package pdftex.def Info: images/estceque.png  used on input line 464.
+Package pdftex.def Info: images/estceque.png  used on input line 500.
 (pdftex.def)             Requested size: 256.0748pt x 194.7762pt.
- [7 <./images/exsituinsitu.png> <./images/estceque.png>]
-<images/que.png, id=105, 466.8642pt x 339.669pt>
+
+
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 504.
+
+[7 <./images/exsituinsitu.png>]
+<images/que.png, id=97, 466.8642pt x 339.669pt>
 File: images/que.png Graphic file (type png)
 <use images/que.png>
-Package pdftex.def Info: images/que.png  used on input line 491.
+Package pdftex.def Info: images/que.png  used on input line 527.
 (pdftex.def)             Requested size: 256.0748pt x 186.31578pt.
- (./main.bbl) 
+
+
+LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 547.
+
+[8 <./images/estceque.png> <./images/que.png>]
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:553: Undefined control sequence.
+\enit@endenumerate ->\enit@after 
+                                 \endlist \ifx \enit@series \relax \else \if...
+l.553 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:553: Undefined control sequence.
+\enit@endenumerate ...\else \ifnum \enit@resuming 
+                                                  =\@ne \enit@setresumekeys ...
+l.553 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:553: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.553 \end{enumerate}
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:553: Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.553 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:553: Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.553 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:553: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.553 \end{enumerate}
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:553: Undefined control sequence.
+<argument> enit@resume@series@\enit@series 
+                                           
+l.553 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:553: Undefined control sequence.
+\enit@endenumerate ...t \fi \ifnum \enit@resuming 
+                                                  =\thr@@ \enit@setresumekey...
+l.553 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:553: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.553 \end{enumerate}
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:553: Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.553 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:553: Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.553 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:553: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.553 \end{enumerate}
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+No file main.bbl.
+
 AED: lastpage setting LastPage
-[8 <./images/que.png>]
+
+LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 579.
+
+[9]
 
 Package natbib Warning: There were undefined citations.
 
 (./main.aux)
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25718 strings out of 478268
- 487678 string characters out of 5846347
- 832143 words of memory out of 5000000
- 43269 multiletter control sequences out of 15000+600000
- 544907 words of font info for 276 fonts, out of 8000000 for 9000
+ 25731 strings out of 478268
+ 487821 string characters out of 5846347
+ 830866 words of memory out of 5000000
+ 43271 multiletter control sequences out of 15000+600000
+ 545167 words of font info for 280 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,12n,91p,1078b,675s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (8 pages, 276256 bytes).
+Output written on main.pdf (9 pages, 279602 bytes).
 PDF statistics:
- 161 PDF objects out of 1000 (max. 8388607)
- 121 compressed objects within 2 object streams
- 58 named destinations out of 1000 (max. 500000)
+ 169 PDF objects out of 1000 (max. 8388607)
+ 128 compressed objects within 2 object streams
+ 69 named destinations out of 1000 (max. 500000)
  98857 words of extra memory for PDF output out of 106986 (max. 10000000)
 
