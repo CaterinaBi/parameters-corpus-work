@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1668589664 "main.aux" "main.bbl" "main" 1668589676
-  "main.aux" 1668589676 5611 cadbf09d3962f64b518158d8b477e710 "pdflatex"
+["bibtex main"] 1668600514 "main.aux" "main.bbl" "main" 1668601859
+  "main.aux" 1668601859 5943 198b236bde675285220816b3ecd751ee "pdflatex"
   "sample.bib" 1668242673 5982 16dc12f758ea659b088f139b66d27b33 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1668589676 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" "main.pdf" "main" 1668589676
-  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" 1668589675 20407 aecb374f2420e09ff0237b0262181910 ""
+["pdflatex"] 1668601858 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" "main.pdf" "main" 1668601859
+  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" 1668601858 22006 dbc8879273a284e3a13c3de3e1c8027d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -163,20 +163,21 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1663182575 2826440 204b26d63dad46f86a4a135a7f12f40a ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "images/VS.png" 1668582800 26919 8df0d6a81cb7dda18bf7f134cbfc50b0 ""
+  "images/VS.png" 1668601160 26241 cea957491e0f88a16585b697dcee376d ""
   "images/estceque.png" 1668589438 31013 48e7fdf6e6e03ae38e43c4945cbd9507 ""
   "images/exsitu.png" 1668514678 28575 f01697c2989691fe8de0261476163cb3 ""
   "images/exsitu2.png" 1668516664 40174 1a33f1cf84a172402a268f5ba11d82bc ""
   "images/exsituinsitu.png" 1668587061 30474 43437a4889ad80063be3721aef2c0dd6 ""
   "images/insitu.png" 1668515328 27802 82820c2d99f66f62f363889fb8f780a0 ""
   "images/insitu2.png" 1668516867 39714 f1d3a1316d3e99c47a861cd7db52fc5f ""
+  "images/que.png" 1668600469 27773 c6d28aacd60ae0e26c2ee828392b2833 ""
   "jabbrv-ltwa-all.ldf" 1668240228 49106 b16f6a6b5ad3d4d1b6470ae6d7b13193 ""
   "jabbrv-ltwa-en.ldf" 1668240228 268656 eecf96eceaf960e3e748eee920427c1d ""
   "jabbrv.sty" 1668240228 15480 2106da179daf9d5a102407956ba23e0c ""
-  "main.aux" 1668589676 5611 cadbf09d3962f64b518158d8b477e710 "pdflatex"
+  "main.aux" 1668601859 5943 198b236bde675285220816b3ecd751ee "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
   "main.out" 0 -1 0 "pdflatex"
-  "main.tex" 1668589675 20407 aecb374f2420e09ff0237b0262181910 ""
+  "main.tex" 1668601858 22006 dbc8879273a284e3a13c3de3e1c8027d ""
   "wlscirep.cls" 1668509188 5887 21b26e0b0481f49cdcbb9c1eaae2f0bf ""
   (generated)
   "main.aux"
