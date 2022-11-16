@@ -50,8 +50,8 @@
 % Set up of the bibliography style
 
 % \RequirePackage[numbers]{natbib}
-\RequirePackage[superscript,biblabel,nomove]{cite}
-\bibliographystyle{linquiry2}
+%\RequirePackage[superscript,biblabel,nomove]{cite}
+%\bibliographystyle{linquiry2}
 %% Nov 3, 2016: Support DOI
 %\bibliographystyle{naturemag-doi}
 %\bibliographystyle{unsrtnat}
