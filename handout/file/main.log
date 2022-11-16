@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  16 NOV 2022 17:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  16 NOV 2022 18:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -564,24 +564,24 @@ File: upsy.fd 2001/06/04 font definitions for U/psy.
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
  (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count330
@@ -639,7 +639,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 33.
+Package hyperref Info: Link coloring ON on input line 32.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -649,22 +649,22 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count336
 )
-LaTeX Info: Redefining \ref on input line 33.
-LaTeX Info: Redefining \pageref on input line 33.
-LaTeX Info: Redefining \nameref on input line 33.
+LaTeX Info: Redefining \ref on input line 32.
+LaTeX Info: Redefining \pageref on input line 32.
+LaTeX Info: Redefining \nameref on input line 32.
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 33.
-LaTeX Info: Redefining \microtypecontext on input line 33.
-Package microtype Info: Applying patch `item' on input line 33.
-Package microtype Info: Applying patch `toc' on input line 33.
-Package microtype Info: Applying patch `eqnum' on input line 33.
+(lastpage)             ! on input line 32.
+LaTeX Info: Redefining \microtypecontext on input line 32.
+Package microtype Info: Applying patch `item' on input line 32.
+Package microtype Info: Applying patch `toc' on input line 32.
+Package microtype Info: Applying patch `eqnum' on input line 32.
 
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 33.
+Package microtype Warning: Unable to apply patch `footnote' on input line 32.
 
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -672,14 +672,14 @@ Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 33.
+LaTeX Info: Redefining \showhyphens on input line 32.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 41.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 40.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
@@ -687,7 +687,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 41.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 40.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
@@ -695,7 +695,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 41.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 40.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
@@ -703,15 +703,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ztmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 41.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 40.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 41.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 40.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 41.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 40.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-msa.cfg
@@ -719,83 +719,79 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 41.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 40.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
 
 
-Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 41.
-
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
-
-Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 47.
+Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 40.
 
 
-Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 47.
+Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 46.
 
 
-Package natbib Warning: Citation `samo2022' on page 1 undefined on input line 47.
+Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 46.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--49
+Package natbib Warning: Citation `samo2022' on page 1 undefined on input line 46.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
 
  []
 
 
-Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 57.
+Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 56.
 
 
-Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 59.
+Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 58.
 
 
-Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 59.
+Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 58.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
 
 
-Package natbib Warning: Citation `chomsky2001' on page 1 undefined on input line 63.
+Package natbib Warning: Citation `chomsky2001' on page 1 undefined on input line 62.
 
 
-Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 71.
+Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 70.
 
 
-Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 79.
+Package natbib Warning: Citation `rizzi2017' on page 1 undefined on input line 78.
 
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-Package natbib Warning: Citation `rizzi2017' on page 2 undefined on input line 112.
+Package natbib Warning: Citation `rizzi2017' on page 2 undefined on input line 111.
 
 
-Package natbib Warning: Citation `cinquerizzi2010' on page 2 undefined on input line 117.
+Package natbib Warning: Citation `cinquerizzi2010' on page 2 undefined on input line 116.
 
 
-Package natbib Warning: Citation `rizzicinque2016' on page 2 undefined on input line 117.
+Package natbib Warning: Citation `rizzicinque2016' on page 2 undefined on input line 116.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:126: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:125: Undefined control sequence.
 \enit@endenumerate ->\enit@after 
                                  \endlist \ifx \enit@series \relax \else \if...
-l.126 \end{enumerate}
+l.125 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -803,10 +799,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:126: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:125: Undefined control sequence.
 \enit@endenumerate ...\else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.126 \end{enumerate}
+l.125 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -814,19 +810,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:126: Missing number, treated as zero.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:125: Missing number, treated as zero.
 <to be read again> 
                    =
-l.126 \end{enumerate}
+l.125 \end{enumerate}
                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:126: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:125: Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.126 \end{enumerate}
+l.125 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -834,10 +830,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:126: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:125: Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.126 \end{enumerate}
+l.125 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -845,19 +841,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:126: Missing number, treated as zero.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:125: Missing number, treated as zero.
 <to be read again> 
                    =
-l.126 \end{enumerate}
+l.125 \end{enumerate}
                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:126: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:125: Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.126 \end{enumerate}
+l.125 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -865,10 +861,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:126: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:125: Undefined control sequence.
 \enit@endenumerate ...t \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.126 \end{enumerate}
+l.125 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -876,19 +872,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:126: Missing number, treated as zero.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:125: Missing number, treated as zero.
 <to be read again> 
                    =
-l.126 \end{enumerate}
+l.125 \end{enumerate}
                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:126: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:125: Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.126 \end{enumerate}
+l.125 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -896,10 +892,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:126: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:125: Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.126 \end{enumerate}
+l.125 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -907,451 +903,323 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:126: Missing number, treated as zero.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:125: Missing number, treated as zero.
 <to be read again> 
                    =
-l.126 \end{enumerate}
+l.125 \end{enumerate}
                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
 
-Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 128.
+Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 127.
 
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 130.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 129.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 
-Package natbib Warning: Citation `aboh2004morphosyntax' on page 2 undefined on input line 130.
+Package natbib Warning: Citation `aboh2004morphosyntax' on page 2 undefined on input line 129.
 
 
-LaTeX Warning: Reference `gungbe' on page 2 undefined on input line 130.
+LaTeX Warning: Reference `gungbe' on page 2 undefined on input line 129.
 
-LaTeX Font Info:    Calculating math sizes for size <7.4> on input line 135.
+LaTeX Font Info:    Calculating math sizes for size <7.4> on input line 134.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.47603> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 135.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 134.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <4.44003> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 135.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 134.
 
-Package natbib Warning: Citation `rizzi1997fine' on page 2 undefined on input line 141.
-
-
-Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 143.
+Package natbib Warning: Citation `rizzi1997fine' on page 2 undefined on input line 140.
 
 
-Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 152.
+Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 142.
 
 
-Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 184.
+Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 151.
 
 
-Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 184.
+Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 183.
 
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 186.
+Package natbib Warning: Citation `samo2019cartography' on page 2 undefined on input line 183.
+
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 185.
 
 [2]
-<images/focus.png, id=41, 534.99875pt x 363.3575pt>
+<images/focus.png, id=39, 534.99875pt x 363.3575pt>
 File: images/focus.png Graphic file (type png)
 <use images/focus.png>
-Package pdftex.def Info: images/focus.png  used on input line 197.
+Package pdftex.def Info: images/focus.png  used on input line 202.
 (pdftex.def)             Requested size: 256.0748pt x 173.92725pt.
 
 
-Package natbib Warning: Citation `belletti2015' on page 3 undefined on input line 204.
+Package natbib Warning: Citation `belletti2015' on page 3 undefined on input line 209.
 
 
-Package natbib Warning: Citation `belletti2015' on page 3 undefined on input line 204.
+Package natbib Warning: Citation `belletti2015' on page 3 undefined on input line 209.
 
 
-Package natbib Warning: Citation `rizzi1997fine' on page 3 undefined on input line 204.
+Package natbib Warning: Citation `rizzi1997fine' on page 3 undefined on input line 209.
 
 
-Package natbib Warning: Citation `rizzi1997fine' on page 3 undefined on input line 204.
+Package natbib Warning: Citation `rizzi1997fine' on page 3 undefined on input line 209.
 
 
-Package natbib Warning: Citation `belletti2004' on page 3 undefined on input line 204.
+Package natbib Warning: Citation `belletti2004' on page 3 undefined on input line 209.
 
 
-Package natbib Warning: Citation `belletti2004' on page 3 undefined on input line 204.
+Package natbib Warning: Citation `belletti2004' on page 3 undefined on input line 209.
 
 
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 241.
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 227.
 
 [3 <./images/focus.png>]
 
-Package natbib Warning: Citation `bianchi2013' on page 4 undefined on input line 247.
+Package natbib Warning: Citation `bianchi2013' on page 4 undefined on input line 252.
 
 
-Package natbib Warning: Citation `larrive2022' on page 4 undefined on input line 298.
+Package natbib Warning: Citation `larrive2022' on page 4 undefined on input line 303.
 
 
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 324.
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 329.
 
 [4]
 
-Package natbib Warning: Citation `belletti2004' on page 5 undefined on input line 327.
+Package natbib Warning: Citation `belletti2004' on page 5 undefined on input line 332.
 
 
-Package natbib Warning: Citation `cardinaletti2001' on page 5 undefined on input line 327.
+Package natbib Warning: Citation `cardinaletti2001' on page 5 undefined on input line 332.
 
 
-Package natbib Warning: Citation `sameklodovici15' on page 5 undefined on input line 327.
+Package natbib Warning: Citation `sameklodovici15' on page 5 undefined on input line 332.
 
 
-Package natbib Warning: Citation `bonan21' on page 5 undefined on input line 327.
+Package natbib Warning: Citation `bonan21' on page 5 undefined on input line 332.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 347.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 347.
+
+Package natbib Warning: Citation `bonan22' on page 5 undefined on input line 370.
 
 
-Package natbib Warning: Citation `bonan22' on page 5 undefined on input line 365.
+Package natbib Warning: Citation `rizzi2017' on page 5 undefined on input line 392.
 
 
-Package natbib Warning: Citation `rizzi2017' on page 5 undefined on input line 387.
+Package natbib Warning: Citation `rizzi2017' on page 5 undefined on input line 392.
 
 
-Package natbib Warning: Citation `rizzi2017' on page 5 undefined on input line 387.
+Package natbib Warning: Citation `aldridge2010clause' on page 5 undefined on input line 392.
 
 
-Package natbib Warning: Citation `aldridge2010clause' on page 5 undefined on input line 387.
+Package natbib Warning: Citation `aldridge2009old' on page 5 undefined on input line 392.
 
 
-Package natbib Warning: Citation `aldridge2009old' on page 5 undefined on input line 387.
+Package natbib Warning: Citation `roberts2003syntactic' on page 5 undefined on input line 392.
 
 
-Package natbib Warning: Citation `roberts2003syntactic' on page 5 undefined on input line 387.
+Package natbib Warning: Citation `dadan2019' on page 5 undefined on input line 392.
 
 
-Package natbib Warning: Citation `dadan2019' on page 5 undefined on input line 387.
-
-
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 410.
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 412.
 
 [5]
-<images/exsitu.png, id=90, 455.301pt x 339.669pt>
+<images/exsitu.png, id=89, 455.301pt x 339.669pt>
 File: images/exsitu.png Graphic file (type png)
 <use images/exsitu.png>
-Package pdftex.def Info: images/exsitu.png  used on input line 460.
+Package pdftex.def Info: images/exsitu.png  used on input line 466.
 (pdftex.def)             Requested size: 245.2399pt x 182.95724pt.
-<images/exsitu2.png, id=91, 398.9304pt x 298.4751pt>
+<images/exsitu2.png, id=90, 398.9304pt x 298.4751pt>
 File: images/exsitu2.png Graphic file (type png)
 <use images/exsitu2.png>
-Package pdftex.def Info: images/exsitu2.png  used on input line 464.
+Package pdftex.def Info: images/exsitu2.png  used on input line 470.
 (pdftex.def)             Requested size: 245.2399pt x 183.48595pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/insitu.png, id=92, 455.301pt x 339.669pt>
+<images/insitu.png, id=91, 455.301pt x 339.669pt>
 File: images/insitu.png Graphic file (type png)
 <use images/insitu.png>
-Package pdftex.def Info: images/insitu.png  used on input line 474.
+Package pdftex.def Info: images/insitu.png  used on input line 480.
 (pdftex.def)             Requested size: 245.2399pt x 182.95724pt.
-<images/insitu2.png, id=93, 398.9304pt x 300.6432pt>
+<images/insitu2.png, id=92, 398.9304pt x 300.6432pt>
 File: images/insitu2.png Graphic file (type png)
 <use images/insitu2.png>
-Package pdftex.def Info: images/insitu2.png  used on input line 478.
+Package pdftex.def Info: images/insitu2.png  used on input line 484.
 (pdftex.def)             Requested size: 245.2399pt x 184.81877pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:514: Undefined control sequence.
-\enit@endenumerate ->\enit@after 
-                                 \endlist \ifx \enit@series \relax \else \if...
-l.514     \end{enumerate}
-                         
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:514: Undefined control sequence.
-\enit@endenumerate ...\else \ifnum \enit@resuming 
-                                                  =\@ne \enit@setresumekeys ...
-l.514     \end{enumerate}
-                         
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:514: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.514     \end{enumerate}
-                         
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:514: Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.514     \end{enumerate}
-                         
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:514: Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.514     \end{enumerate}
-                         
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:514: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.514     \end{enumerate}
-                         
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:514: Undefined control sequence.
-<argument> enit@resume@series@\enit@series 
-                                           
-l.514     \end{enumerate}
-                         
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:514: Undefined control sequence.
-\enit@endenumerate ...t \fi \ifnum \enit@resuming 
-                                                  =\thr@@ \enit@setresumekey...
-l.514     \end{enumerate}
-                         
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:514: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.514     \end{enumerate}
-                         
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:514: Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.514     \end{enumerate}
-                         
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:514: Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.514     \end{enumerate}
-                         
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:514: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.514     \end{enumerate}
-                         
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 541.
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 514.
 
 [6]
-<images/VS.png, id=107, 455.301pt x 339.669pt>
-File: images/VS.png Graphic file (type png)
-<use images/VS.png>
-Package pdftex.def Info: images/VS.png  used on input line 545.
-(pdftex.def)             Requested size: 256.0748pt x 191.0426pt.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:520: Undefined control sequence.
+\enit@endenumerate ->\enit@after 
+                                 \endlist \ifx \enit@series \relax \else \if...
+l.520     \end{enumerate}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:520: Undefined control sequence.
+\enit@endenumerate ...\else \ifnum \enit@resuming 
+                                                  =\@ne \enit@setresumekeys ...
+l.520     \end{enumerate}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:520: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.520     \end{enumerate}
+                         
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:520: Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.520     \end{enumerate}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:520: Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.520     \end{enumerate}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:520: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.520     \end{enumerate}
+                         
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:520: Undefined control sequence.
+<argument> enit@resume@series@\enit@series 
+                                           
+l.520     \end{enumerate}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:520: Undefined control sequence.
+\enit@endenumerate ...t \fi \ifnum \enit@resuming 
+                                                  =\thr@@ \enit@setresumekey...
+l.520     \end{enumerate}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:520: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.520     \end{enumerate}
+                         
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:520: Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.520     \end{enumerate}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:520: Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.520     \end{enumerate}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:520: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.520     \end{enumerate}
+                         
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<images/exsituinsitu.png, id=108, 392.4261pt x 298.4751pt>
-File: images/exsituinsitu.png Graphic file (type png)
-<use images/exsituinsitu.png>
-Package pdftex.def Info: images/exsituinsitu.png  used on input line 552.
-(pdftex.def)             Requested size: 256.0748pt x 194.7762pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3942) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 556.
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 548.
 
 [7 <./images/exsitu.png> <./images/exsitu2.png> <./images/insitu.png> <./images/insitu2.png>]
-
-LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 591.
-
-[8 <./images/VS.png> <./images/exsituinsitu.png>]
-<images/estceque.png, id=131, 392.4261pt x 298.4751pt>
-File: images/estceque.png Graphic file (type png)
-<use images/estceque.png>
-Package pdftex.def Info: images/estceque.png  used on input line 618.
+<images/VS.png, id=118, 455.301pt x 339.669pt>
+File: images/VS.png Graphic file (type png)
+<use images/VS.png>
+Package pdftex.def Info: images/VS.png  used on input line 551.
+(pdftex.def)             Requested size: 256.0748pt x 191.0426pt.
+<images/exsituinsitu.png, id=119, 392.4261pt x 298.4751pt>
+File: images/exsituinsitu.png Graphic file (type png)
+<use images/exsituinsitu.png>
+Package pdftex.def Info: images/exsituinsitu.png  used on input line 558.
 (pdftex.def)             Requested size: 256.0748pt x 194.7762pt.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:641: Undefined control sequence.
-\enit@endenumerate ->\enit@after 
-                                 \endlist \ifx \enit@series \relax \else \if...
-l.641 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:641: Undefined control sequence.
-\enit@endenumerate ...\else \ifnum \enit@resuming 
-                                                  =\@ne \enit@setresumekeys ...
-l.641 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 580.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:641: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.641 \end{enumerate}
-                     
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+[8 <./images/VS.png> <./images/exsituinsitu.png>]
+<images/estceque.png, id=129, 392.4261pt x 298.4751pt>
+File: images/estceque.png Graphic file (type png)
+<use images/estceque.png>
+Package pdftex.def Info: images/estceque.png  used on input line 624.
+(pdftex.def)             Requested size: 256.0748pt x 194.7762pt.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:641: Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.641 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:641: Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.641 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:641: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.641 \end{enumerate}
-                     
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:641: Undefined control sequence.
-<argument> enit@resume@series@\enit@series 
-                                           
-l.641 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:641: Undefined control sequence.
-\enit@endenumerate ...t \fi \ifnum \enit@resuming 
-                                                  =\thr@@ \enit@setresumekey...
-l.641 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:641: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.641 \end{enumerate}
-                     
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:641: Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.641 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:641: Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.641 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:641: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.641 \end{enumerate}
-                     
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-<images/que.png, id=132, 466.8642pt x 339.669pt>
-File: images/que.png Graphic file (type png)
-<use images/que.png>
-Package pdftex.def Info: images/que.png  used on input line 645.
-(pdftex.def)             Requested size: 256.0748pt x 186.31578pt.
-
-LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 649.
+LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 643.
 
 [9 <./images/estceque.png>]
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:671: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:647: Undefined control sequence.
 \enit@endenumerate ->\enit@after 
                                  \endlist \ifx \enit@series \relax \else \if...
-l.671 \end{enumerate}
+l.647 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1359,10 +1227,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:671: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:647: Undefined control sequence.
 \enit@endenumerate ...\else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.671 \end{enumerate}
+l.647 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1370,19 +1238,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:671: Missing number, treated as zero.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:647: Missing number, treated as zero.
 <to be read again> 
                    =
-l.671 \end{enumerate}
+l.647 \end{enumerate}
                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:671: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:647: Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.671 \end{enumerate}
+l.647 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1390,10 +1258,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:671: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:647: Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.671 \end{enumerate}
+l.647 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1401,19 +1269,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:671: Missing number, treated as zero.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:647: Missing number, treated as zero.
 <to be read again> 
                    =
-l.671 \end{enumerate}
+l.647 \end{enumerate}
                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:671: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:647: Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.671 \end{enumerate}
+l.647 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1421,10 +1289,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:671: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:647: Undefined control sequence.
 \enit@endenumerate ...t \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.671 \end{enumerate}
+l.647 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1432,19 +1300,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:671: Missing number, treated as zero.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:647: Missing number, treated as zero.
 <to be read again> 
                    =
-l.671 \end{enumerate}
+l.647 \end{enumerate}
                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:671: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:647: Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.671 \end{enumerate}
+l.647 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1452,10 +1320,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:671: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:647: Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.671 \end{enumerate}
+l.647 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1463,19 +1331,24 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:671: Missing number, treated as zero.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:647: Missing number, treated as zero.
 <to be read again> 
                    =
-l.671 \end{enumerate}
+l.647 \end{enumerate}
                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:688: Undefined control sequence.
+<images/que.png, id=141, 466.8642pt x 339.669pt>
+File: images/que.png Graphic file (type png)
+<use images/que.png>
+Package pdftex.def Info: images/que.png  used on input line 651.
+(pdftex.def)             Requested size: 256.0748pt x 186.31578pt.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:677: Undefined control sequence.
 \enit@endenumerate ->\enit@after 
                                  \endlist \ifx \enit@series \relax \else \if...
-l.688 \end{enumerate}
+l.677 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1483,10 +1356,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:688: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:677: Undefined control sequence.
 \enit@endenumerate ...\else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.688 \end{enumerate}
+l.677 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1494,19 +1367,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:688: Missing number, treated as zero.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:677: Missing number, treated as zero.
 <to be read again> 
                    =
-l.688 \end{enumerate}
+l.677 \end{enumerate}
                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:688: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:677: Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.688 \end{enumerate}
+l.677 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1514,10 +1387,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:688: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:677: Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.688 \end{enumerate}
+l.677 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1525,19 +1398,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:688: Missing number, treated as zero.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:677: Missing number, treated as zero.
 <to be read again> 
                    =
-l.688 \end{enumerate}
+l.677 \end{enumerate}
                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:688: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:677: Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.688 \end{enumerate}
+l.677 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1545,10 +1418,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:688: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:677: Undefined control sequence.
 \enit@endenumerate ...t \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.688 \end{enumerate}
+l.677 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1556,19 +1429,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:688: Missing number, treated as zero.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:677: Missing number, treated as zero.
 <to be read again> 
                    =
-l.688 \end{enumerate}
+l.677 \end{enumerate}
                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:688: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:677: Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.688 \end{enumerate}
+l.677 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1576,10 +1449,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:688: Undefined control sequence.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:677: Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.688 \end{enumerate}
+l.677 \end{enumerate}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1587,24 +1460,148 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:688: Missing number, treated as zero.
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:677: Missing number, treated as zero.
 <to be read again> 
                    =
-l.688 \end{enumerate}
+l.677 \end{enumerate}
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:694: Undefined control sequence.
+\enit@endenumerate ->\enit@after 
+                                 \endlist \ifx \enit@series \relax \else \if...
+l.694 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:694: Undefined control sequence.
+\enit@endenumerate ...\else \ifnum \enit@resuming 
+                                                  =\@ne \enit@setresumekeys ...
+l.694 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:694: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.694 \end{enumerate}
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:694: Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.694 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:694: Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.694 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:694: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.694 \end{enumerate}
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:694: Undefined control sequence.
+<argument> enit@resume@series@\enit@series 
+                                           
+l.694 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:694: Undefined control sequence.
+\enit@endenumerate ...t \fi \ifnum \enit@resuming 
+                                                  =\thr@@ \enit@setresumekey...
+l.694 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:694: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.694 \end{enumerate}
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:694: Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.694 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:694: Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.694 \end{enumerate}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex:694: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.694 \end{enumerate}
                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
 
-LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 698.
+LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 700.
 
 [10 <./images/que.png>]
 No file main.bbl.
 
 AED: lastpage setting LastPage
 
-LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 704.
+LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 710.
 
 [11]
 
@@ -1627,18 +1624,18 @@ Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25881 strings out of 478268
- 490108 string characters out of 5846347
- 844423 words of memory out of 5000000
- 43351 multiletter control sequences out of 15000+600000
- 557077 words of font info for 313 fonts, out of 8000000 for 9000
+ 25884 strings out of 478268
+ 490189 string characters out of 5846347
+ 838494 words of memory out of 5000000
+ 43355 multiletter control sequences out of 15000+600000
+ 561160 words of font info for 312 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,12n,91p,1078b,523s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,12n,91p,1078b,590s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on main.pdf (11 pages, 553809 bytes).
+Output written on main.pdf (11 pages, 554610 bytes).
 PDF statistics:
  217 PDF objects out of 1000 (max. 8388607)
  168 compressed objects within 2 object streams
  91 named destinations out of 1000 (max. 500000)
- 111662 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 113710 words of extra memory for PDF output out of 128383 (max. 10000000)
 

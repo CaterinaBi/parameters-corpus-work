@@ -1,12 +1,13 @@
 # Fdb version 3
 ["bibtex main"] 0 "main.aux" "main.bbl" "main" 0
+  "linquiry2.bst" 0 -1 0 ""
   "main.aux" 0 -1 0 "pdflatex"
   "sample.bib" 1668242673 5982 16dc12f758ea659b088f139b66d27b33 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1668619756 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" "main.pdf" "main" 1668619756
-  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" 1668619755 31316 3737581402e05e3da4e776216c691c41 ""
+["pdflatex"] 1668621720 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" "main.pdf" "main" 1668621720
+  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" 1668621719 32081 140bc160fe0927d4200a72941cf08df7 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -23,6 +24,7 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm" 1136768653 1352 fa28a7e6d323c65ce7d13d5342ff6be2 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm" 1136768653 4408 25b74d011a4c66b7f212c0cc3c90061b ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm" 1136768653 6672 e3ab9e37e925f3045c9005e6d1473d56 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmrc8t.tfm" 1136768653 16648 7e91c60ebf91b9c60e16ef52b3070f9c ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm" 1136768653 2288 f478fc8fed18759effb59f3dad7f3084 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm" 1136768653 4640 532ca3305aad10cc01d769f3f91f1029 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/zptmcm7m.tfm" 1136768653 2232 db256afffc8202da192b4641df14d602 ""
@@ -52,6 +54,7 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf" 1136768653 2340 df9c920cc5688ebbf16a93f45ce7bdd3 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf" 1136768653 3556 8a9a6dcbcd146ef985683f677f4758a6 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf" 1136768653 2348 91706c542228501c410c266421fbe30c ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/vf/adobe/times/ptmrc8t.vf" 1136768653 3608 78e4c999d9e69f03f448158d01821741 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/vf/adobe/times/zptmcm7m.vf" 1136768653 1132 27520247d3fe18d4266a226b461885c2 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/vf/adobe/times/zptmcm7t.vf" 1136768653 1108 d271d6f9de4122c3f8d3b65666167fac ""
   "/usr/local/texlive/2022/texmf-dist/fonts/vf/adobe/times/zptmcm7y.vf" 1136768653 964 5673178ff30617b900214de28ab32b38 ""
@@ -185,11 +188,11 @@
   "jabbrv-ltwa-all.ldf" 1668240228 49106 b16f6a6b5ad3d4d1b6470ae6d7b13193 ""
   "jabbrv-ltwa-en.ldf" 1668240228 268656 eecf96eceaf960e3e748eee920427c1d ""
   "jabbrv.sty" 1668240228 15480 2106da179daf9d5a102407956ba23e0c ""
-  "main.aux" 1668619756 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.aux" 1668621720 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
   "main.out" 0 -1 0 "pdflatex"
-  "main.tex" 1668619755 31316 3737581402e05e3da4e776216c691c41 ""
-  "wlscirep.cls" 1668509188 5887 21b26e0b0481f49cdcbb9c1eaae2f0bf ""
+  "main.tex" 1668621719 32081 140bc160fe0927d4200a72941cf08df7 ""
+  "wlscirep.cls" 1668620418 5886 b8cc1ab8888a7a6fa5dfc7fa622f6837 ""
   (generated)
   "main.aux"
   "main.log"
