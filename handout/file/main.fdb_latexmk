@@ -5,8 +5,8 @@
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1668611535 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" "main.pdf" "main" 1668611535
-  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" 1668611534 28515 e8e40ddf1f2a914777aa9dd203b0d4fd ""
+["pdflatex"] 1668617079 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" "main.pdf" "main" 1668617079
+  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" 1668617079 30522 73c0b34651295e35003039461df713fa ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -175,10 +175,10 @@
   "jabbrv-ltwa-all.ldf" 1668240228 49106 b16f6a6b5ad3d4d1b6470ae6d7b13193 ""
   "jabbrv-ltwa-en.ldf" 1668240228 268656 eecf96eceaf960e3e748eee920427c1d ""
   "jabbrv.sty" 1668240228 15480 2106da179daf9d5a102407956ba23e0c ""
-  "main.aux" 1668611535 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.aux" 1668617079 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
   "main.out" 0 -1 0 "pdflatex"
-  "main.tex" 1668611534 28515 e8e40ddf1f2a914777aa9dd203b0d4fd ""
+  "main.tex" 1668617079 30522 73c0b34651295e35003039461df713fa ""
   "wlscirep.cls" 1668509188 5887 21b26e0b0481f49cdcbb9c1eaae2f0bf ""
   (generated)
   "main.aux"
