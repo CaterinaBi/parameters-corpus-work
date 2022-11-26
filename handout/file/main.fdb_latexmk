@@ -1,13 +1,13 @@
 # Fdb version 3
 ["bibtex main"] 0 "main.aux" "main.bbl" "main" 0
-  "linquiry2.bst" 0 -1 0 ""
+  "/usr/local/texlive/2022/texmf-dist/bibtex/bst/natbib/plainnat.bst" 1233624470 26816 ffe5423d2019860bad9f54bc402fac15 ""
   "main.aux" 0 -1 0 "pdflatex"
   "sample.bib" 1668242673 5982 16dc12f758ea659b088f139b66d27b33 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1668623268 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" "main.pdf" "main" 1668623268
-  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" 1668623268 32161 f2bcc405ddb5ec362bb1699292acee39 ""
+["pdflatex"] 1668632107 "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" "main.pdf" "main" 1668632107
+  "/Users/caterinabonan/Desktop/GitHubRepos/parameters-corpus-work/handout/file/main.tex" 1668632106 32765 431ba00db24852f3dbd5871da65d9839 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -105,7 +105,6 @@
   "/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption.sty" 1647548653 54291 b8e5c600d4aa37b48a740dd2a6c26163 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty" 1647548653 71241 d2cd3a1c5acef9cb31f945b93c0bb6e3 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/caption/subcaption.sty" 1645391520 11546 6c5257d230d8c5626812b45bc2f31212 ""
-  "/usr/local/texlive/2022/texmf-dist/tex/latex/cite/cite.sty" 1425427964 26218 19edeff8cdc2bcb704e8051dc55eb5a7 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/collectbox/collectbox.sty" 1337644648 9116 495d44b5a3e7be0c46c5d1f053f457f0 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty" 1561238569 51697 f8f08183cd2080d9d18a41432d651dfb ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1579991033 13886 d1306dcf79a944f6988e688c1785f9ce ""
@@ -188,11 +187,11 @@
   "jabbrv-ltwa-all.ldf" 1668240228 49106 b16f6a6b5ad3d4d1b6470ae6d7b13193 ""
   "jabbrv-ltwa-en.ldf" 1668240228 268656 eecf96eceaf960e3e748eee920427c1d ""
   "jabbrv.sty" 1668240228 15480 2106da179daf9d5a102407956ba23e0c ""
-  "main.aux" 1668623268 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.aux" 1668632107 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
   "main.out" 0 -1 0 "pdflatex"
-  "main.tex" 1668623268 32161 f2bcc405ddb5ec362bb1699292acee39 ""
-  "wlscirep.cls" 1668620418 5886 b8cc1ab8888a7a6fa5dfc7fa622f6837 ""
+  "main.tex" 1668632106 32765 431ba00db24852f3dbd5871da65d9839 ""
+  "wlscirep.cls" 1668631293 5888 bc9951cedc0ee38556e40f47de603c80 ""
   (generated)
   "main.aux"
   "main.log"
